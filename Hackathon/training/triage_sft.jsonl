@@ -1,0 +1,340 @@
+{"instruction": "Classify the user message.", "input": "What is the storage temperature for SKU-013?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the storage temperature for SKU-027?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the storage temperature for SKU-026?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the storage temperature for SKU-002?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the storage temperature for SKU-007?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the storage temperature for SKU-030?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the storage temperature for SKU-011?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the storage temperature for SKU-029?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the storage temperature for SKU-021?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the storage temperature for SKU-026?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the storage temperature for SKU-013?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the storage temperature for SKU-002?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the storage temperature for SKU-026?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the storage temperature for SKU-007?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What does the SOP say about record retention?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What does the SOP say about deviation management?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What does the SOP say about quarantine?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What does the SOP say about GMP training?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What does the SOP say about deviation management?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What does the SOP say about GMP training?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What does the SOP say about incident escalation?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What does the SOP say about quarantine?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What does the SOP say about cold-chain excursions?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What does the SOP say about change control?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What does the SOP say about incident escalation?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What does the SOP say about recalls?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What does the SOP say about supplier audits?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What does the SOP say about supplier audits?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Explain the procedure for GMP training.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Explain the procedure for GMP training.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Explain the procedure for record retention.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Explain the procedure for batch safety verification.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Explain the procedure for hazmat storage.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Explain the procedure for record retention.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Explain the procedure for lot release.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Explain the procedure for supplier audits.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Explain the procedure for cold-chain excursions.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Explain the procedure for change control.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Explain the procedure for hazmat storage.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Explain the procedure for cold-chain excursions.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Explain the procedure for record retention.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Explain the procedure for cold-chain excursions.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Summarize the policy on GMP training.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Summarize the policy on lot release.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Summarize the policy on change control.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Summarize the policy on receiving inspection.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Summarize the policy on purchase approvals.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Summarize the policy on receiving inspection.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Summarize the policy on incident escalation.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Summarize the policy on deviation management.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Summarize the policy on deviation management.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Summarize the policy on GMP training.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Summarize the policy on change control.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Summarize the policy on lot release.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Summarize the policy on deviation management.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Summarize the policy on record retention.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "How long must cold-chain excursions be done within?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "How long must lot release be done within?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "How long must lot release be done within?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "How long must cold-chain excursions be done within?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "How long must quarantine be done within?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "How long must change control be done within?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "How long must lot release be done within?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "How long must hazmat storage be done within?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "How long must deviation management be done within?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "How long must quarantine be done within?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "How long must batch safety verification be done within?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "How long must cold-chain excursions be done within?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "How long must batch safety verification be done within?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "How long must record retention be done within?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Which supplier provides SKU-025?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Which supplier provides SKU-001?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Which supplier provides SKU-020?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Which supplier provides SKU-012?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Which supplier provides SKU-012?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Which supplier provides SKU-002?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Which supplier provides SKU-002?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Which supplier provides SKU-021?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Which supplier provides SKU-001?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Which supplier provides SKU-014?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Which supplier provides SKU-006?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Which supplier provides SKU-003?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Which supplier provides SKU-026?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Which supplier provides SKU-016?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the shelf life of SKU-004?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the shelf life of SKU-022?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the shelf life of SKU-021?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the shelf life of SKU-021?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the shelf life of SKU-023?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the shelf life of SKU-010?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the shelf life of SKU-014?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the shelf life of SKU-024?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the shelf life of SKU-012?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the shelf life of SKU-001?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the shelf life of SKU-026?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the shelf life of SKU-007?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the shelf life of SKU-013?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the shelf life of SKU-014?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Tell me the requirements for batch safety verification.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Tell me the requirements for record retention.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Tell me the requirements for change control.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Tell me the requirements for supplier audits.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Tell me the requirements for purchase approvals.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Tell me the requirements for incident escalation.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Tell me the requirements for cold-chain excursions.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Tell me the requirements for hazmat storage.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Tell me the requirements for supplier audits.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Tell me the requirements for deviation management.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Tell me the requirements for supplier audits.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Tell me the requirements for cold-chain excursions.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Tell me the requirements for incident escalation.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Tell me the requirements for incident escalation.", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the audit frequency for the supplier of SKU-010?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the audit frequency for the supplier of SKU-002?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the audit frequency for the supplier of SKU-002?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the audit frequency for the supplier of SKU-021?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the audit frequency for the supplier of SKU-029?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the audit frequency for the supplier of SKU-023?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the audit frequency for the supplier of SKU-006?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the audit frequency for the supplier of SKU-028?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the audit frequency for the supplier of SKU-013?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the audit frequency for the supplier of SKU-007?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the audit frequency for the supplier of SKU-006?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the audit frequency for the supplier of SKU-002?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the audit frequency for the supplier of SKU-006?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "What is the audit frequency for the supplier of SKU-004?", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Verify batch LOT-73549 safety protocol and return triage status", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Verify batch LOT-16215 safety protocol and return triage status", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Verify batch LOT-22186 safety protocol and return triage status", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Verify batch LOT-87089 safety protocol and return triage status", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Verify batch LOT-29272 safety protocol and return triage status", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Verify batch LOT-96040 safety protocol and return triage status", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Verify batch LOT-04181 safety protocol and return triage status", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Verify batch LOT-40872 safety protocol and return triage status", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Verify batch LOT-68787 safety protocol and return triage status", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Verify batch LOT-24131 safety protocol and return triage status", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Verify batch LOT-41183 safety protocol and return triage status", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Verify batch LOT-07395 safety protocol and return triage status", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Verify batch LOT-61292 safety protocol and return triage status", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Verify batch LOT-07125 safety protocol and return triage status", "output": "{\"route\": \"HYBRID_RAG\"}"}
+{"instruction": "Classify the user message.", "input": "Put LOT-77962 on hold because of a failed seal check", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Put LOT-22186 on hold because of a failed seal check", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Put LOT-93043 on hold because of a failed seal check", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Put LOT-10403 on hold because of a failed seal check", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Put LOT-36675 on hold because of a failed seal check", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Put LOT-68787 on hold because of a failed seal check", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Put LOT-21710 on hold because of a failed seal check", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Put LOT-87202 on hold because of a failed seal check", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Put LOT-19187 on hold because of a failed seal check", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Put LOT-10403 on hold because of a failed seal check", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Put LOT-04181 on hold because of a failed seal check", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Put LOT-10403 on hold because of a failed seal check", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Put LOT-24316 on hold because of a failed seal check", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Put LOT-04181 on hold because of a failed seal check", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Release batch LOT-24552", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Release batch LOT-73549", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Release batch LOT-79967", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Release batch LOT-38658", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Release batch LOT-18601", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Release batch LOT-73549", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Release batch LOT-87202", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Release batch LOT-51572", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Release batch LOT-24994", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Release batch LOT-49627", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Release batch LOT-40872", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Release batch LOT-68787", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Release batch LOT-54661", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Release batch LOT-41183", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Update the status of LOT-57991 to QUARANTINE", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Update the status of LOT-96040 to QUARANTINE", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Update the status of LOT-14282 to QUARANTINE", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Update the status of LOT-51572 to QUARANTINE", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Update the status of LOT-96040 to QUARANTINE", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Update the status of LOT-07125 to QUARANTINE", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Update the status of LOT-03098 to QUARANTINE", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Update the status of LOT-49006 to QUARANTINE", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Update the status of LOT-61292 to QUARANTINE", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Update the status of LOT-54661 to QUARANTINE", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Update the status of LOT-54446 to QUARANTINE", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Update the status of LOT-93043 to QUARANTINE", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Update the status of LOT-54446 to QUARANTINE", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Update the status of LOT-43477 to QUARANTINE", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Submit a deviation form for LOT-87089", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Submit a deviation form for LOT-24131", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Submit a deviation form for LOT-00377", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Submit a deviation form for LOT-18601", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Submit a deviation form for LOT-77962", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Submit a deviation form for LOT-99459", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Submit a deviation form for LOT-19187", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Submit a deviation form for LOT-96040", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Submit a deviation form for LOT-51554", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Submit a deviation form for LOT-93328", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Submit a deviation form for LOT-21710", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Submit a deviation form for LOT-96040", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Submit a deviation form for LOT-27912", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Submit a deviation form for LOT-51554", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "What is the current status of LOT-07125?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "What is the current status of LOT-93328?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "What is the current status of LOT-68787?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "What is the current status of LOT-58936?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "What is the current status of LOT-87089?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "What is the current status of LOT-16215?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "What is the current status of LOT-40872?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "What is the current status of LOT-46068?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "What is the current status of LOT-07395?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "What is the current status of LOT-96040?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "What is the current status of LOT-27912?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "What is the current status of LOT-24552?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "What is the current status of LOT-07125?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "What is the current status of LOT-49006?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many units are in stock for SKU-023?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many units are in stock for SKU-009?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many units are in stock for SKU-016?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many units are in stock for SKU-020?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many units are in stock for SKU-017?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many units are in stock for SKU-030?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many units are in stock for SKU-029?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many units are in stock for SKU-025?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many units are in stock for SKU-027?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many units are in stock for SKU-004?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many units are in stock for SKU-018?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many units are in stock for SKU-023?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many units are in stock for SKU-017?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many units are in stock for SKU-028?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many days until LOT-49006 expires?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many days until LOT-38658 expires?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many days until LOT-10586 expires?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many days until LOT-06795 expires?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many days until LOT-96040 expires?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many days until LOT-07395 expires?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many days until LOT-22186 expires?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many days until LOT-43477 expires?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many days until LOT-04181 expires?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many days until LOT-03098 expires?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many days until LOT-81737 expires?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many days until LOT-58936 expires?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many days until LOT-04181 expires?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "How many days until LOT-93043 expires?", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Validate this release form for LOT-24552", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Validate this release form for LOT-57991", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Validate this release form for LOT-51572", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Validate this release form for LOT-96040", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Validate this release form for LOT-63577", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Validate this release form for LOT-64981", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Validate this release form for LOT-04181", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Validate this release form for LOT-40872", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Validate this release form for LOT-51572", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Validate this release form for LOT-93043", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Validate this release form for LOT-10586", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Validate this release form for LOT-36675", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Validate this release form for LOT-78136", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Validate this release form for LOT-40872", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Mark LOT-10586 as SCRAP due to contamination", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Mark LOT-00377 as SCRAP due to contamination", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Mark LOT-03098 as SCRAP due to contamination", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Mark LOT-95077 as SCRAP due to contamination", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Mark LOT-95077 as SCRAP due to contamination", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Mark LOT-99677 as SCRAP due to contamination", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Mark LOT-10256 as SCRAP due to contamination", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Mark LOT-07125 as SCRAP due to contamination", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Mark LOT-54446 as SCRAP due to contamination", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Mark LOT-93328 as SCRAP due to contamination", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Mark LOT-79967 as SCRAP due to contamination", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Mark LOT-54661 as SCRAP due to contamination", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Mark LOT-46068 as SCRAP due to contamination", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Mark LOT-79967 as SCRAP due to contamination", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Check the stock level of SKU-027", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Check the stock level of SKU-011", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Check the stock level of SKU-017", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Check the stock level of SKU-021", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Check the stock level of SKU-022", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Check the stock level of SKU-003", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Check the stock level of SKU-009", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Check the stock level of SKU-019", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Check the stock level of SKU-008", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Check the stock level of SKU-015", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Check the stock level of SKU-005", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Check the stock level of SKU-013", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Check the stock level of SKU-006", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Check the stock level of SKU-023", "output": "{\"route\": \"TRANSACTION_EXEC\"}"}
+{"instruction": "Classify the user message.", "input": "Hello", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Hello", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Hello", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Hi there", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Hi there", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Hi there", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Thanks!", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Thanks!", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Thanks!", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Thank you so much", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Thank you so much", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Thank you so much", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "What can you do?", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "What can you do?", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "What can you do?", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Help", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Help", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Help", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Good morning", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Good morning", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Good morning", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Who are you?", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Who are you?", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Who are you?", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "What are your capabilities?", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "What are your capabilities?", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "What are your capabilities?", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Goodbye", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Goodbye", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Goodbye", "output": "{\"route\": \"DIRECT_ANSWER\"}"}
+{"instruction": "Classify the user message.", "input": "Write me a poem about the sea", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Write me a poem about the sea", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Write me a poem about the sea", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Who won the world cup?", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Who won the world cup?", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Who won the world cup?", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "What's the weather tomorrow?", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "What's the weather tomorrow?", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "What's the weather tomorrow?", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Give me a recipe for lasagna", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Give me a recipe for lasagna", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Give me a recipe for lasagna", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Tell me a joke", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Tell me a joke", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Tell me a joke", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Translate this sentence into French", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Translate this sentence into French", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Translate this sentence into French", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Write a Python script to sort a list", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Write a Python script to sort a list", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Write a Python script to sort a list", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "What is the capital of Australia?", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "What is the capital of Australia?", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "What is the capital of Australia?", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Recommend a movie for tonight", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Recommend a movie for tonight", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Recommend a movie for tonight", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Solve 234 * 17", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Solve 234 * 17", "output": "{\"route\": \"REJECT_OOS\"}"}
+{"instruction": "Classify the user message.", "input": "Solve 234 * 17", "output": "{\"route\": \"REJECT_OOS\"}"}

@@ -1,0 +1,33 @@
+# Runtime (pinned to the versions verified on Python 3.14 in .venv; spec asks for 3.11 — see docs/GAPS_AND_ASSUMPTIONS.md G-04)
+fastapi==0.165.0
+uvicorn==0.54.0
+pydantic==2.14.4
+httpx==0.28.1
+anyio==4.16.0
+mcp==2.3.0                # Model Context Protocol SDK (JSON-RPC 2.0; stdio + streamable-http)
+pluggy==1.7.0             # lifecycle plugin hook registry
+rank-bm25==0.2.2          # Stage 1 BM25Okapi
+nltk==3.10.4              # PorterStemmer
+numpy==2.5.5
+faiss-cpu==1.16.0         # Stage 2 HNSW
+onnxruntime==1.32.0       # ONNX inference
+fastembed==0.9.1          # ONNX bi-encoder (bge) + cross-encoder (bge-reranker / MiniLM)
+scikit-learn==1.9.1       # distilled triage classifier
+redis==8.1.0              # Redis semantic cache (optional, REDIS_URL)
+fakeredis==2.40.0         # Redis-compatible in-process fallback
+opentelemetry-api==1.45.2
+opentelemetry-sdk==1.45.2
+PyYAML==6.0.4
+networkx==3.7             # graphify graph
+psutil==7.2.2               # RSS tracking for soak KPI
+# Workbench / diagrams / eval
+streamlit==1.67.0
+pandas==3.1.1
+matplotlib==3.11.2
+graphviz==0.21            # python DOT builder (rendered via dot binary or Graphviz-WASM fallback, see scripts/render_workflow.py)
+CairoSVG==2.9.1           # SVG -> 300 DPI PNG
+# Test
+pytest==9.2.0
+pytest-asyncio==1.5.0
+uv==0.13.9
+onnx==1.23.2           # INT8 dynamic quantization of the reranker (ADR-2)

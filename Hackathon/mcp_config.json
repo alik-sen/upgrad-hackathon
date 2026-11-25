@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "hybrid-rag": {"command": "python", "args": ["mcp_servers/rag_server.py"], "transport": "stdio", "timeout_ms": 150, "pool_size": 64,
+                   "tools": ["hybrid_retrieve", "embed_query"], "resources": ["rag://chunks/{chunk_id}"]},
+    "state-store": {"url": "http://127.0.0.1:8081/mcp", "transport": "streamable-http", "timeout_ms": 150, "pool_size": 200,
+                    "tools": ["lookup_sku", "lookup_lot", "compute_shelf_life", "validate_form", "update_lot_status", "release_batch", "submit_form",
+                              "put_fact", "get_facts", "append_audit_batch", "list_hitl", "decide_hitl", "verify_chain"]},
+    "graphify-vault": {"command": "python", "args": ["mcp_servers/graphify_server.py"], "transport": "stdio", "timeout_ms": 150,
+                       "tools": ["expand_subgraph", "graph_stats"]}
+  },
+  "plugins": [
+    {"name": "pii_redactor", "stage": "PRE_EXECUTION", "priority": 10, "fail_closed": true},
+    {"name": "injection_shield", "stage": "PRE_EXECUTION", "priority": 20, "fail_closed": true},
+    {"name": "circuit_breaker", "stage": "TOOL_DISPATCH", "priority": 10, "max_identical_calls": 2},
+    {"name": "hitl_gate", "stage": "TOOL_DISPATCH", "priority": 50, "fail_closed": true},
+    {"name": "ragas_auditor", "stage": "POST_EXECUTION", "priority": 10, "min_faithfulness": 0.92},
+    {"name": "otel_exporter", "stage": "ALL_SPANS", "priority": 99, "endpoint": "http://localhost:4317"}
+  ]
+}
