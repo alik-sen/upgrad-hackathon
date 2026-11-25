@@ -1,0 +1,17 @@
+# environments & caches (rebuilt on first run; see README / docs)
+.venv/
+.cache/
+.pytest_cache/
+__pycache__/
+*.pyc
+
+# local run artefacts
+jmeter.log
+reports/spans.jsonl
+reports/jmeter.jtl
+node_modules/
+.DS_Store
+
+# secrets
+.env
+*.pem
