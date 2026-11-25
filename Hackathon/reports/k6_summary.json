@@ -1,0 +1,16 @@
+{
+ "vus_max": 30,
+ "p50": 2.456379,
+ "p95": 3.5012535999999996,
+ "p99": 7.652226079999966,
+ "avg": 4.743617909724171,
+ "max": 322.882719,
+ "fail_rate": 0,
+ "rps": 19.838241815388763,
+ "requests": 3589,
+ "checks_rate": 1,
+ "mix": "spec",
+ "think_s": 1,
+ "time_scale": 0.25,
+ "note": "k6 spec mix, peak 30 VUs, think 1s, time scale 0.25"
+}

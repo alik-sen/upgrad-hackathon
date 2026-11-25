@@ -1,0 +1,11 @@
+{
+ "samples": 701,
+ "p50": 3,
+ "p95": 5,
+ "p99": 9,
+ "max": 71,
+ "error_rate": 0.0,
+ "rps": 18.23431484757049,
+ "threads_max": 19,
+ "failure_messages": []
+}

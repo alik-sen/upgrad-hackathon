@@ -1,0 +1,28 @@
+{
+ "faithfulness": 0.8310502283105022,
+ "answer_relevancy": 0.8382642998027613,
+ "context_precision": 0.8975298206067436,
+ "context_recall": 0.9329388560157791,
+ "entity_recall": 0.9723865877712032,
+ "abstention_accuracy": 1.0,
+ "neg_n": 29,
+ "hallucination_rate": 0.19760479041916168,
+ "mean_steps": 1.698224852071006,
+ "answerable_n": 169,
+ "answered_n": 146,
+ "relevancy_by_stratum": {
+  "multihop": 0.525,
+  "factoid": 1.0,
+  "complex": 0.873,
+  "summary": 0.933
+ },
+ "llm_judge_calls": 64.0,
+ "status_counts": {
+  "status.OK": 146.0,
+  "status.VETOED": 22.0,
+  "status.REJECTED_OOS": 6.0,
+  "status.ABSTAINED": 24.0
+ },
+ "e2e_p50_ms": 2069.048285000008,
+ "e2e_p95_ms": 6546.006376599986
+}

@@ -1,0 +1,16 @@
+{
+ "vus_max": 8,
+ "p50": 680.481605,
+ "p95": 1143.1898135999998,
+ "p99": 1195.60254188,
+ "avg": 603.711006305154,
+ "max": 1276.392603,
+ "fail_rate": 0,
+ "rps": 3.351673066415846,
+ "requests": 485,
+ "checks_rate": 0.8164948453608247,
+ "mix": "diverse",
+ "think_s": 1,
+ "time_scale": 0.2,
+ "note": "k6 diverse mix, peak 8 VUs, think 1s, time scale 0.2"
+}
