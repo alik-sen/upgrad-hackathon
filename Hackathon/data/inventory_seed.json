@@ -1,0 +1,740 @@
+{
+ "skus": {
+  "SKU-001": {
+   "sku": "SKU-001",
+   "name": "Recombinant Albumin 5% Solution",
+   "storage": "2-8\u00b0C",
+   "shelf_life_days": 365,
+   "hazard_class": "Class 0 (non-hazardous)",
+   "supplier_id": "SUP-02",
+   "stock": 493,
+   "reorder": 350
+  },
+  "SKU-002": {
+   "sku": "SKU-002",
+   "name": "Monoclonal Antibody Vial",
+   "storage": "2-8\u00b0C",
+   "shelf_life_days": 1095,
+   "hazard_class": "Class 0 (non-hazardous)",
+   "supplier_id": "SUP-01",
+   "stock": 420,
+   "reorder": 40
+  },
+  "SKU-003": {
+   "sku": "SKU-003",
+   "name": "Insulin Glargine Cartridge",
+   "storage": "2-8\u00b0C",
+   "shelf_life_days": 730,
+   "hazard_class": "Class 0 (non-hazardous)",
+   "supplier_id": "SUP-01",
+   "stock": 686,
+   "reorder": 200
+  },
+  "SKU-004": {
+   "sku": "SKU-004",
+   "name": "Vaccine Adjuvant Emulsion",
+   "storage": "2-8\u00b0C",
+   "shelf_life_days": 730,
+   "hazard_class": "Class 0 (non-hazardous)",
+   "supplier_id": "SUP-01",
+   "stock": 722,
+   "reorder": 80
+  },
+  "SKU-005": {
+   "sku": "SKU-005",
+   "name": "Plasma Protein Fraction",
+   "storage": "2-8\u00b0C",
+   "shelf_life_days": 180,
+   "hazard_class": "Class 0 (non-hazardous)",
+   "supplier_id": "SUP-01",
+   "stock": 144,
+   "reorder": 350
+  },
+  "SKU-006": {
+   "sku": "SKU-006",
+   "name": "Enzyme Reagent Kit",
+   "storage": "2-8\u00b0C",
+   "shelf_life_days": 540,
+   "hazard_class": "Class 0 (non-hazardous)",
+   "supplier_id": "SUP-01",
+   "stock": 401,
+   "reorder": 80
+  },
+  "SKU-007": {
+   "sku": "SKU-007",
+   "name": "Hyaluronidase Vial",
+   "storage": "2-8\u00b0C",
+   "shelf_life_days": 180,
+   "hazard_class": "Class 0 (non-hazardous)",
+   "supplier_id": "SUP-05",
+   "stock": 12,
+   "reorder": 350
+  },
+  "SKU-008": {
+   "sku": "SKU-008",
+   "name": "Growth Factor Concentrate",
+   "storage": "2-8\u00b0C",
+   "shelf_life_days": 180,
+   "hazard_class": "Class 0 (non-hazardous)",
+   "supplier_id": "SUP-05",
+   "stock": 586,
+   "reorder": 40
+  },
+  "SKU-009": {
+   "sku": "SKU-009",
+   "name": "Microcrystalline Cellulose",
+   "storage": "15-25\u00b0C",
+   "shelf_life_days": 270,
+   "hazard_class": "Class 0 (non-hazardous)",
+   "supplier_id": "SUP-06",
+   "stock": 66,
+   "reorder": 20
+  },
+  "SKU-010": {
+   "sku": "SKU-010",
+   "name": "Lactose Monohydrate",
+   "storage": "15-25\u00b0C",
+   "shelf_life_days": 730,
+   "hazard_class": "Class 0 (non-hazardous)",
+   "supplier_id": "SUP-05",
+   "stock": 863,
+   "reorder": 350
+  },
+  "SKU-011": {
+   "sku": "SKU-011",
+   "name": "Magnesium Stearate",
+   "storage": "15-25\u00b0C",
+   "shelf_life_days": 180,
+   "hazard_class": "Class 0 (non-hazardous)",
+   "supplier_id": "SUP-02",
+   "stock": 814,
+   "reorder": 20
+  },
+  "SKU-012": {
+   "sku": "SKU-012",
+   "name": "Sodium Chloride USP",
+   "storage": "15-25\u00b0C",
+   "shelf_life_days": 730,
+   "hazard_class": "Class 0 (non-hazardous)",
+   "supplier_id": "SUP-02",
+   "stock": 719,
+   "reorder": 120
+  },
+  "SKU-013": {
+   "sku": "SKU-013",
+   "name": "Povidone K30",
+   "storage": "15-25\u00b0C",
+   "shelf_life_days": 540,
+   "hazard_class": "Class 0 (non-hazardous)",
+   "supplier_id": "SUP-02",
+   "stock": 174,
+   "reorder": 40
+  },
+  "SKU-014": {
+   "sku": "SKU-014",
+   "name": "Croscarmellose Sodium",
+   "storage": "15-25\u00b0C",
+   "shelf_life_days": 730,
+   "hazard_class": "Class 0 (non-hazardous)",
+   "supplier_id": "SUP-03",
+   "stock": 157,
+   "reorder": 60
+  },
+  "SKU-015": {
+   "sku": "SKU-015",
+   "name": "Talc Powder",
+   "storage": "15-25\u00b0C",
+   "shelf_life_days": 180,
+   "hazard_class": "Class 0 (non-hazardous)",
+   "supplier_id": "SUP-05",
+   "stock": 717,
+   "reorder": 80
+  },
+  "SKU-016": {
+   "sku": "SKU-016",
+   "name": "Silicon Dioxide",
+   "storage": "15-25\u00b0C",
+   "shelf_life_days": 365,
+   "hazard_class": "Class 0 (non-hazardous)",
+   "supplier_id": "SUP-01",
+   "stock": 338,
+   "reorder": 40
+  },
+  "SKU-017": {
+   "sku": "SKU-017",
+   "name": "Isopropyl Alcohol 99%",
+   "storage": "15-25\u00b0C inside a flammable-rated cabinet",
+   "shelf_life_days": 730,
+   "hazard_class": "Class 3 (flammable liquid)",
+   "supplier_id": "SUP-01",
+   "stock": 389,
+   "reorder": 80
+  },
+  "SKU-018": {
+   "sku": "SKU-018",
+   "name": "Acetonitrile HPLC Grade",
+   "storage": "15-25\u00b0C inside a flammable-rated cabinet",
+   "shelf_life_days": 540,
+   "hazard_class": "Class 3 (flammable liquid)",
+   "supplier_id": "SUP-06",
+   "stock": 315,
+   "reorder": 350
+  },
+  "SKU-019": {
+   "sku": "SKU-019",
+   "name": "Ethanol Absolute",
+   "storage": "15-25\u00b0C inside a flammable-rated cabinet",
+   "shelf_life_days": 365,
+   "hazard_class": "Class 3 (flammable liquid)",
+   "supplier_id": "SUP-04",
+   "stock": 806,
+   "reorder": 500
+  },
+  "SKU-020": {
+   "sku": "SKU-020",
+   "name": "Methanol ACS",
+   "storage": "15-25\u00b0C inside a flammable-rated cabinet",
+   "shelf_life_days": 365,
+   "hazard_class": "Class 3 (flammable liquid)",
+   "supplier_id": "SUP-03",
+   "stock": 142,
+   "reorder": 80
+  },
+  "SKU-021": {
+   "sku": "SKU-021",
+   "name": "Acetone Technical",
+   "storage": "15-25\u00b0C inside a flammable-rated cabinet",
+   "shelf_life_days": 270,
+   "hazard_class": "Class 3 (flammable liquid)",
+   "supplier_id": "SUP-06",
+   "stock": 422,
+   "reorder": 80
+  },
+  "SKU-022": {
+   "sku": "SKU-022",
+   "name": "Hydrochloric Acid 37%",
+   "storage": "15-25\u00b0C inside a corrosives cabinet",
+   "shelf_life_days": 180,
+   "hazard_class": "Class 8 (corrosive)",
+   "supplier_id": "SUP-05",
+   "stock": 472,
+   "reorder": 120
+  },
+  "SKU-023": {
+   "sku": "SKU-023",
+   "name": "Sodium Hydroxide 50%",
+   "storage": "15-25\u00b0C inside a corrosives cabinet",
+   "shelf_life_days": 730,
+   "hazard_class": "Class 8 (corrosive)",
+   "supplier_id": "SUP-04",
+   "stock": 731,
+   "reorder": 200
+  },
+  "SKU-024": {
+   "sku": "SKU-024",
+   "name": "Sulfuric Acid 96%",
+   "storage": "15-25\u00b0C inside a corrosives cabinet",
+   "shelf_life_days": 1095,
+   "hazard_class": "Class 8 (corrosive)",
+   "supplier_id": "SUP-04",
+   "stock": 742,
+   "reorder": 120
+  },
+  "SKU-025": {
+   "sku": "SKU-025",
+   "name": "Phosphoric Acid 85%",
+   "storage": "15-25\u00b0C inside a corrosives cabinet",
+   "shelf_life_days": 730,
+   "hazard_class": "Class 8 (corrosive)",
+   "supplier_id": "SUP-01",
+   "stock": 87,
+   "reorder": 40
+  },
+  "SKU-026": {
+   "sku": "SKU-026",
+   "name": "Nitric Acid 65%",
+   "storage": "15-25\u00b0C inside a corrosives cabinet",
+   "shelf_life_days": 730,
+   "hazard_class": "Class 8 (corrosive)",
+   "supplier_id": "SUP-04",
+   "stock": 42,
+   "reorder": 60
+  },
+  "SKU-027": {
+   "sku": "SKU-027",
+   "name": "Sterile Syringe 10 mL",
+   "storage": "15-30\u00b0C in sealed packaging",
+   "shelf_life_days": 365,
+   "hazard_class": "Class 0 (non-hazardous)",
+   "supplier_id": "SUP-02",
+   "stock": 230,
+   "reorder": 500
+  },
+  "SKU-028": {
+   "sku": "SKU-028",
+   "name": "IV Catheter 20G",
+   "storage": "15-30\u00b0C in sealed packaging",
+   "shelf_life_days": 540,
+   "hazard_class": "Class 0 (non-hazardous)",
+   "supplier_id": "SUP-01",
+   "stock": 546,
+   "reorder": 40
+  },
+  "SKU-029": {
+   "sku": "SKU-029",
+   "name": "Sterile Filter Unit 0.22 um",
+   "storage": "15-30\u00b0C in sealed packaging",
+   "shelf_life_days": 730,
+   "hazard_class": "Class 0 (non-hazardous)",
+   "supplier_id": "SUP-05",
+   "stock": 657,
+   "reorder": 200
+  },
+  "SKU-030": {
+   "sku": "SKU-030",
+   "name": "Infusion Set Standard",
+   "storage": "15-30\u00b0C in sealed packaging",
+   "shelf_life_days": 365,
+   "hazard_class": "Class 0 (non-hazardous)",
+   "supplier_id": "SUP-06",
+   "stock": 726,
+   "reorder": 200
+  }
+ },
+ "lots": {
+  "LOT-00001": {
+   "lot": "LOT-00001",
+   "sku": "SKU-029",
+   "status": "RELEASED",
+   "qty": 800,
+   "expiry": "2027-10-08"
+  },
+  "LOT-00002": {
+   "lot": "LOT-00002",
+   "sku": "SKU-024",
+   "status": "RELEASED",
+   "qty": 1500,
+   "expiry": "2027-03-24"
+  },
+  "LOT-00003": {
+   "lot": "LOT-00003",
+   "sku": "SKU-019",
+   "status": "RELEASED",
+   "qty": 120,
+   "expiry": "2027-07-26"
+  },
+  "LOT-00004": {
+   "lot": "LOT-00004",
+   "sku": "SKU-029",
+   "status": "RELEASED",
+   "qty": 50,
+   "expiry": "2027-01-24"
+  },
+  "LOT-00005": {
+   "lot": "LOT-00005",
+   "sku": "SKU-023",
+   "status": "RELEASED",
+   "qty": 300,
+   "expiry": "2027-06-26"
+  },
+  "LOT-00006": {
+   "lot": "LOT-00006",
+   "sku": "SKU-003",
+   "status": "RELEASED",
+   "qty": 120,
+   "expiry": "2028-01-06"
+  },
+  "LOT-00007": {
+   "lot": "LOT-00007",
+   "sku": "SKU-018",
+   "status": "RELEASED",
+   "qty": 50,
+   "expiry": "2027-11-02"
+  },
+  "LOT-00008": {
+   "lot": "LOT-00008",
+   "sku": "SKU-006",
+   "status": "RELEASED",
+   "qty": 1500,
+   "expiry": "2028-06-24"
+  },
+  "LOT-00009": {
+   "lot": "LOT-00009",
+   "sku": "SKU-022",
+   "status": "RELEASED",
+   "qty": 800,
+   "expiry": "2027-08-19"
+  },
+  "LOT-00010": {
+   "lot": "LOT-00010",
+   "sku": "SKU-003",
+   "status": "RELEASED",
+   "qty": 50,
+   "expiry": "2028-06-25"
+  },
+  "LOT-00011": {
+   "lot": "LOT-00011",
+   "sku": "SKU-029",
+   "status": "RELEASED",
+   "qty": 120,
+   "expiry": "2028-02-20"
+  },
+  "LOT-00012": {
+   "lot": "LOT-00012",
+   "sku": "SKU-019",
+   "status": "RELEASED",
+   "qty": 120,
+   "expiry": "2027-11-04"
+  },
+  "LOT-00013": {
+   "lot": "LOT-00013",
+   "sku": "SKU-014",
+   "status": "RELEASED",
+   "qty": 50,
+   "expiry": "2028-05-31"
+  },
+  "LOT-00014": {
+   "lot": "LOT-00014",
+   "sku": "SKU-010",
+   "status": "RELEASED",
+   "qty": 1500,
+   "expiry": "2028-06-11"
+  },
+  "LOT-00015": {
+   "lot": "LOT-00015",
+   "sku": "SKU-022",
+   "status": "RELEASED",
+   "qty": 300,
+   "expiry": "2027-04-05"
+  },
+  "LOT-00016": {
+   "lot": "LOT-00016",
+   "sku": "SKU-024",
+   "status": "RELEASED",
+   "qty": 300,
+   "expiry": "2028-02-07"
+  },
+  "LOT-00017": {
+   "lot": "LOT-00017",
+   "sku": "SKU-002",
+   "status": "RELEASED",
+   "qty": 300,
+   "expiry": "2028-01-07"
+  },
+  "LOT-00018": {
+   "lot": "LOT-00018",
+   "sku": "SKU-023",
+   "status": "RELEASED",
+   "qty": 300,
+   "expiry": "2028-06-21"
+  },
+  "LOT-00019": {
+   "lot": "LOT-00019",
+   "sku": "SKU-024",
+   "status": "RELEASED",
+   "qty": 300,
+   "expiry": "2027-03-07"
+  },
+  "LOT-00020": {
+   "lot": "LOT-00020",
+   "sku": "SKU-010",
+   "status": "RELEASED",
+   "qty": 50,
+   "expiry": "2028-05-19"
+  },
+  "LOT-00021": {
+   "lot": "LOT-00021",
+   "sku": "SKU-001",
+   "status": "QUARANTINE",
+   "qty": 50,
+   "expiry": "2028-09-02"
+  },
+  "LOT-00022": {
+   "lot": "LOT-00022",
+   "sku": "SKU-008",
+   "status": "RELEASED",
+   "qty": 800,
+   "expiry": "2027-02-22"
+  },
+  "LOT-00023": {
+   "lot": "LOT-00023",
+   "sku": "SKU-014",
+   "status": "RELEASED",
+   "qty": 50,
+   "expiry": "2027-06-14"
+  },
+  "LOT-00024": {
+   "lot": "LOT-00024",
+   "sku": "SKU-023",
+   "status": "QUARANTINE",
+   "qty": 800,
+   "expiry": "2026-12-30"
+  },
+  "LOT-00025": {
+   "lot": "LOT-00025",
+   "sku": "SKU-020",
+   "status": "RELEASED",
+   "qty": 300,
+   "expiry": "2028-08-09"
+  },
+  "LOT-00026": {
+   "lot": "LOT-00026",
+   "sku": "SKU-016",
+   "status": "RELEASED",
+   "qty": 120,
+   "expiry": "2028-01-15"
+  },
+  "LOT-00027": {
+   "lot": "LOT-00027",
+   "sku": "SKU-022",
+   "status": "RELEASED",
+   "qty": 800,
+   "expiry": "2028-02-04"
+  },
+  "LOT-00028": {
+   "lot": "LOT-00028",
+   "sku": "SKU-019",
+   "status": "RELEASED",
+   "qty": 800,
+   "expiry": "2027-07-03"
+  },
+  "LOT-00029": {
+   "lot": "LOT-00029",
+   "sku": "SKU-017",
+   "status": "RELEASED",
+   "qty": 50,
+   "expiry": "2027-06-25"
+  },
+  "LOT-00030": {
+   "lot": "LOT-00030",
+   "sku": "SKU-010",
+   "status": "RELEASED",
+   "qty": 300,
+   "expiry": "2027-05-29"
+  },
+  "LOT-00031": {
+   "lot": "LOT-00031",
+   "sku": "SKU-028",
+   "status": "RELEASED",
+   "qty": 300,
+   "expiry": "2027-11-03"
+  },
+  "LOT-00032": {
+   "lot": "LOT-00032",
+   "sku": "SKU-014",
+   "status": "RELEASED",
+   "qty": 50,
+   "expiry": "2027-12-21"
+  },
+  "LOT-00033": {
+   "lot": "LOT-00033",
+   "sku": "SKU-019",
+   "status": "RELEASED",
+   "qty": 300,
+   "expiry": "2027-06-27"
+  },
+  "LOT-00034": {
+   "lot": "LOT-00034",
+   "sku": "SKU-003",
+   "status": "RELEASED",
+   "qty": 800,
+   "expiry": "2028-03-29"
+  },
+  "LOT-00035": {
+   "lot": "LOT-00035",
+   "sku": "SKU-026",
+   "status": "RELEASED",
+   "qty": 300,
+   "expiry": "2027-10-09"
+  },
+  "LOT-00036": {
+   "lot": "LOT-00036",
+   "sku": "SKU-005",
+   "status": "HOLD",
+   "qty": 1500,
+   "expiry": "2027-06-16"
+  },
+  "LOT-00037": {
+   "lot": "LOT-00037",
+   "sku": "SKU-003",
+   "status": "RELEASED",
+   "qty": 120,
+   "expiry": "2028-07-29"
+  },
+  "LOT-00038": {
+   "lot": "LOT-00038",
+   "sku": "SKU-025",
+   "status": "QUARANTINE",
+   "qty": 800,
+   "expiry": "2027-11-15"
+  },
+  "LOT-00039": {
+   "lot": "LOT-00039",
+   "sku": "SKU-002",
+   "status": "HOLD",
+   "qty": 300,
+   "expiry": "2026-12-20"
+  },
+  "LOT-00040": {
+   "lot": "LOT-00040",
+   "sku": "SKU-001",
+   "status": "HOLD",
+   "qty": 120,
+   "expiry": "2027-11-28"
+  },
+  "LOT-00041": {
+   "lot": "LOT-00041",
+   "sku": "SKU-013",
+   "status": "QUARANTINE",
+   "qty": 1500,
+   "expiry": "2028-01-19"
+  },
+  "LOT-00042": {
+   "lot": "LOT-00042",
+   "sku": "SKU-006",
+   "status": "RELEASED",
+   "qty": 1500,
+   "expiry": "2026-12-17"
+  },
+  "LOT-00043": {
+   "lot": "LOT-00043",
+   "sku": "SKU-001",
+   "status": "RELEASED",
+   "qty": 50,
+   "expiry": "2027-10-29"
+  },
+  "LOT-00044": {
+   "lot": "LOT-00044",
+   "sku": "SKU-029",
+   "status": "RELEASED",
+   "qty": 240,
+   "expiry": "2027-06-11"
+  },
+  "LOT-00045": {
+   "lot": "LOT-00045",
+   "sku": "SKU-014",
+   "status": "RELEASED",
+   "qty": 120,
+   "expiry": "2026-12-07"
+  },
+  "LOT-00046": {
+   "lot": "LOT-00046",
+   "sku": "SKU-005",
+   "status": "RELEASED",
+   "qty": 50,
+   "expiry": "2027-04-23"
+  },
+  "LOT-00047": {
+   "lot": "LOT-00047",
+   "sku": "SKU-010",
+   "status": "RELEASED",
+   "qty": 1500,
+   "expiry": "2027-10-09"
+  },
+  "LOT-00048": {
+   "lot": "LOT-00048",
+   "sku": "SKU-023",
+   "status": "RELEASED",
+   "qty": 300,
+   "expiry": "2028-09-22"
+  },
+  "LOT-00049": {
+   "lot": "LOT-00049",
+   "sku": "SKU-019",
+   "status": "RELEASED",
+   "qty": 300,
+   "expiry": "2027-10-19"
+  },
+  "LOT-00050": {
+   "lot": "LOT-00050",
+   "sku": "SKU-010",
+   "status": "RELEASED",
+   "qty": 1500,
+   "expiry": "2028-05-13"
+  },
+  "LOT-00051": {
+   "lot": "LOT-00051",
+   "sku": "SKU-025",
+   "status": "RELEASED",
+   "qty": 50,
+   "expiry": "2028-05-11"
+  },
+  "LOT-00052": {
+   "lot": "LOT-00052",
+   "sku": "SKU-004",
+   "status": "RELEASED",
+   "qty": 120,
+   "expiry": "2028-06-13"
+  },
+  "LOT-00053": {
+   "lot": "LOT-00053",
+   "sku": "SKU-009",
+   "status": "RELEASED",
+   "qty": 50,
+   "expiry": "2027-07-22"
+  },
+  "LOT-00054": {
+   "lot": "LOT-00054",
+   "sku": "SKU-011",
+   "status": "RELEASED",
+   "qty": 1500,
+   "expiry": "2028-04-22"
+  },
+  "LOT-00055": {
+   "lot": "LOT-00055",
+   "sku": "SKU-009",
+   "status": "RELEASED",
+   "qty": 300,
+   "expiry": "2028-08-29"
+  },
+  "LOT-00056": {
+   "lot": "LOT-00056",
+   "sku": "SKU-008",
+   "status": "RELEASED",
+   "qty": 300,
+   "expiry": "2027-01-24"
+  },
+  "LOT-00057": {
+   "lot": "LOT-00057",
+   "sku": "SKU-011",
+   "status": "RELEASED",
+   "qty": 120,
+   "expiry": "2028-03-12"
+  },
+  "LOT-00058": {
+   "lot": "LOT-00058",
+   "sku": "SKU-027",
+   "status": "RELEASED",
+   "qty": 120,
+   "expiry": "2027-04-29"
+  },
+  "LOT-00059": {
+   "lot": "LOT-00059",
+   "sku": "SKU-017",
+   "status": "RELEASED",
+   "qty": 50,
+   "expiry": "2027-07-09"
+  },
+  "LOT-00060": {
+   "lot": "LOT-00060",
+   "sku": "SKU-004",
+   "status": "RELEASED",
+   "qty": 300,
+   "expiry": "2028-05-20"
+  },
+  "LOT-88392": {
+   "lot": "LOT-88392",
+   "sku": "SKU-015",
+   "status": "RELEASED",
+   "qty": 240,
+   "expiry": "2027-06-11"
+  },
+  "LOT-12345": {
+   "lot": "LOT-12345",
+   "sku": "SKU-027",
+   "status": "HOLD",
+   "qty": 240,
+   "expiry": "2027-06-11"
+  }
+ }
+}

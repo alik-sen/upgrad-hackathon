@@ -1,0 +1,100 @@
+digraph workflow {
+	compound=true fontname=Helvetica fontsize=20 label="The Unreliable Assistant — Enterprise Workflow Orchestration (Gate 2)" labelloc=t nodesep=0.35 rankdir=TB ranksep=0.55
+	node [fillcolor=white fontname=Helvetica fontsize=12 shape=box style="rounded,filled"]
+	edge [fontname=Helvetica fontsize=10]
+	client [label="Client / k6 / JMeter
+POST /api/v1/agent/query" fillcolor="#e8eefc" shape=oval]
+	subgraph cluster_ingress {
+		color="#c9d6f2" fillcolor="#f3f6fd" label="1. Ingress & Security Layer  (hook.pre ≤ 15 ms)" style=filled
+		ingress [label="Ingress
+(auth, tenant check)"]
+		pii [label="Pre-Exec Plugin 1
+PII Redactor (prio 10, fail-closed)" fillcolor="#fde9d9"]
+		inj [label="Pre-Exec Plugin 2
+Injection Classifier (prio 20, fail-closed)" fillcolor="#fde9d9"]
+		cache [label="Redis Semantic Cache Check
+key = SHA256(tenant:user:norm_query)" fillcolor="#fff2cc" shape=cylinder]
+		ingress -> pii
+		pii -> inj
+		inj -> cache
+	}
+	subgraph cluster_triage {
+		color="#cfe8cf" fillcolor="#f2faf2" label="2. Triage & Subagent Routing" style=filled
+		triage [label="Triage Agent
+temperature=0.0 · <30 ms (KPI ≤25 ms)
+(intent, domain, risk_tier, complexity)" fillcolor="#d9ead3"]
+		direct [label="Direct Response
+DIRECT_ANSWER / REJECT_OOS"]
+		retr [label="Retrieval Subagent
+HYBRID_RAG (read-only)"]
+		exec [label="Execution Subagent
+TRANSACTION_EXEC (no RAG/web)"]
+		audit [label="Audit / Verification Subagent
+claim↔chunk NLI, veto" fillcolor="#ead1dc"]
+		triage -> direct
+		triage -> retr
+		triage -> exec
+	}
+	subgraph cluster_mcp {
+		color="#d9c9ee" fillcolor="#f7f2fc" label="3. MCP (JSON-RPC 2.0) & 3-Stage RAG Pipeline" style=filled
+		rag [label="mcp-hybrid-rag  (stdio)" fillcolor="#e4d7f5"]
+		bm25 [label="Stage 1  BM25Okapi + Porter
+k1=1.25 b=0.75 top50 <12 ms"]
+		dense [label="Stage 2  Bi-Encoder + FAISS HNSW
+efSearch=64 top50 <25 ms"]
+		rrf [label="RRF  k=60, dedup chunk_hash
+pool=40 <3 ms"]
+		ce [label="Stage 3  Cross-Encoder (ONNX)
+rerank_k=4, sigmoid>0.42 <45 ms"]
+		"graph" [label="mcp-graphify-vault (stdio)
+depth≤2 subgraph ~320 tok" fillcolor="#e4d7f5"]
+		state [label="mcp-state-store (streamable-http :8081)
+Postgres/SQLite: session_facts, HITL, audit" fillcolor="#e4d7f5" shape=cylinder]
+		rag -> bm25
+		rag -> dense
+		bm25 -> rrf
+		dense -> rrf
+		rrf -> ce
+	}
+	subgraph cluster_ctrl {
+		color="#f2d2a9" fillcolor="#fff8ee" label="4. Control Plane & Egress" style=filled
+		react [label="Bounded ReAct Loop  max_steps=5 · 120 ms/step · 450 ms total
+GoalAnchorBlock @0 · observations ≤180 tok · window=3" fillcolor="#fce5cd"]
+		harness [label="ToolExecutionHarness
+Pydantic v2 → regex repair → RBAC tier → UUIDv4 idem"]
+		breaker [label="Circuit Breaker
+≥2 identical (tool,args_hash) failures → HALTED_BREAKER" fillcolor="#f4cccc"]
+		hitl [label="Tier 3 HITL Gate
+PENDING_APPROVAL → human approve/reject" fillcolor="#f4cccc" shape=octagon]
+		abstain [label="Deterministic Abstention
+top score < 0.42 → no LLM · <90 ms" fillcolor="#fff2cc"]
+		gen [label="Grounded Generation
+(extractive | LLM quote-only)"]
+		post [label="Post-Exec Plugins
+RAGAS auditor (faith ≥ 0.92) → OTel export" fillcolor="#fde9d9"]
+		react -> harness
+		harness -> breaker
+		breaker -> hitl [label="T3 call"]
+	}
+	resp [label="Response
+(answer, citations, faithfulness, trace_id)" fillcolor="#e8eefc" shape=oval]
+	obs [label="OTel Collector → Prometheus + Tempo + Grafana" fillcolor="#eeeeee" shape=component]
+	client -> ingress
+	cache -> resp [label=HIT color="#bf9000" style=dashed]
+	cache -> triage [label=MISS]
+	retr -> react
+	exec -> react
+	react -> rag [label="hybrid_retrieve (JSON-RPC)" lhead=cluster_mcp]
+	react -> "graph" [style=dotted]
+	harness -> state [label="tools / facts / audit"]
+	ce -> abstain [label="score<0.42"]
+	ce -> gen [label="score≥0.42"]
+	abstain -> post
+	gen -> audit
+	audit -> post [label="veto → abstain"]
+	direct -> post
+	hitl -> post [label=PENDING_APPROVAL]
+	post -> resp
+	post -> obs [style=dashed]
+	inj -> resp [label=BLOCKED color="#cc0000" style=dashed]
+}

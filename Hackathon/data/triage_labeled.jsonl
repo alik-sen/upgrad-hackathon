@@ -1,0 +1,958 @@
+{"text": "What is the storage temperature for SKU-013?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the storage temperature for SKU-027?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the storage temperature for SKU-026?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the storage temperature for SKU-002?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the storage temperature for SKU-007?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the storage temperature for SKU-030?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the storage temperature for SKU-011?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the storage temperature for SKU-029?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the storage temperature for SKU-021?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the storage temperature for SKU-026?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the storage temperature for SKU-013?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the storage temperature for SKU-002?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the storage temperature for SKU-026?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the storage temperature for SKU-007?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What does the SOP say about record retention?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What does the SOP say about deviation management?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What does the SOP say about quarantine?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What does the SOP say about GMP training?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What does the SOP say about deviation management?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What does the SOP say about GMP training?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What does the SOP say about incident escalation?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What does the SOP say about quarantine?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What does the SOP say about cold-chain excursions?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What does the SOP say about change control?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What does the SOP say about incident escalation?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What does the SOP say about recalls?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What does the SOP say about supplier audits?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What does the SOP say about supplier audits?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Explain the procedure for GMP training.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Explain the procedure for GMP training.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Explain the procedure for record retention.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Explain the procedure for batch safety verification.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Explain the procedure for hazmat storage.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Explain the procedure for record retention.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Explain the procedure for lot release.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Explain the procedure for supplier audits.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Explain the procedure for cold-chain excursions.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Explain the procedure for change control.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Explain the procedure for hazmat storage.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Explain the procedure for cold-chain excursions.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Explain the procedure for record retention.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Explain the procedure for cold-chain excursions.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Summarize the policy on GMP training.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Summarize the policy on lot release.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Summarize the policy on change control.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Summarize the policy on receiving inspection.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Summarize the policy on purchase approvals.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Summarize the policy on receiving inspection.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Summarize the policy on incident escalation.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Summarize the policy on deviation management.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Summarize the policy on deviation management.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Summarize the policy on GMP training.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Summarize the policy on change control.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Summarize the policy on lot release.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Summarize the policy on deviation management.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Summarize the policy on record retention.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "How long must cold-chain excursions be done within?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "How long must lot release be done within?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "How long must lot release be done within?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "How long must cold-chain excursions be done within?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "How long must quarantine be done within?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "How long must change control be done within?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "How long must lot release be done within?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "How long must hazmat storage be done within?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "How long must deviation management be done within?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "How long must quarantine be done within?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "How long must batch safety verification be done within?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "How long must cold-chain excursions be done within?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "How long must batch safety verification be done within?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "How long must record retention be done within?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Which supplier provides SKU-025?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Which supplier provides SKU-001?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Which supplier provides SKU-020?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Which supplier provides SKU-012?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Which supplier provides SKU-012?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Which supplier provides SKU-002?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Which supplier provides SKU-002?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Which supplier provides SKU-021?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Which supplier provides SKU-001?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Which supplier provides SKU-014?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Which supplier provides SKU-006?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Which supplier provides SKU-003?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Which supplier provides SKU-026?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Which supplier provides SKU-016?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the shelf life of SKU-004?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the shelf life of SKU-022?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the shelf life of SKU-021?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the shelf life of SKU-021?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the shelf life of SKU-023?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the shelf life of SKU-010?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the shelf life of SKU-014?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the shelf life of SKU-024?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the shelf life of SKU-012?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the shelf life of SKU-001?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the shelf life of SKU-026?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the shelf life of SKU-007?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the shelf life of SKU-013?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the shelf life of SKU-014?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Tell me the requirements for batch safety verification.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Tell me the requirements for record retention.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Tell me the requirements for change control.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Tell me the requirements for supplier audits.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Tell me the requirements for purchase approvals.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Tell me the requirements for incident escalation.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Tell me the requirements for cold-chain excursions.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Tell me the requirements for hazmat storage.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Tell me the requirements for supplier audits.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Tell me the requirements for deviation management.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Tell me the requirements for supplier audits.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Tell me the requirements for cold-chain excursions.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Tell me the requirements for incident escalation.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Tell me the requirements for incident escalation.", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the audit frequency for the supplier of SKU-010?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the audit frequency for the supplier of SKU-002?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the audit frequency for the supplier of SKU-002?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the audit frequency for the supplier of SKU-021?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the audit frequency for the supplier of SKU-029?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the audit frequency for the supplier of SKU-023?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the audit frequency for the supplier of SKU-006?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the audit frequency for the supplier of SKU-028?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the audit frequency for the supplier of SKU-013?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the audit frequency for the supplier of SKU-007?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the audit frequency for the supplier of SKU-006?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the audit frequency for the supplier of SKU-002?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the audit frequency for the supplier of SKU-006?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "What is the audit frequency for the supplier of SKU-004?", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Verify batch LOT-73549 safety protocol and return triage status", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Verify batch LOT-16215 safety protocol and return triage status", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Verify batch LOT-22186 safety protocol and return triage status", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Verify batch LOT-87089 safety protocol and return triage status", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Verify batch LOT-29272 safety protocol and return triage status", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Verify batch LOT-96040 safety protocol and return triage status", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Verify batch LOT-04181 safety protocol and return triage status", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Verify batch LOT-40872 safety protocol and return triage status", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Verify batch LOT-68787 safety protocol and return triage status", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Verify batch LOT-24131 safety protocol and return triage status", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Verify batch LOT-41183 safety protocol and return triage status", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Verify batch LOT-07395 safety protocol and return triage status", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Verify batch LOT-61292 safety protocol and return triage status", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Verify batch LOT-07125 safety protocol and return triage status", "route": "HYBRID_RAG", "split": "train"}
+{"text": "Could you remind me how incident escalation works?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Could you remind me how batch safety verification works?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Could you remind me how supplier audits works?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Could you remind me how recalls works?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Could you remind me how supplier audits works?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Could you remind me how hazmat storage works?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Could you remind me how change control works?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Could you remind me how receiving inspection works?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Could you remind me how receiving inspection works?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Could you remind me how GMP training works?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Could you remind me how GMP training works?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Could you remind me how quarantine works?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Could you remind me how recalls works?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Could you remind me how supplier audits works?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Could you remind me how cold-chain excursions works?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Could you remind me how GMP training works?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Could you remind me how lot release works?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Could you remind me how change control works?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Could you remind me how incident escalation works?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Could you remind me how incident escalation works?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Need the rule for lot release please", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Need the rule for hazmat storage please", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Need the rule for deviation management please", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Need the rule for record retention please", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Need the rule for batch safety verification please", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Need the rule for deviation management please", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Need the rule for change control please", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Need the rule for deviation management please", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Need the rule for lot release please", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Need the rule for quarantine please", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Need the rule for recalls please", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Need the rule for deviation management please", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Need the rule for recalls please", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Need the rule for incident escalation please", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Need the rule for incident escalation please", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Need the rule for receiving inspection please", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Need the rule for batch safety verification please", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Need the rule for purchase approvals please", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Need the rule for cold-chain excursions please", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Need the rule for receiving inspection please", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Is there guidance about GMP training?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Is there guidance about deviation management?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Is there guidance about record retention?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Is there guidance about hazmat storage?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Is there guidance about change control?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Is there guidance about record retention?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Is there guidance about deviation management?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Is there guidance about deviation management?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Is there guidance about batch safety verification?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Is there guidance about receiving inspection?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Is there guidance about GMP training?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Is there guidance about quarantine?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Is there guidance about deviation management?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Is there guidance about recalls?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Is there guidance about hazmat storage?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Is there guidance about supplier audits?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Is there guidance about record retention?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Is there guidance about quarantine?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Is there guidance about record retention?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Is there guidance about cold-chain excursions?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "what hazard class is SKU-012", "route": "HYBRID_RAG", "split": "test"}
+{"text": "what hazard class is SKU-014", "route": "HYBRID_RAG", "split": "test"}
+{"text": "what hazard class is SKU-019", "route": "HYBRID_RAG", "split": "test"}
+{"text": "what hazard class is SKU-012", "route": "HYBRID_RAG", "split": "test"}
+{"text": "what hazard class is SKU-016", "route": "HYBRID_RAG", "split": "test"}
+{"text": "what hazard class is SKU-001", "route": "HYBRID_RAG", "split": "test"}
+{"text": "what hazard class is SKU-023", "route": "HYBRID_RAG", "split": "test"}
+{"text": "what hazard class is SKU-004", "route": "HYBRID_RAG", "split": "test"}
+{"text": "what hazard class is SKU-005", "route": "HYBRID_RAG", "split": "test"}
+{"text": "what hazard class is SKU-026", "route": "HYBRID_RAG", "split": "test"}
+{"text": "what hazard class is SKU-026", "route": "HYBRID_RAG", "split": "test"}
+{"text": "what hazard class is SKU-002", "route": "HYBRID_RAG", "split": "test"}
+{"text": "what hazard class is SKU-018", "route": "HYBRID_RAG", "split": "test"}
+{"text": "what hazard class is SKU-021", "route": "HYBRID_RAG", "split": "test"}
+{"text": "what hazard class is SKU-020", "route": "HYBRID_RAG", "split": "test"}
+{"text": "what hazard class is SKU-016", "route": "HYBRID_RAG", "split": "test"}
+{"text": "what hazard class is SKU-029", "route": "HYBRID_RAG", "split": "test"}
+{"text": "what hazard class is SKU-002", "route": "HYBRID_RAG", "split": "test"}
+{"text": "what hazard class is SKU-013", "route": "HYBRID_RAG", "split": "test"}
+{"text": "what hazard class is SKU-006", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Describe handling rules covering cold-chain excursions.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Describe handling rules covering purchase approvals.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Describe handling rules covering supplier audits.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Describe handling rules covering purchase approvals.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Describe handling rules covering purchase approvals.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Describe handling rules covering recalls.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Describe handling rules covering supplier audits.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Describe handling rules covering cold-chain excursions.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Describe handling rules covering quarantine.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Describe handling rules covering incident escalation.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Describe handling rules covering purchase approvals.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Describe handling rules covering batch safety verification.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Describe handling rules covering change control.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Describe handling rules covering receiving inspection.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Describe handling rules covering lot release.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Describe handling rules covering lot release.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Describe handling rules covering cold-chain excursions.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Describe handling rules covering GMP training.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Describe handling rules covering batch safety verification.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Describe handling rules covering quarantine.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "I'm looking for the reorder point of SKU-021", "route": "HYBRID_RAG", "split": "test"}
+{"text": "I'm looking for the reorder point of SKU-014", "route": "HYBRID_RAG", "split": "test"}
+{"text": "I'm looking for the reorder point of SKU-030", "route": "HYBRID_RAG", "split": "test"}
+{"text": "I'm looking for the reorder point of SKU-010", "route": "HYBRID_RAG", "split": "test"}
+{"text": "I'm looking for the reorder point of SKU-029", "route": "HYBRID_RAG", "split": "test"}
+{"text": "I'm looking for the reorder point of SKU-029", "route": "HYBRID_RAG", "split": "test"}
+{"text": "I'm looking for the reorder point of SKU-006", "route": "HYBRID_RAG", "split": "test"}
+{"text": "I'm looking for the reorder point of SKU-008", "route": "HYBRID_RAG", "split": "test"}
+{"text": "I'm looking for the reorder point of SKU-007", "route": "HYBRID_RAG", "split": "test"}
+{"text": "I'm looking for the reorder point of SKU-030", "route": "HYBRID_RAG", "split": "test"}
+{"text": "I'm looking for the reorder point of SKU-029", "route": "HYBRID_RAG", "split": "test"}
+{"text": "I'm looking for the reorder point of SKU-020", "route": "HYBRID_RAG", "split": "test"}
+{"text": "I'm looking for the reorder point of SKU-030", "route": "HYBRID_RAG", "split": "test"}
+{"text": "I'm looking for the reorder point of SKU-030", "route": "HYBRID_RAG", "split": "test"}
+{"text": "I'm looking for the reorder point of SKU-027", "route": "HYBRID_RAG", "split": "test"}
+{"text": "I'm looking for the reorder point of SKU-016", "route": "HYBRID_RAG", "split": "test"}
+{"text": "I'm looking for the reorder point of SKU-023", "route": "HYBRID_RAG", "split": "test"}
+{"text": "I'm looking for the reorder point of SKU-001", "route": "HYBRID_RAG", "split": "test"}
+{"text": "I'm looking for the reorder point of SKU-008", "route": "HYBRID_RAG", "split": "test"}
+{"text": "I'm looking for the reorder point of SKU-010", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who is the vendor behind SKU-013?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who is the vendor behind SKU-003?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who is the vendor behind SKU-006?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who is the vendor behind SKU-001?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who is the vendor behind SKU-020?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who is the vendor behind SKU-005?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who is the vendor behind SKU-001?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who is the vendor behind SKU-023?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who is the vendor behind SKU-002?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who is the vendor behind SKU-024?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who is the vendor behind SKU-028?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who is the vendor behind SKU-012?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who is the vendor behind SKU-027?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who is the vendor behind SKU-022?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who is the vendor behind SKU-028?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who is the vendor behind SKU-023?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who is the vendor behind SKU-008?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who is the vendor behind SKU-004?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who is the vendor behind SKU-028?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who is the vendor behind SKU-021?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What are the steps in the receiving inspection process?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What are the steps in the change control process?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What are the steps in the cold-chain excursions process?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What are the steps in the receiving inspection process?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What are the steps in the hazmat storage process?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What are the steps in the deviation management process?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What are the steps in the deviation management process?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What are the steps in the quarantine process?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What are the steps in the hazmat storage process?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What are the steps in the incident escalation process?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What are the steps in the change control process?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What are the steps in the record retention process?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What are the steps in the incident escalation process?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What are the steps in the recalls process?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What are the steps in the cold-chain excursions process?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What are the steps in the GMP training process?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What are the steps in the record retention process?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What are the steps in the batch safety verification process?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What are the steps in the record retention process?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What are the steps in the supplier audits process?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Put LOT-77962 on hold because of a failed seal check", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Put LOT-22186 on hold because of a failed seal check", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Put LOT-93043 on hold because of a failed seal check", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Put LOT-10403 on hold because of a failed seal check", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Put LOT-36675 on hold because of a failed seal check", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Put LOT-68787 on hold because of a failed seal check", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Put LOT-21710 on hold because of a failed seal check", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Put LOT-87202 on hold because of a failed seal check", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Put LOT-19187 on hold because of a failed seal check", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Put LOT-10403 on hold because of a failed seal check", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Put LOT-04181 on hold because of a failed seal check", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Put LOT-10403 on hold because of a failed seal check", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Put LOT-24316 on hold because of a failed seal check", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Put LOT-04181 on hold because of a failed seal check", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Release batch LOT-24552", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Release batch LOT-73549", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Release batch LOT-79967", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Release batch LOT-38658", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Release batch LOT-18601", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Release batch LOT-73549", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Release batch LOT-87202", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Release batch LOT-51572", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Release batch LOT-24994", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Release batch LOT-49627", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Release batch LOT-40872", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Release batch LOT-68787", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Release batch LOT-54661", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Release batch LOT-41183", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Update the status of LOT-57991 to QUARANTINE", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Update the status of LOT-96040 to QUARANTINE", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Update the status of LOT-14282 to QUARANTINE", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Update the status of LOT-51572 to QUARANTINE", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Update the status of LOT-96040 to QUARANTINE", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Update the status of LOT-07125 to QUARANTINE", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Update the status of LOT-03098 to QUARANTINE", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Update the status of LOT-49006 to QUARANTINE", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Update the status of LOT-61292 to QUARANTINE", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Update the status of LOT-54661 to QUARANTINE", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Update the status of LOT-54446 to QUARANTINE", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Update the status of LOT-93043 to QUARANTINE", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Update the status of LOT-54446 to QUARANTINE", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Update the status of LOT-43477 to QUARANTINE", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Submit a deviation form for LOT-87089", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Submit a deviation form for LOT-24131", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Submit a deviation form for LOT-00377", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Submit a deviation form for LOT-18601", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Submit a deviation form for LOT-77962", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Submit a deviation form for LOT-99459", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Submit a deviation form for LOT-19187", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Submit a deviation form for LOT-96040", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Submit a deviation form for LOT-51554", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Submit a deviation form for LOT-93328", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Submit a deviation form for LOT-21710", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Submit a deviation form for LOT-96040", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Submit a deviation form for LOT-27912", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Submit a deviation form for LOT-51554", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "What is the current status of LOT-07125?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "What is the current status of LOT-93328?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "What is the current status of LOT-68787?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "What is the current status of LOT-58936?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "What is the current status of LOT-87089?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "What is the current status of LOT-16215?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "What is the current status of LOT-40872?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "What is the current status of LOT-46068?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "What is the current status of LOT-07395?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "What is the current status of LOT-96040?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "What is the current status of LOT-27912?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "What is the current status of LOT-24552?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "What is the current status of LOT-07125?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "What is the current status of LOT-49006?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many units are in stock for SKU-023?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many units are in stock for SKU-009?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many units are in stock for SKU-016?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many units are in stock for SKU-020?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many units are in stock for SKU-017?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many units are in stock for SKU-030?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many units are in stock for SKU-029?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many units are in stock for SKU-025?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many units are in stock for SKU-027?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many units are in stock for SKU-004?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many units are in stock for SKU-018?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many units are in stock for SKU-023?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many units are in stock for SKU-017?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many units are in stock for SKU-028?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many days until LOT-49006 expires?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many days until LOT-38658 expires?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many days until LOT-10586 expires?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many days until LOT-06795 expires?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many days until LOT-96040 expires?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many days until LOT-07395 expires?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many days until LOT-22186 expires?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many days until LOT-43477 expires?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many days until LOT-04181 expires?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many days until LOT-03098 expires?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many days until LOT-81737 expires?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many days until LOT-58936 expires?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many days until LOT-04181 expires?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "How many days until LOT-93043 expires?", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Validate this release form for LOT-24552", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Validate this release form for LOT-57991", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Validate this release form for LOT-51572", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Validate this release form for LOT-96040", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Validate this release form for LOT-63577", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Validate this release form for LOT-64981", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Validate this release form for LOT-04181", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Validate this release form for LOT-40872", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Validate this release form for LOT-51572", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Validate this release form for LOT-93043", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Validate this release form for LOT-10586", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Validate this release form for LOT-36675", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Validate this release form for LOT-78136", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Validate this release form for LOT-40872", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Mark LOT-10586 as SCRAP due to contamination", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Mark LOT-00377 as SCRAP due to contamination", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Mark LOT-03098 as SCRAP due to contamination", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Mark LOT-95077 as SCRAP due to contamination", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Mark LOT-95077 as SCRAP due to contamination", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Mark LOT-99677 as SCRAP due to contamination", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Mark LOT-10256 as SCRAP due to contamination", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Mark LOT-07125 as SCRAP due to contamination", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Mark LOT-54446 as SCRAP due to contamination", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Mark LOT-93328 as SCRAP due to contamination", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Mark LOT-79967 as SCRAP due to contamination", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Mark LOT-54661 as SCRAP due to contamination", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Mark LOT-46068 as SCRAP due to contamination", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Mark LOT-79967 as SCRAP due to contamination", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Check the stock level of SKU-027", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Check the stock level of SKU-011", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Check the stock level of SKU-017", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Check the stock level of SKU-021", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Check the stock level of SKU-022", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Check the stock level of SKU-003", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Check the stock level of SKU-009", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Check the stock level of SKU-019", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Check the stock level of SKU-008", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Check the stock level of SKU-015", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Check the stock level of SKU-005", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Check the stock level of SKU-013", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Check the stock level of SKU-006", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "Check the stock level of SKU-023", "route": "TRANSACTION_EXEC", "split": "train"}
+{"text": "please place LOT-73549 on HOLD, label damaged", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "please place LOT-00377 on HOLD, label damaged", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "please place LOT-18601 on HOLD, label damaged", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "please place LOT-49627 on HOLD, label damaged", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "please place LOT-79967 on HOLD, label damaged", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "please place LOT-41183 on HOLD, label damaged", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "please place LOT-24316 on HOLD, label damaged", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "please place LOT-58936 on HOLD, label damaged", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "please place LOT-63577 on HOLD, label damaged", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "please place LOT-24316 on HOLD, label damaged", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "please place LOT-96040 on HOLD, label damaged", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "please place LOT-49627 on HOLD, label damaged", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "please place LOT-10403 on HOLD, label damaged", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "please place LOT-97821 on HOLD, label damaged", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "please place LOT-99677 on HOLD, label damaged", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "please place LOT-54446 on HOLD, label damaged", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "please place LOT-85521 on HOLD, label damaged", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "please place LOT-78136 on HOLD, label damaged", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "please place LOT-07883 on HOLD, label damaged", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "please place LOT-95077 on HOLD, label damaged", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "I need LOT-04181 released now", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "I need LOT-40872 released now", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "I need LOT-61292 released now", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "I need LOT-57991 released now", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "I need LOT-10256 released now", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "I need LOT-14839 released now", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "I need LOT-73549 released now", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "I need LOT-19187 released now", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "I need LOT-04181 released now", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "I need LOT-24552 released now", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "I need LOT-07883 released now", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "I need LOT-14282 released now", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "I need LOT-14282 released now", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "I need LOT-78136 released now", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "I need LOT-93328 released now", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "I need LOT-81737 released now", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "I need LOT-78136 released now", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "I need LOT-10403 released now", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "I need LOT-21710 released now", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "I need LOT-21710 released now", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "change LOT-40872 status to RELEASED", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "change LOT-29272 status to RELEASED", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "change LOT-54446 status to RELEASED", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "change LOT-63577 status to RELEASED", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "change LOT-79967 status to RELEASED", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "change LOT-51554 status to RELEASED", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "change LOT-16215 status to RELEASED", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "change LOT-85521 status to RELEASED", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "change LOT-18601 status to RELEASED", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "change LOT-14288 status to RELEASED", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "change LOT-99459 status to RELEASED", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "change LOT-14282 status to RELEASED", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "change LOT-00377 status to RELEASED", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "change LOT-61292 status to RELEASED", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "change LOT-54661 status to RELEASED", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "change LOT-49627 status to RELEASED", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "change LOT-16215 status to RELEASED", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "change LOT-19187 status to RELEASED", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "change LOT-04181 status to RELEASED", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "change LOT-22186 status to RELEASED", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "file a transfer form for LOT-87089", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "file a transfer form for LOT-14288", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "file a transfer form for LOT-24552", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "file a transfer form for LOT-99677", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "file a transfer form for LOT-36675", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "file a transfer form for LOT-18601", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "file a transfer form for LOT-27912", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "file a transfer form for LOT-07395", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "file a transfer form for LOT-54446", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "file a transfer form for LOT-85521", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "file a transfer form for LOT-27185", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "file a transfer form for LOT-10403", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "file a transfer form for LOT-14288", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "file a transfer form for LOT-14282", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "file a transfer form for LOT-85521", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "file a transfer form for LOT-41183", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "file a transfer form for LOT-95077", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "file a transfer form for LOT-68787", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "file a transfer form for LOT-14839", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "file a transfer form for LOT-24316", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "what's the quantity on hand for SKU-004", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "what's the quantity on hand for SKU-016", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "what's the quantity on hand for SKU-005", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "what's the quantity on hand for SKU-014", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "what's the quantity on hand for SKU-022", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "what's the quantity on hand for SKU-028", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "what's the quantity on hand for SKU-028", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "what's the quantity on hand for SKU-016", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "what's the quantity on hand for SKU-024", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "what's the quantity on hand for SKU-015", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "what's the quantity on hand for SKU-006", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "what's the quantity on hand for SKU-025", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "what's the quantity on hand for SKU-023", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "what's the quantity on hand for SKU-024", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "what's the quantity on hand for SKU-010", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "what's the quantity on hand for SKU-023", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "what's the quantity on hand for SKU-022", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "what's the quantity on hand for SKU-002", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "what's the quantity on hand for SKU-001", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "what's the quantity on hand for SKU-029", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "is LOT-79967 still within expiry?", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "is LOT-18601 still within expiry?", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "is LOT-87202 still within expiry?", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "is LOT-10403 still within expiry?", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "is LOT-54446 still within expiry?", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "is LOT-43477 still within expiry?", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "is LOT-95077 still within expiry?", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "is LOT-10256 still within expiry?", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "is LOT-40872 still within expiry?", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "is LOT-10256 still within expiry?", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "is LOT-24131 still within expiry?", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "is LOT-41183 still within expiry?", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "is LOT-22186 still within expiry?", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "is LOT-78136 still within expiry?", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "is LOT-61292 still within expiry?", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "is LOT-10256 still within expiry?", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "is LOT-06795 still within expiry?", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "is LOT-43477 still within expiry?", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "is LOT-54661 still within expiry?", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "is LOT-18601 still within expiry?", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Where is LOT-16215 in the pipeline, what's its status", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Where is LOT-24131 in the pipeline, what's its status", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Where is LOT-97821 in the pipeline, what's its status", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Where is LOT-10256 in the pipeline, what's its status", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Where is LOT-49627 in the pipeline, what's its status", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Where is LOT-27912 in the pipeline, what's its status", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Where is LOT-87202 in the pipeline, what's its status", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Where is LOT-22186 in the pipeline, what's its status", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Where is LOT-14288 in the pipeline, what's its status", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Where is LOT-54661 in the pipeline, what's its status", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Where is LOT-85521 in the pipeline, what's its status", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Where is LOT-46068 in the pipeline, what's its status", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Where is LOT-24316 in the pipeline, what's its status", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Where is LOT-99459 in the pipeline, what's its status", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Where is LOT-24994 in the pipeline, what's its status", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Where is LOT-24316 in the pipeline, what's its status", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Where is LOT-24131 in the pipeline, what's its status", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Where is LOT-22186 in the pipeline, what's its status", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Where is LOT-18601 in the pipeline, what's its status", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Where is LOT-95077 in the pipeline, what's its status", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "quarantine LOT-49006 immediately", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "quarantine LOT-68787 immediately", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "quarantine LOT-00377 immediately", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "quarantine LOT-24994 immediately", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "quarantine LOT-10256 immediately", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "quarantine LOT-64981 immediately", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "quarantine LOT-68787 immediately", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "quarantine LOT-16215 immediately", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "quarantine LOT-54446 immediately", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "quarantine LOT-68787 immediately", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "quarantine LOT-19187 immediately", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "quarantine LOT-07395 immediately", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "quarantine LOT-78136 immediately", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "quarantine LOT-85521 immediately", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "quarantine LOT-14282 immediately", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "quarantine LOT-54661 immediately", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "quarantine LOT-27185 immediately", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "quarantine LOT-55075 immediately", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "quarantine LOT-04181 immediately", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "quarantine LOT-79967 immediately", "route": "TRANSACTION_EXEC", "split": "test"}
+{"text": "Hello", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Hello", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Hello", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Hi there", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Hi there", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Hi there", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Thanks!", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Thanks!", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Thanks!", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Thank you so much", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Thank you so much", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Thank you so much", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "What can you do?", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "What can you do?", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "What can you do?", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Help", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Help", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Help", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Good morning", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Good morning", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Good morning", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Who are you?", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Who are you?", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Who are you?", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "What are your capabilities?", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "What are your capabilities?", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "What are your capabilities?", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Goodbye", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Goodbye", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Goodbye", "route": "DIRECT_ANSWER", "split": "train"}
+{"text": "Hey assistant", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "Hey assistant", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "Hey assistant", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "Hey assistant", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "hi!", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "hi!", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "hi!", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "hi!", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "thanks a lot", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "thanks a lot", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "thanks a lot", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "thanks a lot", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "How can you help me?", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "How can you help me?", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "How can you help me?", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "How can you help me?", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "what do you do", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "what do you do", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "what do you do", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "what do you do", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "Bye", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "Bye", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "Bye", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "Bye", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "good afternoon", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "good afternoon", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "good afternoon", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "good afternoon", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "ok thanks", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "ok thanks", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "ok thanks", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "ok thanks", "route": "DIRECT_ANSWER", "split": "test"}
+{"text": "Write me a poem about the sea", "route": "REJECT_OOS", "split": "train"}
+{"text": "Write me a poem about the sea", "route": "REJECT_OOS", "split": "train"}
+{"text": "Write me a poem about the sea", "route": "REJECT_OOS", "split": "train"}
+{"text": "Who won the world cup?", "route": "REJECT_OOS", "split": "train"}
+{"text": "Who won the world cup?", "route": "REJECT_OOS", "split": "train"}
+{"text": "Who won the world cup?", "route": "REJECT_OOS", "split": "train"}
+{"text": "What's the weather tomorrow?", "route": "REJECT_OOS", "split": "train"}
+{"text": "What's the weather tomorrow?", "route": "REJECT_OOS", "split": "train"}
+{"text": "What's the weather tomorrow?", "route": "REJECT_OOS", "split": "train"}
+{"text": "Give me a recipe for lasagna", "route": "REJECT_OOS", "split": "train"}
+{"text": "Give me a recipe for lasagna", "route": "REJECT_OOS", "split": "train"}
+{"text": "Give me a recipe for lasagna", "route": "REJECT_OOS", "split": "train"}
+{"text": "Tell me a joke", "route": "REJECT_OOS", "split": "train"}
+{"text": "Tell me a joke", "route": "REJECT_OOS", "split": "train"}
+{"text": "Tell me a joke", "route": "REJECT_OOS", "split": "train"}
+{"text": "Translate this sentence into French", "route": "REJECT_OOS", "split": "train"}
+{"text": "Translate this sentence into French", "route": "REJECT_OOS", "split": "train"}
+{"text": "Translate this sentence into French", "route": "REJECT_OOS", "split": "train"}
+{"text": "Write a Python script to sort a list", "route": "REJECT_OOS", "split": "train"}
+{"text": "Write a Python script to sort a list", "route": "REJECT_OOS", "split": "train"}
+{"text": "Write a Python script to sort a list", "route": "REJECT_OOS", "split": "train"}
+{"text": "What is the capital of Australia?", "route": "REJECT_OOS", "split": "train"}
+{"text": "What is the capital of Australia?", "route": "REJECT_OOS", "split": "train"}
+{"text": "What is the capital of Australia?", "route": "REJECT_OOS", "split": "train"}
+{"text": "Recommend a movie for tonight", "route": "REJECT_OOS", "split": "train"}
+{"text": "Recommend a movie for tonight", "route": "REJECT_OOS", "split": "train"}
+{"text": "Recommend a movie for tonight", "route": "REJECT_OOS", "split": "train"}
+{"text": "Solve 234 * 17", "route": "REJECT_OOS", "split": "train"}
+{"text": "Solve 234 * 17", "route": "REJECT_OOS", "split": "train"}
+{"text": "Solve 234 * 17", "route": "REJECT_OOS", "split": "train"}
+{"text": "compose a song about summer", "route": "REJECT_OOS", "split": "test"}
+{"text": "compose a song about summer", "route": "REJECT_OOS", "split": "test"}
+{"text": "compose a song about summer", "route": "REJECT_OOS", "split": "test"}
+{"text": "compose a song about summer", "route": "REJECT_OOS", "split": "test"}
+{"text": "Which team is leading the league?", "route": "REJECT_OOS", "split": "test"}
+{"text": "Which team is leading the league?", "route": "REJECT_OOS", "split": "test"}
+{"text": "Which team is leading the league?", "route": "REJECT_OOS", "split": "test"}
+{"text": "Which team is leading the league?", "route": "REJECT_OOS", "split": "test"}
+{"text": "will it rain this weekend", "route": "REJECT_OOS", "split": "test"}
+{"text": "will it rain this weekend", "route": "REJECT_OOS", "split": "test"}
+{"text": "will it rain this weekend", "route": "REJECT_OOS", "split": "test"}
+{"text": "will it rain this weekend", "route": "REJECT_OOS", "split": "test"}
+{"text": "how do I cook pancakes", "route": "REJECT_OOS", "split": "test"}
+{"text": "how do I cook pancakes", "route": "REJECT_OOS", "split": "test"}
+{"text": "how do I cook pancakes", "route": "REJECT_OOS", "split": "test"}
+{"text": "how do I cook pancakes", "route": "REJECT_OOS", "split": "test"}
+{"text": "Do you know any riddles?", "route": "REJECT_OOS", "split": "test"}
+{"text": "Do you know any riddles?", "route": "REJECT_OOS", "split": "test"}
+{"text": "Do you know any riddles?", "route": "REJECT_OOS", "split": "test"}
+{"text": "Do you know any riddles?", "route": "REJECT_OOS", "split": "test"}
+{"text": "Explain how black holes form", "route": "REJECT_OOS", "split": "test"}
+{"text": "Explain how black holes form", "route": "REJECT_OOS", "split": "test"}
+{"text": "Explain how black holes form", "route": "REJECT_OOS", "split": "test"}
+{"text": "Explain how black holes form", "route": "REJECT_OOS", "split": "test"}
+{"text": "write javascript to reverse a string", "route": "REJECT_OOS", "split": "test"}
+{"text": "write javascript to reverse a string", "route": "REJECT_OOS", "split": "test"}
+{"text": "write javascript to reverse a string", "route": "REJECT_OOS", "split": "test"}
+{"text": "write javascript to reverse a string", "route": "REJECT_OOS", "split": "test"}
+{"text": "Who painted the Mona Lisa?", "route": "REJECT_OOS", "split": "test"}
+{"text": "Who painted the Mona Lisa?", "route": "REJECT_OOS", "split": "test"}
+{"text": "Who painted the Mona Lisa?", "route": "REJECT_OOS", "split": "test"}
+{"text": "Who painted the Mona Lisa?", "route": "REJECT_OOS", "split": "test"}
+{"text": "Within how many days must the supplier of SKU-027 respond with corrective action to a nonconformance?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the audit frequency for the company that supplies SKU-030?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How often must the supplier of SKU-009 be audited?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who supplies Vaccine Adjuvant Emulsion?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How quickly must a temperature excursion report be filed for the storage category of SKU-002?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How quickly must a temperature excursion report be filed for the storage category of SKU-001?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which tier is supplier SUP-01 (Aldervale Biosciences)?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-008 was exposed to 10\u00b0C for 8 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-006 was exposed to 10\u00b0C for 5 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which supplier is SUP-42?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who supplies Magnesium Stearate?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A deviation involving SKU-004 is classified as critical. Who must be notified and by when?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-002 was exposed to 13\u00b0C for 6 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the lead time of supplier SUP-17?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the SOP for radioactive waste disposal?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Give me an overview of deviation management requirements.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the storage temperature for SKU-888?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Within how many days must the supplier of SKU-001 respond with corrective action to a nonconformance?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which supplier provides SKU-015?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "SKU-009 is on quarantine. Can QA release the lot directly, and what must happen first?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-003 was exposed to 15\u00b0C for 6 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How often must the supplier of SKU-015 be audited?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which SOP governs handling of the product category of SKU-011?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the audit frequency for the company that supplies SKU-028?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Within how many days must the supplier of SKU-030 respond with corrective action to a nonconformance?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which SOP governs handling of the product category of SKU-018?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What hazard classification does SKU-028 have?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-008 was exposed to 14\u00b0C for 2 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "At what temperature must SKU-005 be stored?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-003 was exposed to 15\u00b0C for 3 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How often must the supplier of SKU-011 be audited?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who supplies SKU-777?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Summarize the change control.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Within how many days must the supplier of SKU-021 respond with corrective action to a nonconformance?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who supplies SKU-404?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the storage temperature for SKU-777?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How often must the supplier of SKU-019 be audited?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What hazard classification does SKU-003 have?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the reorder point for SKU-002?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Can SKU-021 and SKU-024 be kept in the same cabinet, and what separation is required?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How quickly must a temperature excursion report be filed for the storage category of SKU-008?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Summarize how sterile devices are stored and governed.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Within how many days must the supplier of SKU-015 respond with corrective action to a nonconformance?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What hazard classification does SKU-013 have?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which SOP governs handling of the product category of SKU-016?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Give me an overview of quarantine procedure requirements.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which supplier provides SKU-010?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the storage temperature for SKU-345?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the audit frequency for the company that supplies SKU-029?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Summarize the batch safety verification protocol.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What certification does the supplier of SKU-010 hold?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How quickly must a temperature excursion report be filed for the storage category of SKU-007?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Give me an overview of supplier audit program requirements.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-004 was exposed to 15\u00b0C for 5 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Give me an overview of records and data retention requirements.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What hazard classification does SKU-007 have?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-003 was exposed to 13\u00b0C for 8 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What hazard classification does SKU-030 have?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What hazard classification does SKU-029 have?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Can SKU-019 and SKU-022 be kept in the same cabinet, and what separation is required?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A deviation involving SKU-011 is classified as critical. Who must be notified and by when?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which SOP governs handling of the product category of SKU-007?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "At what temperature must SKU-026 be stored?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Summarize how cold-chain biologics are stored and governed.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How quickly must a temperature excursion report be filed for the storage category of SKU-003?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Give me an overview of hazardous materials storage requirements.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Summarize the quarantine procedure.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who supplies Plasma Protein Fraction?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who must approve a purchase of $26,000 of packaging?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who must approve a purchase of $3,200 of reagents?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How quickly must a temperature excursion report be filed for the storage category of SKU-005?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Summarize the access control and four-eyes principle.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which supplier provides SKU-017?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How often must the temperature data logger record readings?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-008 was exposed to 14\u00b0C for 3 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How often must the supplier of SKU-027 be audited?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the audit frequency for the company that supplies SKU-024?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Within how many days must the supplier of SKU-029 respond with corrective action to a nonconformance?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the reorder point for SKU-001?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Summarize the purchase approval limits.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "SKU-028 is on quarantine. Can QA release the lot directly, and what must happen first?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the audit frequency for the company that supplies SKU-025?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-002 was exposed to 14\u00b0C for 2 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who supplies SKU-111?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the reorder point for SKU-004?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the audit frequency for the company that supplies SKU-005?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-002 was exposed to 13\u00b0C for 6 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the maximum volume of flammable liquids in one flammable cabinet?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who must approve a purchase of $120,000 of solvents?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the standard lead time of supplier SUP-05?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the storage temperature for SKU-028?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-005 was exposed to 9\u00b0C for 2 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the reorder point for SKU-003?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which supplier provides SKU-029?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which tier is supplier SUP-05 (Delmar Industrial Reagents)?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which tier is supplier SUP-06 (Evermoor Packaging Systems)?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-003 was exposed to 13\u00b0C for 3 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Give me an overview of change control requirements.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What hazard classification does SKU-026 have?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A deviation involving SKU-028 is classified as critical. Who must be notified and by when?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How many days is SKU-030 good for?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the reorder point for SKU-021?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How long must employee health records be retained?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Give me an overview of purchase approval limits requirements.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which SOP governs handling of the product category of SKU-009?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Within how many days must the supplier of SKU-005 respond with corrective action to a nonconformance?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Summarize how corrosive reagents are stored and governed.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the standard lead time of supplier SUP-01?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the storage temperature for SKU-404?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Summarize the records and data retention.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Summarize the incident escalation slas.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Summarize the lot release.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Summarize the product recall.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "At what temperature must SKU-027 be stored?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Explain what the glossary says about Lot.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Explain what the glossary says about Certificate of Analysis (CoA).", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Can SKU-021 and SKU-022 be kept in the same cabinet, and what separation is required?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the storage temperature for SKU-111?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A deviation involving SKU-015 is classified as critical. Who must be notified and by when?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Give me an overview of batch safety verification protocol requirements.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the reorder point for SKU-028?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which tier is supplier SUP-03 (Brightwater Pharma Supply)?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Summarize the deviation management.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "SKU-008 is on quarantine. Can QA release the lot directly, and what must happen first?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Within how many days must the supplier of SKU-028 respond with corrective action to a nonconformance?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who must approve a purchase of $75,000 of packaging?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How quickly must a temperature excursion report be filed for the storage category of SKU-004?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which SOP governs handling of the product category of SKU-025?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which supplier provides SKU-026?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the reorder point for SKU-007?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "SKU-026 is on quarantine. Can QA release the lot directly, and what must happen first?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which tier is supplier SUP-02 (Northgate Chemicals)?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How quickly must a temperature excursion report be filed for the storage category of SKU-006?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Give me an overview of gmp training requirements.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Give me an overview of access control and four-eyes principle requirements.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What certification does the supplier of SKU-020 hold?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "SKU-009 is on quarantine. Can QA release the lot directly, and what must happen first?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Summarize the supplier audit program.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the standard lead time of supplier SUP-06?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How often must the supplier of SKU-016 be audited?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How often must the supplier of SKU-018 be audited?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which tier is supplier SUP-04 (Corvid Laboratory Products)?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Explain what the glossary says about CAPA.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the reorder point for SKU-026?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What hazard classification does SKU-027 have?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the storage temperature for SKU-099?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Summarize the receiving inspection.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How often must the supplier of SKU-001 be audited?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Can SKU-018 and SKU-024 be kept in the same cabinet, and what separation is required?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who supplies SKU-888?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Within what time must a Class I recall be notified to the regulator?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the storage temperature for SKU-512?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A deviation involving SKU-003 is classified as critical. Who must be notified and by when?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-006 was exposed to 15\u00b0C for 8 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who must approve a purchase of $26,000 of solvents?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Can SKU-019 and SKU-025 be kept in the same cabinet, and what separation is required?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A deviation involving SKU-009 is classified as critical. Who must be notified and by when?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-007 was exposed to 9\u00b0C for 3 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the reorder point for SKU-011?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the shelf life of SKU-015?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Summarize how flammable solvents are stored and governed.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Give me an overview of incident escalation slas requirements.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Summarize how ambient solids are stored and governed.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the audit frequency for the company that supplies SKU-023?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the storage temperature for SKU-025?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which SOP governs handling of the product category of SKU-024?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who supplies SKU-250?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "SKU-020 is on quarantine. Can QA release the lot directly, and what must happen first?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Summarize the hazardous materials storage.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the shelf life of SKU-016?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the standard lead time of supplier SUP-04?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How often must the supplier of SKU-021 be audited?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How often must the supplier of SKU-007 be audited?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-005 was exposed to 9\u00b0C for 3 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which SOP governs handling of the product category of SKU-004?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which supplier provides SKU-027?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Give me an overview of product recall requirements.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the standard lead time of supplier SUP-02?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which SOP governs handling of the product category of SKU-012?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-006 was exposed to 9\u00b0C for 3 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Can SKU-020 and SKU-025 be kept in the same cabinet, and what separation is required?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Can SKU-019 and SKU-026 be kept in the same cabinet, and what separation is required?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the reorder point for SKU-022?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the audit frequency for the company that supplies SKU-004?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-008 was exposed to 9\u00b0C for 8 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Which SOP governs handling of the product category of SKU-019?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What hazard classification does SKU-001 have?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the storage temperature for SKU-030?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who must approve a purchase of $800 of packaging?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How many days is SKU-018 good for?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A deviation involving SKU-001 is classified as critical. Who must be notified and by when?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Give me an overview of cold-chain storage and excursion handling requirements.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-008 was exposed to 14\u00b0C for 8 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Can SKU-017 and SKU-025 be kept in the same cabinet, and what separation is required?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What hazard classification does SKU-002 have?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Within how many days must the supplier of SKU-008 respond with corrective action to a nonconformance?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "SKU-001 is on quarantine. Can QA release the lot directly, and what must happen first?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What temperature must liquid nitrogen dewars be stored at?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the reorder point for SKU-015?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "SKU-003 is on quarantine. Can QA release the lot directly, and what must happen first?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who must approve a purchase of $800 of packaging?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who must approve a purchase of $3,200 of solvents?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Give me an overview of receiving inspection requirements.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What hazard classification does SKU-004 have?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Summarize the cold-chain storage and excursion handling.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the standard lead time of supplier SUP-03?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the audit frequency for Tier D suppliers?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Can SKU-019 and SKU-022 be kept in the same cabinet, and what separation is required?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who supplies SKU-099?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "SKU-003 is on quarantine. Can QA release the lot directly, and what must happen first?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Summarize the gmp training.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "SKU-021 is on quarantine. Can QA release the lot directly, and what must happen first?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who supplies SKU-512?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-008 was exposed to 10\u00b0C for 6 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How many days is SKU-004 good for?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Can SKU-021 and SKU-025 be kept in the same cabinet, and what separation is required?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-001 was exposed to 10\u00b0C for 3 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-001 was exposed to 10\u00b0C for 3 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who must approve a purchase of $75,000 of solvents?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What hazard classification does SKU-022 have?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Give me an overview of lot release requirements.", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-002 was exposed to 13\u00b0C for 5 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "A lot of SKU-005 was exposed to 14\u00b0C for 3 hours. What does the cold-chain procedure require?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Who must approve a purchase of $75,000 of reagents?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the audit frequency for the company that supplies SKU-012?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How often must the supplier of SKU-008 be audited?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the storage temperature for SKU-019?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the reorder point for SKU-008?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the reorder point for SKU-012?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Can SKU-019 and SKU-026 be kept in the same cabinet, and what separation is required?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Can SKU-017 and SKU-023 be kept in the same cabinet, and what separation is required?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "What is the storage temperature for SKU-250?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "Within how many days must the supplier of SKU-023 respond with corrective action to a nonconformance?", "route": "HYBRID_RAG", "split": "test"}
+{"text": "How long does QA have to be notified after a quarantine?", "route": "HYBRID_RAG", "split": "test"}

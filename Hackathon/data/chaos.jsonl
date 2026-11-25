@@ -1,0 +1,6 @@
+{"id": "C1", "kind": "stubborn_unknown_sku", "query": "What is the stock level of SKU-777?"}
+{"id": "C2", "kind": "stubborn_unrepairable", "query": "Status of lot banana"}
+{"id": "C3", "kind": "always_error_tool", "tool": "lookup_sku"}
+{"id": "C4", "kind": "always_timeout_tool", "tool": "lookup_lot"}
+{"id": "C5", "kind": "flapping_args", "tool": "lookup_sku"}
+{"id": "C6", "kind": "oscillating_plan", "tool": "lookup_lot"}

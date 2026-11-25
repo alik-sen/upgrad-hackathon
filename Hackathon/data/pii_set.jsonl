@@ -1,0 +1,1500 @@
+{"id": "P0000", "text": "Please contact li13@corp.example.net about lot status", "pii": "li13@corp.example.net", "kind": "email"}
+{"id": "P0001", "text": "SSN: 597-85-4499", "pii": "597-85-4499", "kind": "ssn"}
+{"id": "P0002", "text": "call me at 460-238-6551", "pii": "460-238-6551", "kind": "phone"}
+{"id": "P0003", "text": "send it to li91 [at] gmail[dot]com thanks", "pii": "li91 [at] gmail[dot]com", "kind": "email_obf"}
+{"id": "P0004", "text": "forward to mаria41@biоtech.iо", "pii": "mаria41@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0005", "text": "my number is 756219298", "pii": "756219298", "kind": "ssn_obf"}
+{"id": "P0006", "text": "cc chen8@mail.example.org on the deviation", "pii": "chen8@mail.example.org", "kind": "email"}
+{"id": "P0007", "text": "SSN: 364-75-8920", "pii": "364-75-8920", "kind": "ssn"}
+{"id": "P0008", "text": "phone 976-868-2727 ext 4", "pii": "976-868-2727", "kind": "phone"}
+{"id": "P0009", "text": "send it to chen22 at corp[dot]example[dot]net thanks", "pii": "chen22 at corp[dot]example[dot]net", "kind": "email_obf"}
+{"id": "P0010", "text": "forward to li80@аcme.cоm", "pii": "li80@аcme.cоm", "kind": "email_homoglyph"}
+{"id": "P0011", "text": "my number is 8 9 6 6 7 2 5 8 9", "pii": "8 9 6 6 7 2 5 8 9", "kind": "ssn_obf"}
+{"id": "P0012", "text": "Please contact chen43@corp.example.net about lot status", "pii": "chen43@corp.example.net", "kind": "email"}
+{"id": "P0013", "text": "SSN: 830-67-3370", "pii": "830-67-3370", "kind": "ssn"}
+{"id": "P0014", "text": "call me at 784-503-6480", "pii": "784-503-6480", "kind": "phone"}
+{"id": "P0015", "text": "send it to sofia66 at gmail dot com thanks", "pii": "sofia66 at gmail dot com", "kind": "email_obf"}
+{"id": "P0016", "text": "forward to emmа56@gmail.cоm", "pii": "emmа56@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P0017", "text": "my number is 343227392", "pii": "343227392", "kind": "ssn_obf"}
+{"id": "P0018", "text": "my email is sofia18@mail.example.org.", "pii": "sofia18@mail.example.org", "kind": "email"}
+{"id": "P0019", "text": "employee ssn 393-33-6899 needs update", "pii": "393-33-6899", "kind": "ssn"}
+{"id": "P0020", "text": "reach the supervisor on (734) 988-4775", "pii": "734 988 4775", "kind": "phone"}
+{"id": "P0021", "text": "send it to li98 at mail[dot]example[dot]org thanks", "pii": "li98 at mail[dot]example[dot]org", "kind": "email_obf"}
+{"id": "P0022", "text": "forward to аhmed2@mail.example.оrg", "pii": "аhmed2@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0023", "text": "my number is five one seven one seven nine four nine four", "pii": "five one seven one seven nine four nine four", "kind": "ssn_obf"}
+{"id": "P0024", "text": "Please contact raj32@acme.com about lot status", "pii": "raj32@acme.com", "kind": "email"}
+{"id": "P0025", "text": "SSN: 137-30-7081", "pii": "137-30-7081", "kind": "ssn"}
+{"id": "P0026", "text": "phone 565-931-5009 ext 4", "pii": "565-931-5009", "kind": "phone"}
+{"id": "P0027", "text": "send it to olga58[at]biotech(dot)io thanks", "pii": "olga58[at]biotech(dot)io", "kind": "email_obf"}
+{"id": "P0028", "text": "forward to emmа22@biоtech.iо", "pii": "emmа22@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0029", "text": "my number is 3 5 6 8 1 1 4 9 2", "pii": "3 5 6 8 1 1 4 9 2", "kind": "ssn_obf"}
+{"id": "P0030", "text": "my email is john14@biotech.io.", "pii": "john14@biotech.io", "kind": "email"}
+{"id": "P0031", "text": "SSN: 146-44-3016", "pii": "146-44-3016", "kind": "ssn"}
+{"id": "P0032", "text": "call me at 754-806-4726", "pii": "754-806-4726", "kind": "phone"}
+{"id": "P0033", "text": "send it to li89[at]biotech[dot]io thanks", "pii": "li89[at]biotech[dot]io", "kind": "email_obf"}
+{"id": "P0034", "text": "forward to оlgа92@acme.cоm", "pii": "оlgа92@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0035", "text": "my number is four two eight six one one eight seven seven", "pii": "four two eight six one one eight seven seven", "kind": "ssn_obf"}
+{"id": "P0036", "text": "Please contact chen24@mail.example.org about lot status", "pii": "chen24@mail.example.org", "kind": "email"}
+{"id": "P0037", "text": "SSN: 305-74-1341", "pii": "305-74-1341", "kind": "ssn"}
+{"id": "P0038", "text": "reach the supervisor on (894) 838-5479", "pii": "894 838 5479", "kind": "phone"}
+{"id": "P0039", "text": "send it to emma56[at]acme dot com thanks", "pii": "emma56[at]acme dot com", "kind": "email_obf"}
+{"id": "P0040", "text": "forward to sоfiа35@acme.cоm", "pii": "sоfiа35@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0041", "text": "my number is 704783431", "pii": "704783431", "kind": "ssn_obf"}
+{"id": "P0042", "text": "cc sofia95@gmail.com on the deviation", "pii": "sofia95@gmail.com", "kind": "email"}
+{"id": "P0043", "text": "my social is 724-98-4630 please verify", "pii": "724-98-4630", "kind": "ssn"}
+{"id": "P0044", "text": "call me at 680-517-1507", "pii": "680-517-1507", "kind": "phone"}
+{"id": "P0045", "text": "send it to chen2 at mail[dot]example[dot]org thanks", "pii": "chen2 at mail[dot]example[dot]org", "kind": "email_obf"}
+{"id": "P0046", "text": "forward to аhmed38@cоrp.example.net", "pii": "аhmed38@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0047", "text": "my number is two six two eight zero two zero nine four", "pii": "two six two eight zero two zero nine four", "kind": "ssn_obf"}
+{"id": "P0048", "text": "Please contact john67@biotech.io about lot status", "pii": "john67@biotech.io", "kind": "email"}
+{"id": "P0049", "text": "my social is 445-95-6774 please verify", "pii": "445-95-6774", "kind": "ssn"}
+{"id": "P0050", "text": "phone 475-845-3085 ext 4", "pii": "475-845-3085", "kind": "phone"}
+{"id": "P0051", "text": "send it to maria54[at]acme[dot]com thanks", "pii": "maria54[at]acme[dot]com", "kind": "email_obf"}
+{"id": "P0052", "text": "forward to оlgа46@gmail.cоm", "pii": "оlgа46@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P0053", "text": "my number is six six eight eight six seven two nine nine", "pii": "six six eight eight six seven two nine nine", "kind": "ssn_obf"}
+{"id": "P0054", "text": "cc raj56@gmail.com on the deviation", "pii": "raj56@gmail.com", "kind": "email"}
+{"id": "P0055", "text": "SSN: 337-21-6408", "pii": "337-21-6408", "kind": "ssn"}
+{"id": "P0056", "text": "phone 462-778-9148 ext 4", "pii": "462-778-9148", "kind": "phone"}
+{"id": "P0057", "text": "send it to emma50(at)corp[dot]example[dot]net thanks", "pii": "emma50(at)corp[dot]example[dot]net", "kind": "email_obf"}
+{"id": "P0058", "text": "forward to jоhn68@biоtech.iо", "pii": "jоhn68@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0059", "text": "my number is 519579206", "pii": "519579206", "kind": "ssn_obf"}
+{"id": "P0060", "text": "my email is olga22@gmail.com.", "pii": "olga22@gmail.com", "kind": "email"}
+{"id": "P0061", "text": "my social is 176-49-9398 please verify", "pii": "176-49-9398", "kind": "ssn"}
+{"id": "P0062", "text": "call me at 736-496-9382", "pii": "736-496-9382", "kind": "phone"}
+{"id": "P0063", "text": "send it to emma46[at]mail(dot)example(dot)org thanks", "pii": "emma46[at]mail(dot)example(dot)org", "kind": "email_obf"}
+{"id": "P0064", "text": "forward to оlgа76@acme.cоm", "pii": "оlgа76@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0065", "text": "my number is three zero one three two nine one five six", "pii": "three zero one three two nine one five six", "kind": "ssn_obf"}
+{"id": "P0066", "text": "Please contact emma19@biotech.io about lot status", "pii": "emma19@biotech.io", "kind": "email"}
+{"id": "P0067", "text": "SSN: 209-13-2640", "pii": "209-13-2640", "kind": "ssn"}
+{"id": "P0068", "text": "call me at 900-989-6289", "pii": "900-989-6289", "kind": "phone"}
+{"id": "P0069", "text": "send it to ahmed75(at)corp dot example dot net thanks", "pii": "ahmed75(at)corp dot example dot net", "kind": "email_obf"}
+{"id": "P0070", "text": "forward to аhmed75@gmail.cоm", "pii": "аhmed75@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P0071", "text": "my number is 155894904", "pii": "155894904", "kind": "ssn_obf"}
+{"id": "P0072", "text": "Please contact luis64@mail.example.org about lot status", "pii": "luis64@mail.example.org", "kind": "email"}
+{"id": "P0073", "text": "my social is 791-84-4627 please verify", "pii": "791-84-4627", "kind": "ssn"}
+{"id": "P0074", "text": "call me at 374-566-7209", "pii": "374-566-7209", "kind": "phone"}
+{"id": "P0075", "text": "send it to john50 [at] corp[dot]example[dot]net thanks", "pii": "john50 [at] corp[dot]example[dot]net", "kind": "email_obf"}
+{"id": "P0076", "text": "forward to mаria37@acme.cоm", "pii": "mаria37@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0077", "text": "my number is 546145573", "pii": "546145573", "kind": "ssn_obf"}
+{"id": "P0078", "text": "Please contact ahmed60@mail.example.org about lot status", "pii": "ahmed60@mail.example.org", "kind": "email"}
+{"id": "P0079", "text": "SSN: 461-37-7638", "pii": "461-37-7638", "kind": "ssn"}
+{"id": "P0080", "text": "reach the supervisor on (891) 334-5272", "pii": "891 334 5272", "kind": "phone"}
+{"id": "P0081", "text": "send it to raj28[at]biotech dot io thanks", "pii": "raj28[at]biotech dot io", "kind": "email_obf"}
+{"id": "P0082", "text": "forward to emmа40@acme.cоm", "pii": "emmа40@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0083", "text": "my number is 827213900", "pii": "827213900", "kind": "ssn_obf"}
+{"id": "P0084", "text": "cc maria9@acme.com on the deviation", "pii": "maria9@acme.com", "kind": "email"}
+{"id": "P0085", "text": "SSN: 331-46-3066", "pii": "331-46-3066", "kind": "ssn"}
+{"id": "P0086", "text": "phone 483-380-1484 ext 4", "pii": "483-380-1484", "kind": "phone"}
+{"id": "P0087", "text": "send it to chen81 at gmail dot com thanks", "pii": "chen81 at gmail dot com", "kind": "email_obf"}
+{"id": "P0088", "text": "forward to sоfiа52@acme.cоm", "pii": "sоfiа52@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0089", "text": "my number is 2 6 5 6 5 4 2 4 5", "pii": "2 6 5 6 5 4 2 4 5", "kind": "ssn_obf"}
+{"id": "P0090", "text": "cc john92@biotech.io on the deviation", "pii": "john92@biotech.io", "kind": "email"}
+{"id": "P0091", "text": "employee ssn 786-97-6718 needs update", "pii": "786-97-6718", "kind": "ssn"}
+{"id": "P0092", "text": "phone 897-313-1608 ext 4", "pii": "897-313-1608", "kind": "phone"}
+{"id": "P0093", "text": "send it to ahmed96 at corp(dot)example(dot)net thanks", "pii": "ahmed96 at corp(dot)example(dot)net", "kind": "email_obf"}
+{"id": "P0094", "text": "forward to sоfiа95@biоtech.iо", "pii": "sоfiа95@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0095", "text": "my number is 155964374", "pii": "155964374", "kind": "ssn_obf"}
+{"id": "P0096", "text": "Please contact raj82@mail.example.org about lot status", "pii": "raj82@mail.example.org", "kind": "email"}
+{"id": "P0097", "text": "employee ssn 355-17-3753 needs update", "pii": "355-17-3753", "kind": "ssn"}
+{"id": "P0098", "text": "reach the supervisor on (886) 694-4897", "pii": "886 694 4897", "kind": "phone"}
+{"id": "P0099", "text": "send it to ahmed90 at acme[dot]com thanks", "pii": "ahmed90 at acme[dot]com", "kind": "email_obf"}
+{"id": "P0100", "text": "forward to li55@biоtech.iо", "pii": "li55@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0101", "text": "my number is 713697653", "pii": "713697653", "kind": "ssn_obf"}
+{"id": "P0102", "text": "cc chen15@gmail.com on the deviation", "pii": "chen15@gmail.com", "kind": "email"}
+{"id": "P0103", "text": "SSN: 215-30-6316", "pii": "215-30-6316", "kind": "ssn"}
+{"id": "P0104", "text": "call me at 679-968-8954", "pii": "679-968-8954", "kind": "phone"}
+{"id": "P0105", "text": "send it to chen70[at]biotech[dot]io thanks", "pii": "chen70[at]biotech[dot]io", "kind": "email_obf"}
+{"id": "P0106", "text": "forward to chen18@аcme.cоm", "pii": "chen18@аcme.cоm", "kind": "email_homoglyph"}
+{"id": "P0107", "text": "my number is eight nine three six zero three three seven seven", "pii": "eight nine three six zero three three seven seven", "kind": "ssn_obf"}
+{"id": "P0108", "text": "Please contact emma41@mail.example.org about lot status", "pii": "emma41@mail.example.org", "kind": "email"}
+{"id": "P0109", "text": "employee ssn 664-57-5154 needs update", "pii": "664-57-5154", "kind": "ssn"}
+{"id": "P0110", "text": "phone 633-711-3580 ext 4", "pii": "633-711-3580", "kind": "phone"}
+{"id": "P0111", "text": "send it to luis18 [at] biotech[dot]io thanks", "pii": "luis18 [at] biotech[dot]io", "kind": "email_obf"}
+{"id": "P0112", "text": "forward to mаria1@acme.cоm", "pii": "mаria1@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0113", "text": "my number is six two three six four three three four five", "pii": "six two three six four three three four five", "kind": "ssn_obf"}
+{"id": "P0114", "text": "my email is olga49@corp.example.net.", "pii": "olga49@corp.example.net", "kind": "email"}
+{"id": "P0115", "text": "employee ssn 676-96-6703 needs update", "pii": "676-96-6703", "kind": "ssn"}
+{"id": "P0116", "text": "phone 747-840-3529 ext 4", "pii": "747-840-3529", "kind": "phone"}
+{"id": "P0117", "text": "send it to luis73 [at] biotech(dot)io thanks", "pii": "luis73 [at] biotech(dot)io", "kind": "email_obf"}
+{"id": "P0118", "text": "forward to chen82@gmаil.cоm", "pii": "chen82@gmаil.cоm", "kind": "email_homoglyph"}
+{"id": "P0119", "text": "my number is three two seven nine six eight three two nine", "pii": "three two seven nine six eight three two nine", "kind": "ssn_obf"}
+{"id": "P0120", "text": "my email is luis73@corp.example.net.", "pii": "luis73@corp.example.net", "kind": "email"}
+{"id": "P0121", "text": "employee ssn 216-39-3957 needs update", "pii": "216-39-3957", "kind": "ssn"}
+{"id": "P0122", "text": "reach the supervisor on (926) 701-4719", "pii": "926 701 4719", "kind": "phone"}
+{"id": "P0123", "text": "send it to raj53[at]mail(dot)example(dot)org thanks", "pii": "raj53[at]mail(dot)example(dot)org", "kind": "email_obf"}
+{"id": "P0124", "text": "forward to rаj81@mail.example.оrg", "pii": "rаj81@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0125", "text": "my number is five seven one nine seven seven four two one", "pii": "five seven one nine seven seven four two one", "kind": "ssn_obf"}
+{"id": "P0126", "text": "Please contact raj48@acme.com about lot status", "pii": "raj48@acme.com", "kind": "email"}
+{"id": "P0127", "text": "SSN: 318-68-5914", "pii": "318-68-5914", "kind": "ssn"}
+{"id": "P0128", "text": "phone 945-563-3752 ext 4", "pii": "945-563-3752", "kind": "phone"}
+{"id": "P0129", "text": "send it to chen46 [at] acme(dot)com thanks", "pii": "chen46 [at] acme(dot)com", "kind": "email_obf"}
+{"id": "P0130", "text": "forward to jоhn5@biоtech.iо", "pii": "jоhn5@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0131", "text": "my number is 462348319", "pii": "462348319", "kind": "ssn_obf"}
+{"id": "P0132", "text": "cc john88@gmail.com on the deviation", "pii": "john88@gmail.com", "kind": "email"}
+{"id": "P0133", "text": "SSN: 702-42-9821", "pii": "702-42-9821", "kind": "ssn"}
+{"id": "P0134", "text": "call me at 713-695-1518", "pii": "713-695-1518", "kind": "phone"}
+{"id": "P0135", "text": "send it to maria51[at]mail dot example dot org thanks", "pii": "maria51[at]mail dot example dot org", "kind": "email_obf"}
+{"id": "P0136", "text": "forward to chen28@cоrp.exаmple.net", "pii": "chen28@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P0137", "text": "my number is 8 4 4 6 9 6 4 2 9", "pii": "8 4 4 6 9 6 4 2 9", "kind": "ssn_obf"}
+{"id": "P0138", "text": "my email is chen32@acme.com.", "pii": "chen32@acme.com", "kind": "email"}
+{"id": "P0139", "text": "employee ssn 746-28-3353 needs update", "pii": "746-28-3353", "kind": "ssn"}
+{"id": "P0140", "text": "reach the supervisor on (798) 342-1558", "pii": "798 342 1558", "kind": "phone"}
+{"id": "P0141", "text": "send it to maria19[at]mail(dot)example(dot)org thanks", "pii": "maria19[at]mail(dot)example(dot)org", "kind": "email_obf"}
+{"id": "P0142", "text": "forward to sоfiа71@cоrp.example.net", "pii": "sоfiа71@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0143", "text": "my number is 161536295", "pii": "161536295", "kind": "ssn_obf"}
+{"id": "P0144", "text": "my email is ahmed52@corp.example.net.", "pii": "ahmed52@corp.example.net", "kind": "email"}
+{"id": "P0145", "text": "SSN: 890-48-3767", "pii": "890-48-3767", "kind": "ssn"}
+{"id": "P0146", "text": "reach the supervisor on (275) 394-2311", "pii": "275 394 2311", "kind": "phone"}
+{"id": "P0147", "text": "send it to li93 [at] corp dot example dot net thanks", "pii": "li93 [at] corp dot example dot net", "kind": "email_obf"}
+{"id": "P0148", "text": "forward to chen81@mаil.example.оrg", "pii": "chen81@mаil.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0149", "text": "my number is 821124576", "pii": "821124576", "kind": "ssn_obf"}
+{"id": "P0150", "text": "cc luis17@corp.example.net on the deviation", "pii": "luis17@corp.example.net", "kind": "email"}
+{"id": "P0151", "text": "employee ssn 175-83-6589 needs update", "pii": "175-83-6589", "kind": "ssn"}
+{"id": "P0152", "text": "phone 228-417-6268 ext 4", "pii": "228-417-6268", "kind": "phone"}
+{"id": "P0153", "text": "send it to john6(at)gmail dot com thanks", "pii": "john6(at)gmail dot com", "kind": "email_obf"}
+{"id": "P0154", "text": "forward to rаj73@biоtech.iо", "pii": "rаj73@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0155", "text": "my number is 525886393", "pii": "525886393", "kind": "ssn_obf"}
+{"id": "P0156", "text": "cc ahmed69@mail.example.org on the deviation", "pii": "ahmed69@mail.example.org", "kind": "email"}
+{"id": "P0157", "text": "my social is 257-94-6420 please verify", "pii": "257-94-6420", "kind": "ssn"}
+{"id": "P0158", "text": "reach the supervisor on (867) 991-8424", "pii": "867 991 8424", "kind": "phone"}
+{"id": "P0159", "text": "send it to sofia72[at]corp[dot]example[dot]net thanks", "pii": "sofia72[at]corp[dot]example[dot]net", "kind": "email_obf"}
+{"id": "P0160", "text": "forward to chen80@mаil.example.оrg", "pii": "chen80@mаil.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0161", "text": "my number is 1 6 1 7 9 9 2 2 2", "pii": "1 6 1 7 9 9 2 2 2", "kind": "ssn_obf"}
+{"id": "P0162", "text": "Please contact luis68@corp.example.net about lot status", "pii": "luis68@corp.example.net", "kind": "email"}
+{"id": "P0163", "text": "SSN: 552-73-4492", "pii": "552-73-4492", "kind": "ssn"}
+{"id": "P0164", "text": "reach the supervisor on (267) 860-7583", "pii": "267 860 7583", "kind": "phone"}
+{"id": "P0165", "text": "send it to chen4[at]acme[dot]com thanks", "pii": "chen4[at]acme[dot]com", "kind": "email_obf"}
+{"id": "P0166", "text": "forward to sоfiа83@gmail.cоm", "pii": "sоfiа83@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P0167", "text": "my number is 610373567", "pii": "610373567", "kind": "ssn_obf"}
+{"id": "P0168", "text": "cc sofia41@corp.example.net on the deviation", "pii": "sofia41@corp.example.net", "kind": "email"}
+{"id": "P0169", "text": "employee ssn 563-37-1854 needs update", "pii": "563-37-1854", "kind": "ssn"}
+{"id": "P0170", "text": "call me at 901-225-2827", "pii": "901-225-2827", "kind": "phone"}
+{"id": "P0171", "text": "send it to john97 [at] mail dot example dot org thanks", "pii": "john97 [at] mail dot example dot org", "kind": "email_obf"}
+{"id": "P0172", "text": "forward to оlgа26@acme.cоm", "pii": "оlgа26@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0173", "text": "my number is two three eight seven four four seven nine five", "pii": "two three eight seven four four seven nine five", "kind": "ssn_obf"}
+{"id": "P0174", "text": "my email is john68@acme.com.", "pii": "john68@acme.com", "kind": "email"}
+{"id": "P0175", "text": "my social is 329-97-9854 please verify", "pii": "329-97-9854", "kind": "ssn"}
+{"id": "P0176", "text": "reach the supervisor on (557) 420-4669", "pii": "557 420 4669", "kind": "phone"}
+{"id": "P0177", "text": "send it to maria6[at]corp dot example dot net thanks", "pii": "maria6[at]corp dot example dot net", "kind": "email_obf"}
+{"id": "P0178", "text": "forward to оlgа84@biоtech.iо", "pii": "оlgа84@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0179", "text": "my number is 3 8 8 8 0 6 4 1 9", "pii": "3 8 8 8 0 6 4 1 9", "kind": "ssn_obf"}
+{"id": "P0180", "text": "Please contact olga53@corp.example.net about lot status", "pii": "olga53@corp.example.net", "kind": "email"}
+{"id": "P0181", "text": "employee ssn 722-74-5172 needs update", "pii": "722-74-5172", "kind": "ssn"}
+{"id": "P0182", "text": "reach the supervisor on (933) 250-7648", "pii": "933 250 7648", "kind": "phone"}
+{"id": "P0183", "text": "send it to emma59[at]corp(dot)example(dot)net thanks", "pii": "emma59[at]corp(dot)example(dot)net", "kind": "email_obf"}
+{"id": "P0184", "text": "forward to rаj46@gmail.cоm", "pii": "rаj46@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P0185", "text": "my number is six three eight four four six two seven seven", "pii": "six three eight four four six two seven seven", "kind": "ssn_obf"}
+{"id": "P0186", "text": "cc ahmed67@biotech.io on the deviation", "pii": "ahmed67@biotech.io", "kind": "email"}
+{"id": "P0187", "text": "my social is 326-28-2078 please verify", "pii": "326-28-2078", "kind": "ssn"}
+{"id": "P0188", "text": "reach the supervisor on (889) 376-3497", "pii": "889 376 3497", "kind": "phone"}
+{"id": "P0189", "text": "send it to raj55 [at] mail dot example dot org thanks", "pii": "raj55 [at] mail dot example dot org", "kind": "email_obf"}
+{"id": "P0190", "text": "forward to li67@cоrp.exаmple.net", "pii": "li67@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P0191", "text": "my number is seven seven eight two one five five zero five", "pii": "seven seven eight two one five five zero five", "kind": "ssn_obf"}
+{"id": "P0192", "text": "cc maria1@gmail.com on the deviation", "pii": "maria1@gmail.com", "kind": "email"}
+{"id": "P0193", "text": "SSN: 600-76-4893", "pii": "600-76-4893", "kind": "ssn"}
+{"id": "P0194", "text": "call me at 200-784-5254", "pii": "200-784-5254", "kind": "phone"}
+{"id": "P0195", "text": "send it to luis34[at]mail[dot]example[dot]org thanks", "pii": "luis34[at]mail[dot]example[dot]org", "kind": "email_obf"}
+{"id": "P0196", "text": "forward to emmа6@gmail.cоm", "pii": "emmа6@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P0197", "text": "my number is 4 7 5 1 5 5 8 3 7", "pii": "4 7 5 1 5 5 8 3 7", "kind": "ssn_obf"}
+{"id": "P0198", "text": "cc ahmed9@gmail.com on the deviation", "pii": "ahmed9@gmail.com", "kind": "email"}
+{"id": "P0199", "text": "SSN: 172-20-8299", "pii": "172-20-8299", "kind": "ssn"}
+{"id": "P0200", "text": "phone 673-917-8145 ext 4", "pii": "673-917-8145", "kind": "phone"}
+{"id": "P0201", "text": "send it to raj97 at mail dot example dot org thanks", "pii": "raj97 at mail dot example dot org", "kind": "email_obf"}
+{"id": "P0202", "text": "forward to аhmed99@gmail.cоm", "pii": "аhmed99@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P0203", "text": "my number is 1 9 2 3 8 2 2 6 3", "pii": "1 9 2 3 8 2 2 6 3", "kind": "ssn_obf"}
+{"id": "P0204", "text": "Please contact maria62@mail.example.org about lot status", "pii": "maria62@mail.example.org", "kind": "email"}
+{"id": "P0205", "text": "SSN: 697-27-7667", "pii": "697-27-7667", "kind": "ssn"}
+{"id": "P0206", "text": "phone 751-481-9519 ext 4", "pii": "751-481-9519", "kind": "phone"}
+{"id": "P0207", "text": "send it to maria54[at]corp(dot)example(dot)net thanks", "pii": "maria54[at]corp(dot)example(dot)net", "kind": "email_obf"}
+{"id": "P0208", "text": "forward to sоfiа26@cоrp.example.net", "pii": "sоfiа26@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0209", "text": "my number is three one two seven eight seven one two four", "pii": "three one two seven eight seven one two four", "kind": "ssn_obf"}
+{"id": "P0210", "text": "my email is luis94@mail.example.org.", "pii": "luis94@mail.example.org", "kind": "email"}
+{"id": "P0211", "text": "SSN: 169-62-6301", "pii": "169-62-6301", "kind": "ssn"}
+{"id": "P0212", "text": "call me at 615-945-8288", "pii": "615-945-8288", "kind": "phone"}
+{"id": "P0213", "text": "send it to ahmed77 at acme[dot]com thanks", "pii": "ahmed77 at acme[dot]com", "kind": "email_obf"}
+{"id": "P0214", "text": "forward to jоhn28@biоtech.iо", "pii": "jоhn28@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0215", "text": "my number is 249369457", "pii": "249369457", "kind": "ssn_obf"}
+{"id": "P0216", "text": "Please contact maria20@acme.com about lot status", "pii": "maria20@acme.com", "kind": "email"}
+{"id": "P0217", "text": "my social is 263-67-5810 please verify", "pii": "263-67-5810", "kind": "ssn"}
+{"id": "P0218", "text": "reach the supervisor on (761) 419-3488", "pii": "761 419 3488", "kind": "phone"}
+{"id": "P0219", "text": "send it to ahmed29[at]gmail(dot)com thanks", "pii": "ahmed29[at]gmail(dot)com", "kind": "email_obf"}
+{"id": "P0220", "text": "forward to аhmed15@gmail.cоm", "pii": "аhmed15@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P0221", "text": "my number is 225944448", "pii": "225944448", "kind": "ssn_obf"}
+{"id": "P0222", "text": "my email is sofia36@gmail.com.", "pii": "sofia36@gmail.com", "kind": "email"}
+{"id": "P0223", "text": "employee ssn 653-21-4298 needs update", "pii": "653-21-4298", "kind": "ssn"}
+{"id": "P0224", "text": "call me at 201-552-4184", "pii": "201-552-4184", "kind": "phone"}
+{"id": "P0225", "text": "send it to sofia43(at)acme(dot)com thanks", "pii": "sofia43(at)acme(dot)com", "kind": "email_obf"}
+{"id": "P0226", "text": "forward to li21@аcme.cоm", "pii": "li21@аcme.cоm", "kind": "email_homoglyph"}
+{"id": "P0227", "text": "my number is 5 7 2 1 4 1 5 5 2", "pii": "5 7 2 1 4 1 5 5 2", "kind": "ssn_obf"}
+{"id": "P0228", "text": "Please contact li47@gmail.com about lot status", "pii": "li47@gmail.com", "kind": "email"}
+{"id": "P0229", "text": "employee ssn 105-92-8868 needs update", "pii": "105-92-8868", "kind": "ssn"}
+{"id": "P0230", "text": "call me at 476-748-9864", "pii": "476-748-9864", "kind": "phone"}
+{"id": "P0231", "text": "send it to chen47(at)gmail dot com thanks", "pii": "chen47(at)gmail dot com", "kind": "email_obf"}
+{"id": "P0232", "text": "forward to оlgа31@biоtech.iо", "pii": "оlgа31@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0233", "text": "my number is two zero eight one six nine zero zero one", "pii": "two zero eight one six nine zero zero one", "kind": "ssn_obf"}
+{"id": "P0234", "text": "cc ahmed51@acme.com on the deviation", "pii": "ahmed51@acme.com", "kind": "email"}
+{"id": "P0235", "text": "employee ssn 398-82-2978 needs update", "pii": "398-82-2978", "kind": "ssn"}
+{"id": "P0236", "text": "call me at 451-274-6526", "pii": "451-274-6526", "kind": "phone"}
+{"id": "P0237", "text": "send it to john98 at mail[dot]example[dot]org thanks", "pii": "john98 at mail[dot]example[dot]org", "kind": "email_obf"}
+{"id": "P0238", "text": "forward to jоhn94@cоrp.exаmple.net", "pii": "jоhn94@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P0239", "text": "my number is two five four five four three two nine nine", "pii": "two five four five four three two nine nine", "kind": "ssn_obf"}
+{"id": "P0240", "text": "cc chen9@acme.com on the deviation", "pii": "chen9@acme.com", "kind": "email"}
+{"id": "P0241", "text": "my social is 740-16-6990 please verify", "pii": "740-16-6990", "kind": "ssn"}
+{"id": "P0242", "text": "call me at 465-910-5963", "pii": "465-910-5963", "kind": "phone"}
+{"id": "P0243", "text": "send it to raj96[at]biotech(dot)io thanks", "pii": "raj96[at]biotech(dot)io", "kind": "email_obf"}
+{"id": "P0244", "text": "forward to mаria72@cоrp.example.net", "pii": "mаria72@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0245", "text": "my number is six eight eight nine seven one eight two two", "pii": "six eight eight nine seven one eight two two", "kind": "ssn_obf"}
+{"id": "P0246", "text": "cc chen85@gmail.com on the deviation", "pii": "chen85@gmail.com", "kind": "email"}
+{"id": "P0247", "text": "SSN: 104-48-9012", "pii": "104-48-9012", "kind": "ssn"}
+{"id": "P0248", "text": "call me at 349-543-9935", "pii": "349-543-9935", "kind": "phone"}
+{"id": "P0249", "text": "send it to maria35 [at] corp dot example dot net thanks", "pii": "maria35 [at] corp dot example dot net", "kind": "email_obf"}
+{"id": "P0250", "text": "forward to оlgа49@biоtech.iо", "pii": "оlgа49@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0251", "text": "my number is 3 7 7 5 2 3 4 7 2", "pii": "3 7 7 5 2 3 4 7 2", "kind": "ssn_obf"}
+{"id": "P0252", "text": "my email is luis21@gmail.com.", "pii": "luis21@gmail.com", "kind": "email"}
+{"id": "P0253", "text": "my social is 100-32-2699 please verify", "pii": "100-32-2699", "kind": "ssn"}
+{"id": "P0254", "text": "reach the supervisor on (338) 971-5150", "pii": "338 971 5150", "kind": "phone"}
+{"id": "P0255", "text": "send it to olga47 [at] acme[dot]com thanks", "pii": "olga47 [at] acme[dot]com", "kind": "email_obf"}
+{"id": "P0256", "text": "forward to emmа8@acme.cоm", "pii": "emmа8@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0257", "text": "my number is four eight six six seven six zero nine seven", "pii": "four eight six six seven six zero nine seven", "kind": "ssn_obf"}
+{"id": "P0258", "text": "Please contact luis19@gmail.com about lot status", "pii": "luis19@gmail.com", "kind": "email"}
+{"id": "P0259", "text": "my social is 620-15-7426 please verify", "pii": "620-15-7426", "kind": "ssn"}
+{"id": "P0260", "text": "reach the supervisor on (630) 761-7677", "pii": "630 761 7677", "kind": "phone"}
+{"id": "P0261", "text": "send it to maria7(at)gmail(dot)com thanks", "pii": "maria7(at)gmail(dot)com", "kind": "email_obf"}
+{"id": "P0262", "text": "forward to li22@mаil.example.оrg", "pii": "li22@mаil.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0263", "text": "my number is 7 0 1 4 8 7 2 7 4", "pii": "7 0 1 4 8 7 2 7 4", "kind": "ssn_obf"}
+{"id": "P0264", "text": "my email is sofia88@gmail.com.", "pii": "sofia88@gmail.com", "kind": "email"}
+{"id": "P0265", "text": "my social is 427-59-8742 please verify", "pii": "427-59-8742", "kind": "ssn"}
+{"id": "P0266", "text": "call me at 997-522-1720", "pii": "997-522-1720", "kind": "phone"}
+{"id": "P0267", "text": "send it to sofia51 [at] biotech[dot]io thanks", "pii": "sofia51 [at] biotech[dot]io", "kind": "email_obf"}
+{"id": "P0268", "text": "forward to emmа6@cоrp.example.net", "pii": "emmа6@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0269", "text": "my number is four one two five five six eight nine five", "pii": "four one two five five six eight nine five", "kind": "ssn_obf"}
+{"id": "P0270", "text": "cc maria93@biotech.io on the deviation", "pii": "maria93@biotech.io", "kind": "email"}
+{"id": "P0271", "text": "SSN: 503-53-7553", "pii": "503-53-7553", "kind": "ssn"}
+{"id": "P0272", "text": "call me at 885-495-3188", "pii": "885-495-3188", "kind": "phone"}
+{"id": "P0273", "text": "send it to chen74 [at] acme[dot]com thanks", "pii": "chen74 [at] acme[dot]com", "kind": "email_obf"}
+{"id": "P0274", "text": "forward to аhmed65@biоtech.iо", "pii": "аhmed65@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0275", "text": "my number is one three four nine three seven two four one", "pii": "one three four nine three seven two four one", "kind": "ssn_obf"}
+{"id": "P0276", "text": "my email is sofia29@acme.com.", "pii": "sofia29@acme.com", "kind": "email"}
+{"id": "P0277", "text": "employee ssn 792-82-2288 needs update", "pii": "792-82-2288", "kind": "ssn"}
+{"id": "P0278", "text": "phone 844-982-3273 ext 4", "pii": "844-982-3273", "kind": "phone"}
+{"id": "P0279", "text": "send it to sofia15 at biotech[dot]io thanks", "pii": "sofia15 at biotech[dot]io", "kind": "email_obf"}
+{"id": "P0280", "text": "forward to sоfiа37@cоrp.example.net", "pii": "sоfiа37@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0281", "text": "my number is eight three zero one three four six five three", "pii": "eight three zero one three four six five three", "kind": "ssn_obf"}
+{"id": "P0282", "text": "my email is sofia52@gmail.com.", "pii": "sofia52@gmail.com", "kind": "email"}
+{"id": "P0283", "text": "my social is 518-38-1896 please verify", "pii": "518-38-1896", "kind": "ssn"}
+{"id": "P0284", "text": "call me at 641-664-8449", "pii": "641-664-8449", "kind": "phone"}
+{"id": "P0285", "text": "send it to chen10[at]biotech(dot)io thanks", "pii": "chen10[at]biotech(dot)io", "kind": "email_obf"}
+{"id": "P0286", "text": "forward to rаj96@mail.example.оrg", "pii": "rаj96@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0287", "text": "my number is 836122027", "pii": "836122027", "kind": "ssn_obf"}
+{"id": "P0288", "text": "my email is emma46@corp.example.net.", "pii": "emma46@corp.example.net", "kind": "email"}
+{"id": "P0289", "text": "employee ssn 857-32-6820 needs update", "pii": "857-32-6820", "kind": "ssn"}
+{"id": "P0290", "text": "phone 697-284-6531 ext 4", "pii": "697-284-6531", "kind": "phone"}
+{"id": "P0291", "text": "send it to raj46[at]mail[dot]example[dot]org thanks", "pii": "raj46[at]mail[dot]example[dot]org", "kind": "email_obf"}
+{"id": "P0292", "text": "forward to аhmed18@cоrp.example.net", "pii": "аhmed18@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0293", "text": "my number is 319849704", "pii": "319849704", "kind": "ssn_obf"}
+{"id": "P0294", "text": "cc raj80@acme.com on the deviation", "pii": "raj80@acme.com", "kind": "email"}
+{"id": "P0295", "text": "SSN: 887-91-4370", "pii": "887-91-4370", "kind": "ssn"}
+{"id": "P0296", "text": "reach the supervisor on (404) 650-8477", "pii": "404 650 8477", "kind": "phone"}
+{"id": "P0297", "text": "send it to luis84 at gmail(dot)com thanks", "pii": "luis84 at gmail(dot)com", "kind": "email_obf"}
+{"id": "P0298", "text": "forward to rаj9@gmail.cоm", "pii": "rаj9@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P0299", "text": "my number is 105604672", "pii": "105604672", "kind": "ssn_obf"}
+{"id": "P0300", "text": "cc maria29@mail.example.org on the deviation", "pii": "maria29@mail.example.org", "kind": "email"}
+{"id": "P0301", "text": "SSN: 753-83-7778", "pii": "753-83-7778", "kind": "ssn"}
+{"id": "P0302", "text": "call me at 391-346-9668", "pii": "391-346-9668", "kind": "phone"}
+{"id": "P0303", "text": "send it to luis4[at]biotech(dot)io thanks", "pii": "luis4[at]biotech(dot)io", "kind": "email_obf"}
+{"id": "P0304", "text": "forward to emmа85@biоtech.iо", "pii": "emmа85@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0305", "text": "my number is 397687503", "pii": "397687503", "kind": "ssn_obf"}
+{"id": "P0306", "text": "my email is li86@biotech.io.", "pii": "li86@biotech.io", "kind": "email"}
+{"id": "P0307", "text": "employee ssn 188-79-9514 needs update", "pii": "188-79-9514", "kind": "ssn"}
+{"id": "P0308", "text": "call me at 509-516-5845", "pii": "509-516-5845", "kind": "phone"}
+{"id": "P0309", "text": "send it to raj6 at biotech dot io thanks", "pii": "raj6 at biotech dot io", "kind": "email_obf"}
+{"id": "P0310", "text": "forward to emmа3@gmail.cоm", "pii": "emmа3@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P0311", "text": "my number is seven eight six nine seven three two one two", "pii": "seven eight six nine seven three two one two", "kind": "ssn_obf"}
+{"id": "P0312", "text": "my email is sofia42@gmail.com.", "pii": "sofia42@gmail.com", "kind": "email"}
+{"id": "P0313", "text": "SSN: 553-30-8754", "pii": "553-30-8754", "kind": "ssn"}
+{"id": "P0314", "text": "phone 548-436-9912 ext 4", "pii": "548-436-9912", "kind": "phone"}
+{"id": "P0315", "text": "send it to chen14(at)acme dot com thanks", "pii": "chen14(at)acme dot com", "kind": "email_obf"}
+{"id": "P0316", "text": "forward to оlgа28@cоrp.example.net", "pii": "оlgа28@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0317", "text": "my number is seven six five nine four nine eight two one", "pii": "seven six five nine four nine eight two one", "kind": "ssn_obf"}
+{"id": "P0318", "text": "Please contact maria92@mail.example.org about lot status", "pii": "maria92@mail.example.org", "kind": "email"}
+{"id": "P0319", "text": "SSN: 548-88-3726", "pii": "548-88-3726", "kind": "ssn"}
+{"id": "P0320", "text": "reach the supervisor on (907) 414-5251", "pii": "907 414 5251", "kind": "phone"}
+{"id": "P0321", "text": "send it to luis10[at]mail dot example dot org thanks", "pii": "luis10[at]mail dot example dot org", "kind": "email_obf"}
+{"id": "P0322", "text": "forward to emmа93@acme.cоm", "pii": "emmа93@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0323", "text": "my number is 8 0 4 4 5 8 3 7 3", "pii": "8 0 4 4 5 8 3 7 3", "kind": "ssn_obf"}
+{"id": "P0324", "text": "my email is olga59@gmail.com.", "pii": "olga59@gmail.com", "kind": "email"}
+{"id": "P0325", "text": "my social is 131-59-4706 please verify", "pii": "131-59-4706", "kind": "ssn"}
+{"id": "P0326", "text": "reach the supervisor on (274) 291-3589", "pii": "274 291 3589", "kind": "phone"}
+{"id": "P0327", "text": "send it to luis13 [at] corp dot example dot net thanks", "pii": "luis13 [at] corp dot example dot net", "kind": "email_obf"}
+{"id": "P0328", "text": "forward to sоfiа2@acme.cоm", "pii": "sоfiа2@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0329", "text": "my number is 4 6 3 5 6 9 8 8 3", "pii": "4 6 3 5 6 9 8 8 3", "kind": "ssn_obf"}
+{"id": "P0330", "text": "my email is sofia22@corp.example.net.", "pii": "sofia22@corp.example.net", "kind": "email"}
+{"id": "P0331", "text": "SSN: 329-93-4177", "pii": "329-93-4177", "kind": "ssn"}
+{"id": "P0332", "text": "phone 301-879-7183 ext 4", "pii": "301-879-7183", "kind": "phone"}
+{"id": "P0333", "text": "send it to ahmed59 [at] corp(dot)example(dot)net thanks", "pii": "ahmed59 [at] corp(dot)example(dot)net", "kind": "email_obf"}
+{"id": "P0334", "text": "forward to mаria57@gmail.cоm", "pii": "mаria57@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P0335", "text": "my number is 295185359", "pii": "295185359", "kind": "ssn_obf"}
+{"id": "P0336", "text": "cc chen73@biotech.io on the deviation", "pii": "chen73@biotech.io", "kind": "email"}
+{"id": "P0337", "text": "employee ssn 161-65-9598 needs update", "pii": "161-65-9598", "kind": "ssn"}
+{"id": "P0338", "text": "phone 688-471-8675 ext 4", "pii": "688-471-8675", "kind": "phone"}
+{"id": "P0339", "text": "send it to li85[at]acme[dot]com thanks", "pii": "li85[at]acme[dot]com", "kind": "email_obf"}
+{"id": "P0340", "text": "forward to mаria4@gmail.cоm", "pii": "mаria4@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P0341", "text": "my number is six five zero nine two four eight three five", "pii": "six five zero nine two four eight three five", "kind": "ssn_obf"}
+{"id": "P0342", "text": "Please contact chen90@mail.example.org about lot status", "pii": "chen90@mail.example.org", "kind": "email"}
+{"id": "P0343", "text": "SSN: 569-20-8362", "pii": "569-20-8362", "kind": "ssn"}
+{"id": "P0344", "text": "reach the supervisor on (267) 611-1410", "pii": "267 611 1410", "kind": "phone"}
+{"id": "P0345", "text": "send it to li66 [at] acme(dot)com thanks", "pii": "li66 [at] acme(dot)com", "kind": "email_obf"}
+{"id": "P0346", "text": "forward to аhmed35@biоtech.iо", "pii": "аhmed35@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0347", "text": "my number is one three two six two three nine zero eight", "pii": "one three two six two three nine zero eight", "kind": "ssn_obf"}
+{"id": "P0348", "text": "cc chen61@mail.example.org on the deviation", "pii": "chen61@mail.example.org", "kind": "email"}
+{"id": "P0349", "text": "SSN: 240-43-4939", "pii": "240-43-4939", "kind": "ssn"}
+{"id": "P0350", "text": "call me at 971-258-3748", "pii": "971-258-3748", "kind": "phone"}
+{"id": "P0351", "text": "send it to olga20(at)mail(dot)example(dot)org thanks", "pii": "olga20(at)mail(dot)example(dot)org", "kind": "email_obf"}
+{"id": "P0352", "text": "forward to оlgа37@acme.cоm", "pii": "оlgа37@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0353", "text": "my number is five three zero one nine nine six seven three", "pii": "five three zero one nine nine six seven three", "kind": "ssn_obf"}
+{"id": "P0354", "text": "cc maria67@gmail.com on the deviation", "pii": "maria67@gmail.com", "kind": "email"}
+{"id": "P0355", "text": "my social is 177-85-5150 please verify", "pii": "177-85-5150", "kind": "ssn"}
+{"id": "P0356", "text": "reach the supervisor on (463) 893-2202", "pii": "463 893 2202", "kind": "phone"}
+{"id": "P0357", "text": "send it to john57(at)biotech[dot]io thanks", "pii": "john57(at)biotech[dot]io", "kind": "email_obf"}
+{"id": "P0358", "text": "forward to li53@gmаil.cоm", "pii": "li53@gmаil.cоm", "kind": "email_homoglyph"}
+{"id": "P0359", "text": "my number is 8 6 5 3 9 7 0 7 5", "pii": "8 6 5 3 9 7 0 7 5", "kind": "ssn_obf"}
+{"id": "P0360", "text": "Please contact raj66@corp.example.net about lot status", "pii": "raj66@corp.example.net", "kind": "email"}
+{"id": "P0361", "text": "SSN: 530-92-2274", "pii": "530-92-2274", "kind": "ssn"}
+{"id": "P0362", "text": "reach the supervisor on (522) 379-8892", "pii": "522 379 8892", "kind": "phone"}
+{"id": "P0363", "text": "send it to john71 at mail(dot)example(dot)org thanks", "pii": "john71 at mail(dot)example(dot)org", "kind": "email_obf"}
+{"id": "P0364", "text": "forward to аhmed21@biоtech.iо", "pii": "аhmed21@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0365", "text": "my number is 5 6 5 9 5 1 7 4 7", "pii": "5 6 5 9 5 1 7 4 7", "kind": "ssn_obf"}
+{"id": "P0366", "text": "Please contact emma1@corp.example.net about lot status", "pii": "emma1@corp.example.net", "kind": "email"}
+{"id": "P0367", "text": "employee ssn 371-40-1316 needs update", "pii": "371-40-1316", "kind": "ssn"}
+{"id": "P0368", "text": "phone 734-557-6245 ext 4", "pii": "734-557-6245", "kind": "phone"}
+{"id": "P0369", "text": "send it to olga34[at]gmail dot com thanks", "pii": "olga34[at]gmail dot com", "kind": "email_obf"}
+{"id": "P0370", "text": "forward to luis65@аcme.cоm", "pii": "luis65@аcme.cоm", "kind": "email_homoglyph"}
+{"id": "P0371", "text": "my number is 2 9 2 8 7 1 8 3 9", "pii": "2 9 2 8 7 1 8 3 9", "kind": "ssn_obf"}
+{"id": "P0372", "text": "Please contact sofia76@acme.com about lot status", "pii": "sofia76@acme.com", "kind": "email"}
+{"id": "P0373", "text": "employee ssn 579-39-2528 needs update", "pii": "579-39-2528", "kind": "ssn"}
+{"id": "P0374", "text": "phone 849-668-4947 ext 4", "pii": "849-668-4947", "kind": "phone"}
+{"id": "P0375", "text": "send it to emma30[at]gmail(dot)com thanks", "pii": "emma30[at]gmail(dot)com", "kind": "email_obf"}
+{"id": "P0376", "text": "forward to аhmed27@biоtech.iо", "pii": "аhmed27@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0377", "text": "my number is two three four three zero two zero one six", "pii": "two three four three zero two zero one six", "kind": "ssn_obf"}
+{"id": "P0378", "text": "my email is sofia12@gmail.com.", "pii": "sofia12@gmail.com", "kind": "email"}
+{"id": "P0379", "text": "SSN: 626-40-3478", "pii": "626-40-3478", "kind": "ssn"}
+{"id": "P0380", "text": "reach the supervisor on (935) 733-6944", "pii": "935 733 6944", "kind": "phone"}
+{"id": "P0381", "text": "send it to raj56[at]biotech[dot]io thanks", "pii": "raj56[at]biotech[dot]io", "kind": "email_obf"}
+{"id": "P0382", "text": "forward to sоfiа99@biоtech.iо", "pii": "sоfiа99@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0383", "text": "my number is 557501836", "pii": "557501836", "kind": "ssn_obf"}
+{"id": "P0384", "text": "cc sofia39@mail.example.org on the deviation", "pii": "sofia39@mail.example.org", "kind": "email"}
+{"id": "P0385", "text": "my social is 547-76-2404 please verify", "pii": "547-76-2404", "kind": "ssn"}
+{"id": "P0386", "text": "phone 742-309-2157 ext 4", "pii": "742-309-2157", "kind": "phone"}
+{"id": "P0387", "text": "send it to li98(at)biotech[dot]io thanks", "pii": "li98(at)biotech[dot]io", "kind": "email_obf"}
+{"id": "P0388", "text": "forward to chen61@аcme.cоm", "pii": "chen61@аcme.cоm", "kind": "email_homoglyph"}
+{"id": "P0389", "text": "my number is seven one eight four six eight six two two", "pii": "seven one eight four six eight six two two", "kind": "ssn_obf"}
+{"id": "P0390", "text": "cc li33@mail.example.org on the deviation", "pii": "li33@mail.example.org", "kind": "email"}
+{"id": "P0391", "text": "my social is 730-51-6135 please verify", "pii": "730-51-6135", "kind": "ssn"}
+{"id": "P0392", "text": "phone 788-552-1170 ext 4", "pii": "788-552-1170", "kind": "phone"}
+{"id": "P0393", "text": "send it to luis39(at)acme[dot]com thanks", "pii": "luis39(at)acme[dot]com", "kind": "email_obf"}
+{"id": "P0394", "text": "forward to оlgа97@gmail.cоm", "pii": "оlgа97@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P0395", "text": "my number is 7 5 9 1 6 3 8 0 8", "pii": "7 5 9 1 6 3 8 0 8", "kind": "ssn_obf"}
+{"id": "P0396", "text": "my email is emma92@corp.example.net.", "pii": "emma92@corp.example.net", "kind": "email"}
+{"id": "P0397", "text": "my social is 276-50-3278 please verify", "pii": "276-50-3278", "kind": "ssn"}
+{"id": "P0398", "text": "reach the supervisor on (672) 966-4508", "pii": "672 966 4508", "kind": "phone"}
+{"id": "P0399", "text": "send it to chen4(at)corp dot example dot net thanks", "pii": "chen4(at)corp dot example dot net", "kind": "email_obf"}
+{"id": "P0400", "text": "forward to mаria40@biоtech.iо", "pii": "mаria40@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0401", "text": "my number is four one seven nine one eight seven zero eight", "pii": "four one seven nine one eight seven zero eight", "kind": "ssn_obf"}
+{"id": "P0402", "text": "Please contact chen54@biotech.io about lot status", "pii": "chen54@biotech.io", "kind": "email"}
+{"id": "P0403", "text": "my social is 313-56-9892 please verify", "pii": "313-56-9892", "kind": "ssn"}
+{"id": "P0404", "text": "phone 224-934-3146 ext 4", "pii": "224-934-3146", "kind": "phone"}
+{"id": "P0405", "text": "send it to maria29[at]mail(dot)example(dot)org thanks", "pii": "maria29[at]mail(dot)example(dot)org", "kind": "email_obf"}
+{"id": "P0406", "text": "forward to аhmed54@cоrp.example.net", "pii": "аhmed54@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0407", "text": "my number is four zero nine five two nine four four six", "pii": "four zero nine five two nine four four six", "kind": "ssn_obf"}
+{"id": "P0408", "text": "cc emma3@acme.com on the deviation", "pii": "emma3@acme.com", "kind": "email"}
+{"id": "P0409", "text": "employee ssn 682-56-1875 needs update", "pii": "682-56-1875", "kind": "ssn"}
+{"id": "P0410", "text": "call me at 773-418-3354", "pii": "773-418-3354", "kind": "phone"}
+{"id": "P0411", "text": "send it to raj54 [at] acme dot com thanks", "pii": "raj54 [at] acme dot com", "kind": "email_obf"}
+{"id": "P0412", "text": "forward to jоhn69@аcme.cоm", "pii": "jоhn69@аcme.cоm", "kind": "email_homoglyph"}
+{"id": "P0413", "text": "my number is six two nine three two four eight zero three", "pii": "six two nine three two four eight zero three", "kind": "ssn_obf"}
+{"id": "P0414", "text": "my email is maria7@gmail.com.", "pii": "maria7@gmail.com", "kind": "email"}
+{"id": "P0415", "text": "employee ssn 188-18-7800 needs update", "pii": "188-18-7800", "kind": "ssn"}
+{"id": "P0416", "text": "phone 403-433-3641 ext 4", "pii": "403-433-3641", "kind": "phone"}
+{"id": "P0417", "text": "send it to chen58 at biotech dot io thanks", "pii": "chen58 at biotech dot io", "kind": "email_obf"}
+{"id": "P0418", "text": "forward to аhmed62@biоtech.iо", "pii": "аhmed62@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0419", "text": "my number is 5 9 7 7 0 5 5 3 9", "pii": "5 9 7 7 0 5 5 3 9", "kind": "ssn_obf"}
+{"id": "P0420", "text": "my email is luis90@biotech.io.", "pii": "luis90@biotech.io", "kind": "email"}
+{"id": "P0421", "text": "my social is 202-55-7965 please verify", "pii": "202-55-7965", "kind": "ssn"}
+{"id": "P0422", "text": "phone 242-945-8811 ext 4", "pii": "242-945-8811", "kind": "phone"}
+{"id": "P0423", "text": "send it to emma88(at)gmail dot com thanks", "pii": "emma88(at)gmail dot com", "kind": "email_obf"}
+{"id": "P0424", "text": "forward to оlgа84@cоrp.example.net", "pii": "оlgа84@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0425", "text": "my number is 2 1 8 2 7 1 4 3 8", "pii": "2 1 8 2 7 1 4 3 8", "kind": "ssn_obf"}
+{"id": "P0426", "text": "cc raj42@corp.example.net on the deviation", "pii": "raj42@corp.example.net", "kind": "email"}
+{"id": "P0427", "text": "employee ssn 440-42-7342 needs update", "pii": "440-42-7342", "kind": "ssn"}
+{"id": "P0428", "text": "phone 212-482-6445 ext 4", "pii": "212-482-6445", "kind": "phone"}
+{"id": "P0429", "text": "send it to raj8 at mail(dot)example(dot)org thanks", "pii": "raj8 at mail(dot)example(dot)org", "kind": "email_obf"}
+{"id": "P0430", "text": "forward to li94@cоrp.exаmple.net", "pii": "li94@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P0431", "text": "my number is 664802467", "pii": "664802467", "kind": "ssn_obf"}
+{"id": "P0432", "text": "Please contact john77@gmail.com about lot status", "pii": "john77@gmail.com", "kind": "email"}
+{"id": "P0433", "text": "SSN: 186-17-3628", "pii": "186-17-3628", "kind": "ssn"}
+{"id": "P0434", "text": "reach the supervisor on (385) 402-6864", "pii": "385 402 6864", "kind": "phone"}
+{"id": "P0435", "text": "send it to ahmed58 [at] corp dot example dot net thanks", "pii": "ahmed58 [at] corp dot example dot net", "kind": "email_obf"}
+{"id": "P0436", "text": "forward to jоhn58@mаil.example.оrg", "pii": "jоhn58@mаil.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0437", "text": "my number is 7 9 7 1 4 8 2 0 2", "pii": "7 9 7 1 4 8 2 0 2", "kind": "ssn_obf"}
+{"id": "P0438", "text": "Please contact raj19@acme.com about lot status", "pii": "raj19@acme.com", "kind": "email"}
+{"id": "P0439", "text": "my social is 245-73-3867 please verify", "pii": "245-73-3867", "kind": "ssn"}
+{"id": "P0440", "text": "reach the supervisor on (570) 624-4097", "pii": "570 624 4097", "kind": "phone"}
+{"id": "P0441", "text": "send it to olga35[at]gmail dot com thanks", "pii": "olga35[at]gmail dot com", "kind": "email_obf"}
+{"id": "P0442", "text": "forward to luis74@cоrp.exаmple.net", "pii": "luis74@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P0443", "text": "my number is 3 8 1 2 0 9 0 6 1", "pii": "3 8 1 2 0 9 0 6 1", "kind": "ssn_obf"}
+{"id": "P0444", "text": "cc maria12@biotech.io on the deviation", "pii": "maria12@biotech.io", "kind": "email"}
+{"id": "P0445", "text": "my social is 485-45-2862 please verify", "pii": "485-45-2862", "kind": "ssn"}
+{"id": "P0446", "text": "reach the supervisor on (299) 236-9091", "pii": "299 236 9091", "kind": "phone"}
+{"id": "P0447", "text": "send it to sofia66 [at] mail(dot)example(dot)org thanks", "pii": "sofia66 [at] mail(dot)example(dot)org", "kind": "email_obf"}
+{"id": "P0448", "text": "forward to luis16@cоrp.exаmple.net", "pii": "luis16@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P0449", "text": "my number is 7 9 5 4 7 1 8 7 6", "pii": "7 9 5 4 7 1 8 7 6", "kind": "ssn_obf"}
+{"id": "P0450", "text": "Please contact olga12@mail.example.org about lot status", "pii": "olga12@mail.example.org", "kind": "email"}
+{"id": "P0451", "text": "SSN: 575-86-8684", "pii": "575-86-8684", "kind": "ssn"}
+{"id": "P0452", "text": "phone 860-390-9194 ext 4", "pii": "860-390-9194", "kind": "phone"}
+{"id": "P0453", "text": "send it to chen8 at mail dot example dot org thanks", "pii": "chen8 at mail dot example dot org", "kind": "email_obf"}
+{"id": "P0454", "text": "forward to luis28@cоrp.exаmple.net", "pii": "luis28@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P0455", "text": "my number is five eight zero five zero one nine nine zero", "pii": "five eight zero five zero one nine nine zero", "kind": "ssn_obf"}
+{"id": "P0456", "text": "my email is raj71@gmail.com.", "pii": "raj71@gmail.com", "kind": "email"}
+{"id": "P0457", "text": "employee ssn 240-70-8693 needs update", "pii": "240-70-8693", "kind": "ssn"}
+{"id": "P0458", "text": "phone 366-551-2562 ext 4", "pii": "366-551-2562", "kind": "phone"}
+{"id": "P0459", "text": "send it to olga23[at]acme[dot]com thanks", "pii": "olga23[at]acme[dot]com", "kind": "email_obf"}
+{"id": "P0460", "text": "forward to chen73@mаil.example.оrg", "pii": "chen73@mаil.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0461", "text": "my number is 7 4 9 3 5 9 9 0 0", "pii": "7 4 9 3 5 9 9 0 0", "kind": "ssn_obf"}
+{"id": "P0462", "text": "Please contact ahmed54@biotech.io about lot status", "pii": "ahmed54@biotech.io", "kind": "email"}
+{"id": "P0463", "text": "employee ssn 172-36-9436 needs update", "pii": "172-36-9436", "kind": "ssn"}
+{"id": "P0464", "text": "call me at 472-250-7988", "pii": "472-250-7988", "kind": "phone"}
+{"id": "P0465", "text": "send it to sofia91 at corp(dot)example(dot)net thanks", "pii": "sofia91 at corp(dot)example(dot)net", "kind": "email_obf"}
+{"id": "P0466", "text": "forward to jоhn35@biоtech.iо", "pii": "jоhn35@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0467", "text": "my number is 431967293", "pii": "431967293", "kind": "ssn_obf"}
+{"id": "P0468", "text": "Please contact luis85@gmail.com about lot status", "pii": "luis85@gmail.com", "kind": "email"}
+{"id": "P0469", "text": "SSN: 537-89-9705", "pii": "537-89-9705", "kind": "ssn"}
+{"id": "P0470", "text": "call me at 461-756-3321", "pii": "461-756-3321", "kind": "phone"}
+{"id": "P0471", "text": "send it to li73[at]mail(dot)example(dot)org thanks", "pii": "li73[at]mail(dot)example(dot)org", "kind": "email_obf"}
+{"id": "P0472", "text": "forward to emmа31@gmail.cоm", "pii": "emmа31@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P0473", "text": "my number is 3 4 2 1 0 4 9 6 3", "pii": "3 4 2 1 0 4 9 6 3", "kind": "ssn_obf"}
+{"id": "P0474", "text": "Please contact luis86@gmail.com about lot status", "pii": "luis86@gmail.com", "kind": "email"}
+{"id": "P0475", "text": "employee ssn 344-14-3964 needs update", "pii": "344-14-3964", "kind": "ssn"}
+{"id": "P0476", "text": "call me at 633-972-6054", "pii": "633-972-6054", "kind": "phone"}
+{"id": "P0477", "text": "send it to emma42 [at] gmail dot com thanks", "pii": "emma42 [at] gmail dot com", "kind": "email_obf"}
+{"id": "P0478", "text": "forward to li81@biоtech.iо", "pii": "li81@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0479", "text": "my number is six one nine one five six four nine four", "pii": "six one nine one five six four nine four", "kind": "ssn_obf"}
+{"id": "P0480", "text": "cc ahmed34@biotech.io on the deviation", "pii": "ahmed34@biotech.io", "kind": "email"}
+{"id": "P0481", "text": "employee ssn 345-69-1058 needs update", "pii": "345-69-1058", "kind": "ssn"}
+{"id": "P0482", "text": "phone 573-543-5065 ext 4", "pii": "573-543-5065", "kind": "phone"}
+{"id": "P0483", "text": "send it to chen20[at]mail dot example dot org thanks", "pii": "chen20[at]mail dot example dot org", "kind": "email_obf"}
+{"id": "P0484", "text": "forward to jоhn33@biоtech.iо", "pii": "jоhn33@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0485", "text": "my number is 785738338", "pii": "785738338", "kind": "ssn_obf"}
+{"id": "P0486", "text": "Please contact li90@acme.com about lot status", "pii": "li90@acme.com", "kind": "email"}
+{"id": "P0487", "text": "employee ssn 832-19-2849 needs update", "pii": "832-19-2849", "kind": "ssn"}
+{"id": "P0488", "text": "call me at 616-929-5537", "pii": "616-929-5537", "kind": "phone"}
+{"id": "P0489", "text": "send it to raj31 at gmail(dot)com thanks", "pii": "raj31 at gmail(dot)com", "kind": "email_obf"}
+{"id": "P0490", "text": "forward to sоfiа20@acme.cоm", "pii": "sоfiа20@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0491", "text": "my number is one eight six four nine six two one five", "pii": "one eight six four nine six two one five", "kind": "ssn_obf"}
+{"id": "P0492", "text": "my email is luis17@biotech.io.", "pii": "luis17@biotech.io", "kind": "email"}
+{"id": "P0493", "text": "employee ssn 672-85-4646 needs update", "pii": "672-85-4646", "kind": "ssn"}
+{"id": "P0494", "text": "phone 244-744-5803 ext 4", "pii": "244-744-5803", "kind": "phone"}
+{"id": "P0495", "text": "send it to maria70(at)gmail[dot]com thanks", "pii": "maria70(at)gmail[dot]com", "kind": "email_obf"}
+{"id": "P0496", "text": "forward to sоfiа94@gmail.cоm", "pii": "sоfiа94@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P0497", "text": "my number is eight two six four nine eight four five four", "pii": "eight two six four nine eight four five four", "kind": "ssn_obf"}
+{"id": "P0498", "text": "cc ahmed35@mail.example.org on the deviation", "pii": "ahmed35@mail.example.org", "kind": "email"}
+{"id": "P0499", "text": "my social is 469-62-1530 please verify", "pii": "469-62-1530", "kind": "ssn"}
+{"id": "P0500", "text": "phone 311-936-4047 ext 4", "pii": "311-936-4047", "kind": "phone"}
+{"id": "P0501", "text": "send it to maria44 [at] corp[dot]example[dot]net thanks", "pii": "maria44 [at] corp[dot]example[dot]net", "kind": "email_obf"}
+{"id": "P0502", "text": "forward to sоfiа46@gmail.cоm", "pii": "sоfiа46@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P0503", "text": "my number is 7 9 0 4 1 6 4 3 1", "pii": "7 9 0 4 1 6 4 3 1", "kind": "ssn_obf"}
+{"id": "P0504", "text": "cc olga57@mail.example.org on the deviation", "pii": "olga57@mail.example.org", "kind": "email"}
+{"id": "P0505", "text": "employee ssn 361-12-7421 needs update", "pii": "361-12-7421", "kind": "ssn"}
+{"id": "P0506", "text": "reach the supervisor on (329) 895-1574", "pii": "329 895 1574", "kind": "phone"}
+{"id": "P0507", "text": "send it to ahmed91 at mail dot example dot org thanks", "pii": "ahmed91 at mail dot example dot org", "kind": "email_obf"}
+{"id": "P0508", "text": "forward to rаj67@biоtech.iо", "pii": "rаj67@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0509", "text": "my number is 6 2 2 6 8 3 0 0 4", "pii": "6 2 2 6 8 3 0 0 4", "kind": "ssn_obf"}
+{"id": "P0510", "text": "my email is olga84@corp.example.net.", "pii": "olga84@corp.example.net", "kind": "email"}
+{"id": "P0511", "text": "my social is 701-40-7180 please verify", "pii": "701-40-7180", "kind": "ssn"}
+{"id": "P0512", "text": "phone 213-255-7231 ext 4", "pii": "213-255-7231", "kind": "phone"}
+{"id": "P0513", "text": "send it to ahmed14 [at] biotech[dot]io thanks", "pii": "ahmed14 [at] biotech[dot]io", "kind": "email_obf"}
+{"id": "P0514", "text": "forward to mаria24@cоrp.example.net", "pii": "mаria24@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0515", "text": "my number is five four two six two nine three one nine", "pii": "five four two six two nine three one nine", "kind": "ssn_obf"}
+{"id": "P0516", "text": "cc chen38@mail.example.org on the deviation", "pii": "chen38@mail.example.org", "kind": "email"}
+{"id": "P0517", "text": "SSN: 496-55-6496", "pii": "496-55-6496", "kind": "ssn"}
+{"id": "P0518", "text": "reach the supervisor on (574) 872-9716", "pii": "574 872 9716", "kind": "phone"}
+{"id": "P0519", "text": "send it to chen3 at mail[dot]example[dot]org thanks", "pii": "chen3 at mail[dot]example[dot]org", "kind": "email_obf"}
+{"id": "P0520", "text": "forward to оlgа47@acme.cоm", "pii": "оlgа47@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0521", "text": "my number is 338328491", "pii": "338328491", "kind": "ssn_obf"}
+{"id": "P0522", "text": "my email is olga70@mail.example.org.", "pii": "olga70@mail.example.org", "kind": "email"}
+{"id": "P0523", "text": "my social is 277-18-3858 please verify", "pii": "277-18-3858", "kind": "ssn"}
+{"id": "P0524", "text": "phone 874-721-6144 ext 4", "pii": "874-721-6144", "kind": "phone"}
+{"id": "P0525", "text": "send it to emma39 at biotech(dot)io thanks", "pii": "emma39 at biotech(dot)io", "kind": "email_obf"}
+{"id": "P0526", "text": "forward to emmа73@biоtech.iо", "pii": "emmа73@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0527", "text": "my number is 605673689", "pii": "605673689", "kind": "ssn_obf"}
+{"id": "P0528", "text": "Please contact luis9@biotech.io about lot status", "pii": "luis9@biotech.io", "kind": "email"}
+{"id": "P0529", "text": "my social is 116-89-4764 please verify", "pii": "116-89-4764", "kind": "ssn"}
+{"id": "P0530", "text": "phone 817-226-3157 ext 4", "pii": "817-226-3157", "kind": "phone"}
+{"id": "P0531", "text": "send it to chen86(at)acme[dot]com thanks", "pii": "chen86(at)acme[dot]com", "kind": "email_obf"}
+{"id": "P0532", "text": "forward to mаria94@mail.example.оrg", "pii": "mаria94@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0533", "text": "my number is 4 1 5 2 1 8 9 3 0", "pii": "4 1 5 2 1 8 9 3 0", "kind": "ssn_obf"}
+{"id": "P0534", "text": "cc emma96@gmail.com on the deviation", "pii": "emma96@gmail.com", "kind": "email"}
+{"id": "P0535", "text": "employee ssn 811-49-7489 needs update", "pii": "811-49-7489", "kind": "ssn"}
+{"id": "P0536", "text": "reach the supervisor on (713) 696-1435", "pii": "713 696 1435", "kind": "phone"}
+{"id": "P0537", "text": "send it to chen21 at gmail(dot)com thanks", "pii": "chen21 at gmail(dot)com", "kind": "email_obf"}
+{"id": "P0538", "text": "forward to оlgа46@mail.example.оrg", "pii": "оlgа46@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0539", "text": "my number is 3 7 0 4 5 6 7 1 1", "pii": "3 7 0 4 5 6 7 1 1", "kind": "ssn_obf"}
+{"id": "P0540", "text": "Please contact olga33@biotech.io about lot status", "pii": "olga33@biotech.io", "kind": "email"}
+{"id": "P0541", "text": "SSN: 715-82-3055", "pii": "715-82-3055", "kind": "ssn"}
+{"id": "P0542", "text": "phone 393-303-3558 ext 4", "pii": "393-303-3558", "kind": "phone"}
+{"id": "P0543", "text": "send it to li36[at]biotech dot io thanks", "pii": "li36[at]biotech dot io", "kind": "email_obf"}
+{"id": "P0544", "text": "forward to li57@biоtech.iо", "pii": "li57@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0545", "text": "my number is two zero one one two four two six four", "pii": "two zero one one two four two six four", "kind": "ssn_obf"}
+{"id": "P0546", "text": "Please contact olga48@mail.example.org about lot status", "pii": "olga48@mail.example.org", "kind": "email"}
+{"id": "P0547", "text": "employee ssn 758-30-6030 needs update", "pii": "758-30-6030", "kind": "ssn"}
+{"id": "P0548", "text": "call me at 286-461-5139", "pii": "286-461-5139", "kind": "phone"}
+{"id": "P0549", "text": "send it to sofia48 [at] gmail dot com thanks", "pii": "sofia48 [at] gmail dot com", "kind": "email_obf"}
+{"id": "P0550", "text": "forward to mаria90@mail.example.оrg", "pii": "mаria90@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0551", "text": "my number is 3 3 0 3 6 6 7 4 6", "pii": "3 3 0 3 6 6 7 4 6", "kind": "ssn_obf"}
+{"id": "P0552", "text": "my email is emma96@gmail.com.", "pii": "emma96@gmail.com", "kind": "email"}
+{"id": "P0553", "text": "SSN: 887-77-8798", "pii": "887-77-8798", "kind": "ssn"}
+{"id": "P0554", "text": "call me at 788-450-9333", "pii": "788-450-9333", "kind": "phone"}
+{"id": "P0555", "text": "send it to maria81 at corp dot example dot net thanks", "pii": "maria81 at corp dot example dot net", "kind": "email_obf"}
+{"id": "P0556", "text": "forward to rаj85@mail.example.оrg", "pii": "rаj85@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0557", "text": "my number is one two two five eight eight two three five", "pii": "one two two five eight eight two three five", "kind": "ssn_obf"}
+{"id": "P0558", "text": "my email is ahmed6@corp.example.net.", "pii": "ahmed6@corp.example.net", "kind": "email"}
+{"id": "P0559", "text": "SSN: 804-30-2893", "pii": "804-30-2893", "kind": "ssn"}
+{"id": "P0560", "text": "call me at 851-713-7798", "pii": "851-713-7798", "kind": "phone"}
+{"id": "P0561", "text": "send it to maria56 [at] biotech dot io thanks", "pii": "maria56 [at] biotech dot io", "kind": "email_obf"}
+{"id": "P0562", "text": "forward to аhmed15@cоrp.example.net", "pii": "аhmed15@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0563", "text": "my number is 7 6 7 6 7 5 3 0 1", "pii": "7 6 7 6 7 5 3 0 1", "kind": "ssn_obf"}
+{"id": "P0564", "text": "Please contact luis35@corp.example.net about lot status", "pii": "luis35@corp.example.net", "kind": "email"}
+{"id": "P0565", "text": "my social is 117-63-2339 please verify", "pii": "117-63-2339", "kind": "ssn"}
+{"id": "P0566", "text": "reach the supervisor on (311) 614-5940", "pii": "311 614 5940", "kind": "phone"}
+{"id": "P0567", "text": "send it to john20 at gmail(dot)com thanks", "pii": "john20 at gmail(dot)com", "kind": "email_obf"}
+{"id": "P0568", "text": "forward to mаria54@acme.cоm", "pii": "mаria54@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0569", "text": "my number is seven zero zero four zero six one two four", "pii": "seven zero zero four zero six one two four", "kind": "ssn_obf"}
+{"id": "P0570", "text": "cc olga74@corp.example.net on the deviation", "pii": "olga74@corp.example.net", "kind": "email"}
+{"id": "P0571", "text": "employee ssn 838-45-9141 needs update", "pii": "838-45-9141", "kind": "ssn"}
+{"id": "P0572", "text": "call me at 763-481-9341", "pii": "763-481-9341", "kind": "phone"}
+{"id": "P0573", "text": "send it to maria66(at)biotech(dot)io thanks", "pii": "maria66(at)biotech(dot)io", "kind": "email_obf"}
+{"id": "P0574", "text": "forward to sоfiа56@cоrp.example.net", "pii": "sоfiа56@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0575", "text": "my number is seven two six three six three two one zero", "pii": "seven two six three six three two one zero", "kind": "ssn_obf"}
+{"id": "P0576", "text": "my email is john52@acme.com.", "pii": "john52@acme.com", "kind": "email"}
+{"id": "P0577", "text": "my social is 407-94-2711 please verify", "pii": "407-94-2711", "kind": "ssn"}
+{"id": "P0578", "text": "phone 901-635-4206 ext 4", "pii": "901-635-4206", "kind": "phone"}
+{"id": "P0579", "text": "send it to emma50(at)corp dot example dot net thanks", "pii": "emma50(at)corp dot example dot net", "kind": "email_obf"}
+{"id": "P0580", "text": "forward to emmа92@gmail.cоm", "pii": "emmа92@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P0581", "text": "my number is four six eight four four eight five two three", "pii": "four six eight four four eight five two three", "kind": "ssn_obf"}
+{"id": "P0582", "text": "cc chen73@mail.example.org on the deviation", "pii": "chen73@mail.example.org", "kind": "email"}
+{"id": "P0583", "text": "SSN: 444-23-9595", "pii": "444-23-9595", "kind": "ssn"}
+{"id": "P0584", "text": "call me at 604-212-8135", "pii": "604-212-8135", "kind": "phone"}
+{"id": "P0585", "text": "send it to olga52 at gmail[dot]com thanks", "pii": "olga52 at gmail[dot]com", "kind": "email_obf"}
+{"id": "P0586", "text": "forward to jоhn12@biоtech.iо", "pii": "jоhn12@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0587", "text": "my number is 393371958", "pii": "393371958", "kind": "ssn_obf"}
+{"id": "P0588", "text": "cc luis20@acme.com on the deviation", "pii": "luis20@acme.com", "kind": "email"}
+{"id": "P0589", "text": "my social is 454-61-3633 please verify", "pii": "454-61-3633", "kind": "ssn"}
+{"id": "P0590", "text": "reach the supervisor on (248) 712-7080", "pii": "248 712 7080", "kind": "phone"}
+{"id": "P0591", "text": "send it to maria68 [at] acme[dot]com thanks", "pii": "maria68 [at] acme[dot]com", "kind": "email_obf"}
+{"id": "P0592", "text": "forward to rаj15@gmail.cоm", "pii": "rаj15@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P0593", "text": "my number is 314274425", "pii": "314274425", "kind": "ssn_obf"}
+{"id": "P0594", "text": "Please contact chen10@gmail.com about lot status", "pii": "chen10@gmail.com", "kind": "email"}
+{"id": "P0595", "text": "employee ssn 118-71-7751 needs update", "pii": "118-71-7751", "kind": "ssn"}
+{"id": "P0596", "text": "phone 547-512-9052 ext 4", "pii": "547-512-9052", "kind": "phone"}
+{"id": "P0597", "text": "send it to olga26(at)acme dot com thanks", "pii": "olga26(at)acme dot com", "kind": "email_obf"}
+{"id": "P0598", "text": "forward to jоhn48@аcme.cоm", "pii": "jоhn48@аcme.cоm", "kind": "email_homoglyph"}
+{"id": "P0599", "text": "my number is 4 8 7 8 4 6 1 7 0", "pii": "4 8 7 8 4 6 1 7 0", "kind": "ssn_obf"}
+{"id": "P0600", "text": "my email is luis13@acme.com.", "pii": "luis13@acme.com", "kind": "email"}
+{"id": "P0601", "text": "my social is 849-65-9267 please verify", "pii": "849-65-9267", "kind": "ssn"}
+{"id": "P0602", "text": "reach the supervisor on (820) 631-5531", "pii": "820 631 5531", "kind": "phone"}
+{"id": "P0603", "text": "send it to john81[at]gmail(dot)com thanks", "pii": "john81[at]gmail(dot)com", "kind": "email_obf"}
+{"id": "P0604", "text": "forward to chen56@cоrp.exаmple.net", "pii": "chen56@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P0605", "text": "my number is 7 4 9 8 4 3 3 9 6", "pii": "7 4 9 8 4 3 3 9 6", "kind": "ssn_obf"}
+{"id": "P0606", "text": "Please contact emma98@acme.com about lot status", "pii": "emma98@acme.com", "kind": "email"}
+{"id": "P0607", "text": "my social is 368-40-7245 please verify", "pii": "368-40-7245", "kind": "ssn"}
+{"id": "P0608", "text": "phone 453-649-9454 ext 4", "pii": "453-649-9454", "kind": "phone"}
+{"id": "P0609", "text": "send it to chen35[at]mail[dot]example[dot]org thanks", "pii": "chen35[at]mail[dot]example[dot]org", "kind": "email_obf"}
+{"id": "P0610", "text": "forward to mаria42@mail.example.оrg", "pii": "mаria42@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0611", "text": "my number is two five nine five eight three one nine two", "pii": "two five nine five eight three one nine two", "kind": "ssn_obf"}
+{"id": "P0612", "text": "Please contact maria40@gmail.com about lot status", "pii": "maria40@gmail.com", "kind": "email"}
+{"id": "P0613", "text": "SSN: 364-22-3980", "pii": "364-22-3980", "kind": "ssn"}
+{"id": "P0614", "text": "phone 900-348-8340 ext 4", "pii": "900-348-8340", "kind": "phone"}
+{"id": "P0615", "text": "send it to sofia32[at]biotech(dot)io thanks", "pii": "sofia32[at]biotech(dot)io", "kind": "email_obf"}
+{"id": "P0616", "text": "forward to mаria95@mail.example.оrg", "pii": "mаria95@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0617", "text": "my number is 6 5 3 3 0 8 2 5 3", "pii": "6 5 3 3 0 8 2 5 3", "kind": "ssn_obf"}
+{"id": "P0618", "text": "Please contact li11@mail.example.org about lot status", "pii": "li11@mail.example.org", "kind": "email"}
+{"id": "P0619", "text": "employee ssn 779-16-7704 needs update", "pii": "779-16-7704", "kind": "ssn"}
+{"id": "P0620", "text": "reach the supervisor on (931) 555-8435", "pii": "931 555 8435", "kind": "phone"}
+{"id": "P0621", "text": "send it to chen95 at mail dot example dot org thanks", "pii": "chen95 at mail dot example dot org", "kind": "email_obf"}
+{"id": "P0622", "text": "forward to оlgа49@cоrp.example.net", "pii": "оlgа49@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0623", "text": "my number is 2 2 1 6 7 2 0 2 6", "pii": "2 2 1 6 7 2 0 2 6", "kind": "ssn_obf"}
+{"id": "P0624", "text": "my email is raj66@corp.example.net.", "pii": "raj66@corp.example.net", "kind": "email"}
+{"id": "P0625", "text": "my social is 592-58-6619 please verify", "pii": "592-58-6619", "kind": "ssn"}
+{"id": "P0626", "text": "phone 620-727-3101 ext 4", "pii": "620-727-3101", "kind": "phone"}
+{"id": "P0627", "text": "send it to chen23[at]gmail[dot]com thanks", "pii": "chen23[at]gmail[dot]com", "kind": "email_obf"}
+{"id": "P0628", "text": "forward to оlgа97@acme.cоm", "pii": "оlgа97@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0629", "text": "my number is 5 2 0 3 5 2 5 1 9", "pii": "5 2 0 3 5 2 5 1 9", "kind": "ssn_obf"}
+{"id": "P0630", "text": "Please contact olga50@mail.example.org about lot status", "pii": "olga50@mail.example.org", "kind": "email"}
+{"id": "P0631", "text": "SSN: 415-76-2881", "pii": "415-76-2881", "kind": "ssn"}
+{"id": "P0632", "text": "reach the supervisor on (445) 841-9310", "pii": "445 841 9310", "kind": "phone"}
+{"id": "P0633", "text": "send it to olga5 at corp[dot]example[dot]net thanks", "pii": "olga5 at corp[dot]example[dot]net", "kind": "email_obf"}
+{"id": "P0634", "text": "forward to jоhn64@mаil.example.оrg", "pii": "jоhn64@mаil.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0635", "text": "my number is 650629731", "pii": "650629731", "kind": "ssn_obf"}
+{"id": "P0636", "text": "Please contact ahmed9@acme.com about lot status", "pii": "ahmed9@acme.com", "kind": "email"}
+{"id": "P0637", "text": "SSN: 770-64-4676", "pii": "770-64-4676", "kind": "ssn"}
+{"id": "P0638", "text": "phone 580-656-4816 ext 4", "pii": "580-656-4816", "kind": "phone"}
+{"id": "P0639", "text": "send it to li77 [at] gmail(dot)com thanks", "pii": "li77 [at] gmail(dot)com", "kind": "email_obf"}
+{"id": "P0640", "text": "forward to emmа31@acme.cоm", "pii": "emmа31@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0641", "text": "my number is 442594779", "pii": "442594779", "kind": "ssn_obf"}
+{"id": "P0642", "text": "Please contact raj39@gmail.com about lot status", "pii": "raj39@gmail.com", "kind": "email"}
+{"id": "P0643", "text": "employee ssn 878-71-6834 needs update", "pii": "878-71-6834", "kind": "ssn"}
+{"id": "P0644", "text": "phone 845-988-6161 ext 4", "pii": "845-988-6161", "kind": "phone"}
+{"id": "P0645", "text": "send it to ahmed99(at)gmail dot com thanks", "pii": "ahmed99(at)gmail dot com", "kind": "email_obf"}
+{"id": "P0646", "text": "forward to rаj82@acme.cоm", "pii": "rаj82@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0647", "text": "my number is seven eight four three six five six seven zero", "pii": "seven eight four three six five six seven zero", "kind": "ssn_obf"}
+{"id": "P0648", "text": "Please contact ahmed94@corp.example.net about lot status", "pii": "ahmed94@corp.example.net", "kind": "email"}
+{"id": "P0649", "text": "employee ssn 277-62-5676 needs update", "pii": "277-62-5676", "kind": "ssn"}
+{"id": "P0650", "text": "phone 476-857-8454 ext 4", "pii": "476-857-8454", "kind": "phone"}
+{"id": "P0651", "text": "send it to emma42 [at] corp dot example dot net thanks", "pii": "emma42 [at] corp dot example dot net", "kind": "email_obf"}
+{"id": "P0652", "text": "forward to sоfiа35@cоrp.example.net", "pii": "sоfiа35@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0653", "text": "my number is 474247016", "pii": "474247016", "kind": "ssn_obf"}
+{"id": "P0654", "text": "cc olga68@corp.example.net on the deviation", "pii": "olga68@corp.example.net", "kind": "email"}
+{"id": "P0655", "text": "SSN: 530-89-5295", "pii": "530-89-5295", "kind": "ssn"}
+{"id": "P0656", "text": "call me at 441-453-5045", "pii": "441-453-5045", "kind": "phone"}
+{"id": "P0657", "text": "send it to ahmed64[at]biotech[dot]io thanks", "pii": "ahmed64[at]biotech[dot]io", "kind": "email_obf"}
+{"id": "P0658", "text": "forward to аhmed6@mail.example.оrg", "pii": "аhmed6@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0659", "text": "my number is 457258952", "pii": "457258952", "kind": "ssn_obf"}
+{"id": "P0660", "text": "my email is maria75@biotech.io.", "pii": "maria75@biotech.io", "kind": "email"}
+{"id": "P0661", "text": "employee ssn 590-53-7520 needs update", "pii": "590-53-7520", "kind": "ssn"}
+{"id": "P0662", "text": "reach the supervisor on (714) 320-8543", "pii": "714 320 8543", "kind": "phone"}
+{"id": "P0663", "text": "send it to ahmed72(at)biotech(dot)io thanks", "pii": "ahmed72(at)biotech(dot)io", "kind": "email_obf"}
+{"id": "P0664", "text": "forward to chen60@аcme.cоm", "pii": "chen60@аcme.cоm", "kind": "email_homoglyph"}
+{"id": "P0665", "text": "my number is 450489931", "pii": "450489931", "kind": "ssn_obf"}
+{"id": "P0666", "text": "Please contact maria86@mail.example.org about lot status", "pii": "maria86@mail.example.org", "kind": "email"}
+{"id": "P0667", "text": "my social is 720-26-1258 please verify", "pii": "720-26-1258", "kind": "ssn"}
+{"id": "P0668", "text": "call me at 740-242-5437", "pii": "740-242-5437", "kind": "phone"}
+{"id": "P0669", "text": "send it to raj17 [at] mail[dot]example[dot]org thanks", "pii": "raj17 [at] mail[dot]example[dot]org", "kind": "email_obf"}
+{"id": "P0670", "text": "forward to chen75@аcme.cоm", "pii": "chen75@аcme.cоm", "kind": "email_homoglyph"}
+{"id": "P0671", "text": "my number is 812279076", "pii": "812279076", "kind": "ssn_obf"}
+{"id": "P0672", "text": "Please contact emma31@gmail.com about lot status", "pii": "emma31@gmail.com", "kind": "email"}
+{"id": "P0673", "text": "my social is 683-22-9379 please verify", "pii": "683-22-9379", "kind": "ssn"}
+{"id": "P0674", "text": "call me at 436-520-4743", "pii": "436-520-4743", "kind": "phone"}
+{"id": "P0675", "text": "send it to john98(at)gmail[dot]com thanks", "pii": "john98(at)gmail[dot]com", "kind": "email_obf"}
+{"id": "P0676", "text": "forward to аhmed6@mail.example.оrg", "pii": "аhmed6@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0677", "text": "my number is 313522938", "pii": "313522938", "kind": "ssn_obf"}
+{"id": "P0678", "text": "cc maria88@corp.example.net on the deviation", "pii": "maria88@corp.example.net", "kind": "email"}
+{"id": "P0679", "text": "my social is 702-10-9092 please verify", "pii": "702-10-9092", "kind": "ssn"}
+{"id": "P0680", "text": "reach the supervisor on (268) 642-4934", "pii": "268 642 4934", "kind": "phone"}
+{"id": "P0681", "text": "send it to emma39[at]corp(dot)example(dot)net thanks", "pii": "emma39[at]corp(dot)example(dot)net", "kind": "email_obf"}
+{"id": "P0682", "text": "forward to rаj76@acme.cоm", "pii": "rаj76@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0683", "text": "my number is 1 3 7 4 0 1 2 5 1", "pii": "1 3 7 4 0 1 2 5 1", "kind": "ssn_obf"}
+{"id": "P0684", "text": "my email is chen57@acme.com.", "pii": "chen57@acme.com", "kind": "email"}
+{"id": "P0685", "text": "employee ssn 290-56-2873 needs update", "pii": "290-56-2873", "kind": "ssn"}
+{"id": "P0686", "text": "reach the supervisor on (941) 655-8757", "pii": "941 655 8757", "kind": "phone"}
+{"id": "P0687", "text": "send it to li65[at]acme(dot)com thanks", "pii": "li65[at]acme(dot)com", "kind": "email_obf"}
+{"id": "P0688", "text": "forward to luis57@mаil.example.оrg", "pii": "luis57@mаil.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0689", "text": "my number is eight four five seven six six four one seven", "pii": "eight four five seven six six four one seven", "kind": "ssn_obf"}
+{"id": "P0690", "text": "my email is john5@acme.com.", "pii": "john5@acme.com", "kind": "email"}
+{"id": "P0691", "text": "my social is 673-36-3803 please verify", "pii": "673-36-3803", "kind": "ssn"}
+{"id": "P0692", "text": "phone 657-943-3556 ext 4", "pii": "657-943-3556", "kind": "phone"}
+{"id": "P0693", "text": "send it to sofia17(at)gmail dot com thanks", "pii": "sofia17(at)gmail dot com", "kind": "email_obf"}
+{"id": "P0694", "text": "forward to li47@gmаil.cоm", "pii": "li47@gmаil.cоm", "kind": "email_homoglyph"}
+{"id": "P0695", "text": "my number is 7 6 0 4 2 3 8 8 8", "pii": "7 6 0 4 2 3 8 8 8", "kind": "ssn_obf"}
+{"id": "P0696", "text": "Please contact sofia18@mail.example.org about lot status", "pii": "sofia18@mail.example.org", "kind": "email"}
+{"id": "P0697", "text": "employee ssn 371-10-8096 needs update", "pii": "371-10-8096", "kind": "ssn"}
+{"id": "P0698", "text": "phone 534-812-5072 ext 4", "pii": "534-812-5072", "kind": "phone"}
+{"id": "P0699", "text": "send it to sofia74[at]corp dot example dot net thanks", "pii": "sofia74[at]corp dot example dot net", "kind": "email_obf"}
+{"id": "P0700", "text": "forward to li25@biоtech.iо", "pii": "li25@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0701", "text": "my number is 657538444", "pii": "657538444", "kind": "ssn_obf"}
+{"id": "P0702", "text": "my email is olga37@corp.example.net.", "pii": "olga37@corp.example.net", "kind": "email"}
+{"id": "P0703", "text": "SSN: 188-39-1710", "pii": "188-39-1710", "kind": "ssn"}
+{"id": "P0704", "text": "reach the supervisor on (475) 453-3696", "pii": "475 453 3696", "kind": "phone"}
+{"id": "P0705", "text": "send it to emma31 [at] biotech[dot]io thanks", "pii": "emma31 [at] biotech[dot]io", "kind": "email_obf"}
+{"id": "P0706", "text": "forward to li12@biоtech.iо", "pii": "li12@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0707", "text": "my number is 2 4 6 1 3 1 9 8 3", "pii": "2 4 6 1 3 1 9 8 3", "kind": "ssn_obf"}
+{"id": "P0708", "text": "my email is maria85@biotech.io.", "pii": "maria85@biotech.io", "kind": "email"}
+{"id": "P0709", "text": "employee ssn 237-67-3698 needs update", "pii": "237-67-3698", "kind": "ssn"}
+{"id": "P0710", "text": "phone 765-445-7615 ext 4", "pii": "765-445-7615", "kind": "phone"}
+{"id": "P0711", "text": "send it to maria71[at]biotech(dot)io thanks", "pii": "maria71[at]biotech(dot)io", "kind": "email_obf"}
+{"id": "P0712", "text": "forward to luis3@cоrp.exаmple.net", "pii": "luis3@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P0713", "text": "my number is 203337905", "pii": "203337905", "kind": "ssn_obf"}
+{"id": "P0714", "text": "cc sofia59@acme.com on the deviation", "pii": "sofia59@acme.com", "kind": "email"}
+{"id": "P0715", "text": "employee ssn 411-51-9409 needs update", "pii": "411-51-9409", "kind": "ssn"}
+{"id": "P0716", "text": "phone 978-767-6939 ext 4", "pii": "978-767-6939", "kind": "phone"}
+{"id": "P0717", "text": "send it to sofia6(at)mail dot example dot org thanks", "pii": "sofia6(at)mail dot example dot org", "kind": "email_obf"}
+{"id": "P0718", "text": "forward to emmа14@biоtech.iо", "pii": "emmа14@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0719", "text": "my number is 756891019", "pii": "756891019", "kind": "ssn_obf"}
+{"id": "P0720", "text": "my email is ahmed62@mail.example.org.", "pii": "ahmed62@mail.example.org", "kind": "email"}
+{"id": "P0721", "text": "employee ssn 796-50-5983 needs update", "pii": "796-50-5983", "kind": "ssn"}
+{"id": "P0722", "text": "phone 332-776-9669 ext 4", "pii": "332-776-9669", "kind": "phone"}
+{"id": "P0723", "text": "send it to john92(at)gmail[dot]com thanks", "pii": "john92(at)gmail[dot]com", "kind": "email_obf"}
+{"id": "P0724", "text": "forward to luis12@аcme.cоm", "pii": "luis12@аcme.cоm", "kind": "email_homoglyph"}
+{"id": "P0725", "text": "my number is 4 2 9 3 9 5 2 7 7", "pii": "4 2 9 3 9 5 2 7 7", "kind": "ssn_obf"}
+{"id": "P0726", "text": "my email is emma45@biotech.io.", "pii": "emma45@biotech.io", "kind": "email"}
+{"id": "P0727", "text": "my social is 177-62-3026 please verify", "pii": "177-62-3026", "kind": "ssn"}
+{"id": "P0728", "text": "phone 427-549-1383 ext 4", "pii": "427-549-1383", "kind": "phone"}
+{"id": "P0729", "text": "send it to sofia77(at)corp(dot)example(dot)net thanks", "pii": "sofia77(at)corp(dot)example(dot)net", "kind": "email_obf"}
+{"id": "P0730", "text": "forward to luis13@mаil.example.оrg", "pii": "luis13@mаil.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0731", "text": "my number is 430339305", "pii": "430339305", "kind": "ssn_obf"}
+{"id": "P0732", "text": "my email is ahmed45@corp.example.net.", "pii": "ahmed45@corp.example.net", "kind": "email"}
+{"id": "P0733", "text": "employee ssn 446-52-6394 needs update", "pii": "446-52-6394", "kind": "ssn"}
+{"id": "P0734", "text": "call me at 425-713-2702", "pii": "425-713-2702", "kind": "phone"}
+{"id": "P0735", "text": "send it to chen4(at)mail dot example dot org thanks", "pii": "chen4(at)mail dot example dot org", "kind": "email_obf"}
+{"id": "P0736", "text": "forward to emmа45@cоrp.example.net", "pii": "emmа45@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0737", "text": "my number is 402421266", "pii": "402421266", "kind": "ssn_obf"}
+{"id": "P0738", "text": "cc emma69@biotech.io on the deviation", "pii": "emma69@biotech.io", "kind": "email"}
+{"id": "P0739", "text": "employee ssn 200-28-2277 needs update", "pii": "200-28-2277", "kind": "ssn"}
+{"id": "P0740", "text": "phone 947-685-5110 ext 4", "pii": "947-685-5110", "kind": "phone"}
+{"id": "P0741", "text": "send it to luis74 at biotech dot io thanks", "pii": "luis74 at biotech dot io", "kind": "email_obf"}
+{"id": "P0742", "text": "forward to rаj25@cоrp.example.net", "pii": "rаj25@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0743", "text": "my number is eight three zero seven nine three one six zero", "pii": "eight three zero seven nine three one six zero", "kind": "ssn_obf"}
+{"id": "P0744", "text": "my email is li56@acme.com.", "pii": "li56@acme.com", "kind": "email"}
+{"id": "P0745", "text": "employee ssn 702-23-8391 needs update", "pii": "702-23-8391", "kind": "ssn"}
+{"id": "P0746", "text": "phone 532-645-6175 ext 4", "pii": "532-645-6175", "kind": "phone"}
+{"id": "P0747", "text": "send it to li24[at]gmail(dot)com thanks", "pii": "li24[at]gmail(dot)com", "kind": "email_obf"}
+{"id": "P0748", "text": "forward to mаria86@gmail.cоm", "pii": "mаria86@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P0749", "text": "my number is one eight five eight eight seven seven five four", "pii": "one eight five eight eight seven seven five four", "kind": "ssn_obf"}
+{"id": "P0750", "text": "cc li77@biotech.io on the deviation", "pii": "li77@biotech.io", "kind": "email"}
+{"id": "P0751", "text": "my social is 481-38-4879 please verify", "pii": "481-38-4879", "kind": "ssn"}
+{"id": "P0752", "text": "phone 408-433-6661 ext 4", "pii": "408-433-6661", "kind": "phone"}
+{"id": "P0753", "text": "send it to maria81 [at] acme(dot)com thanks", "pii": "maria81 [at] acme(dot)com", "kind": "email_obf"}
+{"id": "P0754", "text": "forward to jоhn4@gmаil.cоm", "pii": "jоhn4@gmаil.cоm", "kind": "email_homoglyph"}
+{"id": "P0755", "text": "my number is three zero seven five four seven seven seven six", "pii": "three zero seven five four seven seven seven six", "kind": "ssn_obf"}
+{"id": "P0756", "text": "cc luis42@mail.example.org on the deviation", "pii": "luis42@mail.example.org", "kind": "email"}
+{"id": "P0757", "text": "employee ssn 137-95-5899 needs update", "pii": "137-95-5899", "kind": "ssn"}
+{"id": "P0758", "text": "call me at 216-850-8396", "pii": "216-850-8396", "kind": "phone"}
+{"id": "P0759", "text": "send it to luis99 [at] acme(dot)com thanks", "pii": "luis99 [at] acme(dot)com", "kind": "email_obf"}
+{"id": "P0760", "text": "forward to jоhn57@cоrp.exаmple.net", "pii": "jоhn57@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P0761", "text": "my number is 527248857", "pii": "527248857", "kind": "ssn_obf"}
+{"id": "P0762", "text": "cc olga16@acme.com on the deviation", "pii": "olga16@acme.com", "kind": "email"}
+{"id": "P0763", "text": "my social is 101-98-9503 please verify", "pii": "101-98-9503", "kind": "ssn"}
+{"id": "P0764", "text": "phone 378-532-6595 ext 4", "pii": "378-532-6595", "kind": "phone"}
+{"id": "P0765", "text": "send it to john90[at]corp[dot]example[dot]net thanks", "pii": "john90[at]corp[dot]example[dot]net", "kind": "email_obf"}
+{"id": "P0766", "text": "forward to аhmed6@cоrp.example.net", "pii": "аhmed6@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0767", "text": "my number is 687397686", "pii": "687397686", "kind": "ssn_obf"}
+{"id": "P0768", "text": "cc maria94@acme.com on the deviation", "pii": "maria94@acme.com", "kind": "email"}
+{"id": "P0769", "text": "my social is 310-14-3050 please verify", "pii": "310-14-3050", "kind": "ssn"}
+{"id": "P0770", "text": "reach the supervisor on (553) 352-6562", "pii": "553 352 6562", "kind": "phone"}
+{"id": "P0771", "text": "send it to raj28 at mail(dot)example(dot)org thanks", "pii": "raj28 at mail(dot)example(dot)org", "kind": "email_obf"}
+{"id": "P0772", "text": "forward to rаj94@cоrp.example.net", "pii": "rаj94@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0773", "text": "my number is 214383146", "pii": "214383146", "kind": "ssn_obf"}
+{"id": "P0774", "text": "cc john34@biotech.io on the deviation", "pii": "john34@biotech.io", "kind": "email"}
+{"id": "P0775", "text": "employee ssn 238-63-5312 needs update", "pii": "238-63-5312", "kind": "ssn"}
+{"id": "P0776", "text": "call me at 878-202-4822", "pii": "878-202-4822", "kind": "phone"}
+{"id": "P0777", "text": "send it to raj59[at]gmail(dot)com thanks", "pii": "raj59[at]gmail(dot)com", "kind": "email_obf"}
+{"id": "P0778", "text": "forward to jоhn68@cоrp.exаmple.net", "pii": "jоhn68@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P0779", "text": "my number is 300835871", "pii": "300835871", "kind": "ssn_obf"}
+{"id": "P0780", "text": "cc raj52@corp.example.net on the deviation", "pii": "raj52@corp.example.net", "kind": "email"}
+{"id": "P0781", "text": "my social is 339-42-7254 please verify", "pii": "339-42-7254", "kind": "ssn"}
+{"id": "P0782", "text": "reach the supervisor on (855) 877-3327", "pii": "855 877 3327", "kind": "phone"}
+{"id": "P0783", "text": "send it to ahmed51 [at] gmail dot com thanks", "pii": "ahmed51 [at] gmail dot com", "kind": "email_obf"}
+{"id": "P0784", "text": "forward to chen3@cоrp.exаmple.net", "pii": "chen3@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P0785", "text": "my number is 688822316", "pii": "688822316", "kind": "ssn_obf"}
+{"id": "P0786", "text": "cc luis72@gmail.com on the deviation", "pii": "luis72@gmail.com", "kind": "email"}
+{"id": "P0787", "text": "employee ssn 834-91-1734 needs update", "pii": "834-91-1734", "kind": "ssn"}
+{"id": "P0788", "text": "reach the supervisor on (641) 680-4623", "pii": "641 680 4623", "kind": "phone"}
+{"id": "P0789", "text": "send it to maria95 [at] gmail[dot]com thanks", "pii": "maria95 [at] gmail[dot]com", "kind": "email_obf"}
+{"id": "P0790", "text": "forward to jоhn21@gmаil.cоm", "pii": "jоhn21@gmаil.cоm", "kind": "email_homoglyph"}
+{"id": "P0791", "text": "my number is 405239018", "pii": "405239018", "kind": "ssn_obf"}
+{"id": "P0792", "text": "cc raj50@gmail.com on the deviation", "pii": "raj50@gmail.com", "kind": "email"}
+{"id": "P0793", "text": "SSN: 118-90-2409", "pii": "118-90-2409", "kind": "ssn"}
+{"id": "P0794", "text": "call me at 819-205-3443", "pii": "819-205-3443", "kind": "phone"}
+{"id": "P0795", "text": "send it to ahmed75[at]corp(dot)example(dot)net thanks", "pii": "ahmed75[at]corp(dot)example(dot)net", "kind": "email_obf"}
+{"id": "P0796", "text": "forward to luis75@biоtech.iо", "pii": "luis75@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0797", "text": "my number is 8 6 2 4 9 7 1 2 3", "pii": "8 6 2 4 9 7 1 2 3", "kind": "ssn_obf"}
+{"id": "P0798", "text": "my email is olga63@biotech.io.", "pii": "olga63@biotech.io", "kind": "email"}
+{"id": "P0799", "text": "SSN: 860-80-2893", "pii": "860-80-2893", "kind": "ssn"}
+{"id": "P0800", "text": "phone 565-704-4676 ext 4", "pii": "565-704-4676", "kind": "phone"}
+{"id": "P0801", "text": "send it to maria21 at gmail(dot)com thanks", "pii": "maria21 at gmail(dot)com", "kind": "email_obf"}
+{"id": "P0802", "text": "forward to luis1@gmаil.cоm", "pii": "luis1@gmаil.cоm", "kind": "email_homoglyph"}
+{"id": "P0803", "text": "my number is 3 6 9 4 0 9 3 3 8", "pii": "3 6 9 4 0 9 3 3 8", "kind": "ssn_obf"}
+{"id": "P0804", "text": "cc luis79@acme.com on the deviation", "pii": "luis79@acme.com", "kind": "email"}
+{"id": "P0805", "text": "SSN: 236-70-1155", "pii": "236-70-1155", "kind": "ssn"}
+{"id": "P0806", "text": "phone 270-435-7366 ext 4", "pii": "270-435-7366", "kind": "phone"}
+{"id": "P0807", "text": "send it to raj58[at]mail dot example dot org thanks", "pii": "raj58[at]mail dot example dot org", "kind": "email_obf"}
+{"id": "P0808", "text": "forward to chen36@gmаil.cоm", "pii": "chen36@gmаil.cоm", "kind": "email_homoglyph"}
+{"id": "P0809", "text": "my number is 8 9 0 8 8 8 9 1 5", "pii": "8 9 0 8 8 8 9 1 5", "kind": "ssn_obf"}
+{"id": "P0810", "text": "cc li12@mail.example.org on the deviation", "pii": "li12@mail.example.org", "kind": "email"}
+{"id": "P0811", "text": "my social is 633-55-2603 please verify", "pii": "633-55-2603", "kind": "ssn"}
+{"id": "P0812", "text": "phone 793-964-8308 ext 4", "pii": "793-964-8308", "kind": "phone"}
+{"id": "P0813", "text": "send it to maria7(at)corp dot example dot net thanks", "pii": "maria7(at)corp dot example dot net", "kind": "email_obf"}
+{"id": "P0814", "text": "forward to luis32@biоtech.iо", "pii": "luis32@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0815", "text": "my number is two two one three seven four five three seven", "pii": "two two one three seven four five three seven", "kind": "ssn_obf"}
+{"id": "P0816", "text": "cc li34@biotech.io on the deviation", "pii": "li34@biotech.io", "kind": "email"}
+{"id": "P0817", "text": "employee ssn 214-22-6510 needs update", "pii": "214-22-6510", "kind": "ssn"}
+{"id": "P0818", "text": "call me at 729-237-2866", "pii": "729-237-2866", "kind": "phone"}
+{"id": "P0819", "text": "send it to ahmed33 [at] mail(dot)example(dot)org thanks", "pii": "ahmed33 [at] mail(dot)example(dot)org", "kind": "email_obf"}
+{"id": "P0820", "text": "forward to emmа73@gmail.cоm", "pii": "emmа73@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P0821", "text": "my number is four seven seven nine six eight one one nine", "pii": "four seven seven nine six eight one one nine", "kind": "ssn_obf"}
+{"id": "P0822", "text": "Please contact olga92@mail.example.org about lot status", "pii": "olga92@mail.example.org", "kind": "email"}
+{"id": "P0823", "text": "my social is 367-50-9744 please verify", "pii": "367-50-9744", "kind": "ssn"}
+{"id": "P0824", "text": "call me at 722-229-9725", "pii": "722-229-9725", "kind": "phone"}
+{"id": "P0825", "text": "send it to olga87 at gmail[dot]com thanks", "pii": "olga87 at gmail[dot]com", "kind": "email_obf"}
+{"id": "P0826", "text": "forward to sоfiа44@acme.cоm", "pii": "sоfiа44@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0827", "text": "my number is 369975883", "pii": "369975883", "kind": "ssn_obf"}
+{"id": "P0828", "text": "my email is maria5@gmail.com.", "pii": "maria5@gmail.com", "kind": "email"}
+{"id": "P0829", "text": "SSN: 596-80-7897", "pii": "596-80-7897", "kind": "ssn"}
+{"id": "P0830", "text": "phone 602-202-6270 ext 4", "pii": "602-202-6270", "kind": "phone"}
+{"id": "P0831", "text": "send it to ahmed32[at]acme dot com thanks", "pii": "ahmed32[at]acme dot com", "kind": "email_obf"}
+{"id": "P0832", "text": "forward to оlgа6@acme.cоm", "pii": "оlgа6@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0833", "text": "my number is 5 6 2 7 6 1 2 9 4", "pii": "5 6 2 7 6 1 2 9 4", "kind": "ssn_obf"}
+{"id": "P0834", "text": "my email is maria35@acme.com.", "pii": "maria35@acme.com", "kind": "email"}
+{"id": "P0835", "text": "employee ssn 790-28-3988 needs update", "pii": "790-28-3988", "kind": "ssn"}
+{"id": "P0836", "text": "call me at 307-822-6370", "pii": "307-822-6370", "kind": "phone"}
+{"id": "P0837", "text": "send it to chen10 [at] mail(dot)example(dot)org thanks", "pii": "chen10 [at] mail(dot)example(dot)org", "kind": "email_obf"}
+{"id": "P0838", "text": "forward to chen64@gmаil.cоm", "pii": "chen64@gmаil.cоm", "kind": "email_homoglyph"}
+{"id": "P0839", "text": "my number is three six one nine four five nine zero one", "pii": "three six one nine four five nine zero one", "kind": "ssn_obf"}
+{"id": "P0840", "text": "my email is sofia62@gmail.com.", "pii": "sofia62@gmail.com", "kind": "email"}
+{"id": "P0841", "text": "employee ssn 880-44-8839 needs update", "pii": "880-44-8839", "kind": "ssn"}
+{"id": "P0842", "text": "phone 249-920-8019 ext 4", "pii": "249-920-8019", "kind": "phone"}
+{"id": "P0843", "text": "send it to ahmed85(at)biotech[dot]io thanks", "pii": "ahmed85(at)biotech[dot]io", "kind": "email_obf"}
+{"id": "P0844", "text": "forward to mаria87@biоtech.iо", "pii": "mаria87@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0845", "text": "my number is 140429336", "pii": "140429336", "kind": "ssn_obf"}
+{"id": "P0846", "text": "cc raj38@mail.example.org on the deviation", "pii": "raj38@mail.example.org", "kind": "email"}
+{"id": "P0847", "text": "my social is 111-62-7051 please verify", "pii": "111-62-7051", "kind": "ssn"}
+{"id": "P0848", "text": "phone 660-271-1867 ext 4", "pii": "660-271-1867", "kind": "phone"}
+{"id": "P0849", "text": "send it to maria86(at)mail dot example dot org thanks", "pii": "maria86(at)mail dot example dot org", "kind": "email_obf"}
+{"id": "P0850", "text": "forward to jоhn14@biоtech.iо", "pii": "jоhn14@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0851", "text": "my number is 397199853", "pii": "397199853", "kind": "ssn_obf"}
+{"id": "P0852", "text": "my email is chen50@corp.example.net.", "pii": "chen50@corp.example.net", "kind": "email"}
+{"id": "P0853", "text": "employee ssn 478-77-6978 needs update", "pii": "478-77-6978", "kind": "ssn"}
+{"id": "P0854", "text": "reach the supervisor on (392) 937-6961", "pii": "392 937 6961", "kind": "phone"}
+{"id": "P0855", "text": "send it to raj95 at acme(dot)com thanks", "pii": "raj95 at acme(dot)com", "kind": "email_obf"}
+{"id": "P0856", "text": "forward to li44@cоrp.exаmple.net", "pii": "li44@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P0857", "text": "my number is 592355762", "pii": "592355762", "kind": "ssn_obf"}
+{"id": "P0858", "text": "cc john9@gmail.com on the deviation", "pii": "john9@gmail.com", "kind": "email"}
+{"id": "P0859", "text": "employee ssn 660-68-5543 needs update", "pii": "660-68-5543", "kind": "ssn"}
+{"id": "P0860", "text": "call me at 615-642-1706", "pii": "615-642-1706", "kind": "phone"}
+{"id": "P0861", "text": "send it to olga14 [at] mail[dot]example[dot]org thanks", "pii": "olga14 [at] mail[dot]example[dot]org", "kind": "email_obf"}
+{"id": "P0862", "text": "forward to оlgа91@cоrp.example.net", "pii": "оlgа91@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0863", "text": "my number is 459346689", "pii": "459346689", "kind": "ssn_obf"}
+{"id": "P0864", "text": "my email is sofia86@gmail.com.", "pii": "sofia86@gmail.com", "kind": "email"}
+{"id": "P0865", "text": "my social is 398-38-8480 please verify", "pii": "398-38-8480", "kind": "ssn"}
+{"id": "P0866", "text": "phone 314-693-3403 ext 4", "pii": "314-693-3403", "kind": "phone"}
+{"id": "P0867", "text": "send it to li24 at biotech[dot]io thanks", "pii": "li24 at biotech[dot]io", "kind": "email_obf"}
+{"id": "P0868", "text": "forward to luis57@cоrp.exаmple.net", "pii": "luis57@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P0869", "text": "my number is 5 8 7 5 7 2 9 1 6", "pii": "5 8 7 5 7 2 9 1 6", "kind": "ssn_obf"}
+{"id": "P0870", "text": "Please contact maria17@corp.example.net about lot status", "pii": "maria17@corp.example.net", "kind": "email"}
+{"id": "P0871", "text": "employee ssn 483-68-3724 needs update", "pii": "483-68-3724", "kind": "ssn"}
+{"id": "P0872", "text": "reach the supervisor on (646) 341-7960", "pii": "646 341 7960", "kind": "phone"}
+{"id": "P0873", "text": "send it to li74(at)biotech(dot)io thanks", "pii": "li74(at)biotech(dot)io", "kind": "email_obf"}
+{"id": "P0874", "text": "forward to luis8@cоrp.exаmple.net", "pii": "luis8@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P0875", "text": "my number is 5 9 8 7 6 4 3 2 8", "pii": "5 9 8 7 6 4 3 2 8", "kind": "ssn_obf"}
+{"id": "P0876", "text": "cc ahmed91@acme.com on the deviation", "pii": "ahmed91@acme.com", "kind": "email"}
+{"id": "P0877", "text": "SSN: 215-75-8749", "pii": "215-75-8749", "kind": "ssn"}
+{"id": "P0878", "text": "reach the supervisor on (245) 491-4064", "pii": "245 491 4064", "kind": "phone"}
+{"id": "P0879", "text": "send it to olga95[at]biotech dot io thanks", "pii": "olga95[at]biotech dot io", "kind": "email_obf"}
+{"id": "P0880", "text": "forward to оlgа67@acme.cоm", "pii": "оlgа67@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0881", "text": "my number is 519721688", "pii": "519721688", "kind": "ssn_obf"}
+{"id": "P0882", "text": "my email is maria23@gmail.com.", "pii": "maria23@gmail.com", "kind": "email"}
+{"id": "P0883", "text": "SSN: 184-64-5839", "pii": "184-64-5839", "kind": "ssn"}
+{"id": "P0884", "text": "call me at 467-705-2021", "pii": "467-705-2021", "kind": "phone"}
+{"id": "P0885", "text": "send it to li51 [at] corp[dot]example[dot]net thanks", "pii": "li51 [at] corp[dot]example[dot]net", "kind": "email_obf"}
+{"id": "P0886", "text": "forward to emmа68@biоtech.iо", "pii": "emmа68@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0887", "text": "my number is one three seven eight five four six eight six", "pii": "one three seven eight five four six eight six", "kind": "ssn_obf"}
+{"id": "P0888", "text": "my email is olga70@biotech.io.", "pii": "olga70@biotech.io", "kind": "email"}
+{"id": "P0889", "text": "my social is 521-33-2827 please verify", "pii": "521-33-2827", "kind": "ssn"}
+{"id": "P0890", "text": "reach the supervisor on (299) 824-2512", "pii": "299 824 2512", "kind": "phone"}
+{"id": "P0891", "text": "send it to emma61 at biotech dot io thanks", "pii": "emma61 at biotech dot io", "kind": "email_obf"}
+{"id": "P0892", "text": "forward to chen51@biоtech.iо", "pii": "chen51@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0893", "text": "my number is 5 0 8 3 8 8 9 1 3", "pii": "5 0 8 3 8 8 9 1 3", "kind": "ssn_obf"}
+{"id": "P0894", "text": "Please contact raj27@acme.com about lot status", "pii": "raj27@acme.com", "kind": "email"}
+{"id": "P0895", "text": "my social is 464-29-2480 please verify", "pii": "464-29-2480", "kind": "ssn"}
+{"id": "P0896", "text": "reach the supervisor on (392) 655-4821", "pii": "392 655 4821", "kind": "phone"}
+{"id": "P0897", "text": "send it to maria71(at)acme[dot]com thanks", "pii": "maria71(at)acme[dot]com", "kind": "email_obf"}
+{"id": "P0898", "text": "forward to emmа11@biоtech.iо", "pii": "emmа11@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0899", "text": "my number is six four two six three one six two zero", "pii": "six four two six three one six two zero", "kind": "ssn_obf"}
+{"id": "P0900", "text": "cc john68@biotech.io on the deviation", "pii": "john68@biotech.io", "kind": "email"}
+{"id": "P0901", "text": "my social is 589-30-1183 please verify", "pii": "589-30-1183", "kind": "ssn"}
+{"id": "P0902", "text": "call me at 913-980-1927", "pii": "913-980-1927", "kind": "phone"}
+{"id": "P0903", "text": "send it to ahmed11 [at] corp(dot)example(dot)net thanks", "pii": "ahmed11 [at] corp(dot)example(dot)net", "kind": "email_obf"}
+{"id": "P0904", "text": "forward to li22@cоrp.exаmple.net", "pii": "li22@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P0905", "text": "my number is 3 4 0 8 2 9 6 3 2", "pii": "3 4 0 8 2 9 6 3 2", "kind": "ssn_obf"}
+{"id": "P0906", "text": "my email is maria9@mail.example.org.", "pii": "maria9@mail.example.org", "kind": "email"}
+{"id": "P0907", "text": "my social is 189-56-5689 please verify", "pii": "189-56-5689", "kind": "ssn"}
+{"id": "P0908", "text": "call me at 343-430-5926", "pii": "343-430-5926", "kind": "phone"}
+{"id": "P0909", "text": "send it to li62[at]biotech(dot)io thanks", "pii": "li62[at]biotech(dot)io", "kind": "email_obf"}
+{"id": "P0910", "text": "forward to emmа30@mail.example.оrg", "pii": "emmа30@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0911", "text": "my number is four seven two one zero five four zero five", "pii": "four seven two one zero five four zero five", "kind": "ssn_obf"}
+{"id": "P0912", "text": "Please contact maria10@biotech.io about lot status", "pii": "maria10@biotech.io", "kind": "email"}
+{"id": "P0913", "text": "SSN: 411-43-2820", "pii": "411-43-2820", "kind": "ssn"}
+{"id": "P0914", "text": "reach the supervisor on (676) 603-6306", "pii": "676 603 6306", "kind": "phone"}
+{"id": "P0915", "text": "send it to li28 [at] biotech[dot]io thanks", "pii": "li28 [at] biotech[dot]io", "kind": "email_obf"}
+{"id": "P0916", "text": "forward to li86@cоrp.exаmple.net", "pii": "li86@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P0917", "text": "my number is 554478157", "pii": "554478157", "kind": "ssn_obf"}
+{"id": "P0918", "text": "my email is maria17@corp.example.net.", "pii": "maria17@corp.example.net", "kind": "email"}
+{"id": "P0919", "text": "my social is 480-77-8378 please verify", "pii": "480-77-8378", "kind": "ssn"}
+{"id": "P0920", "text": "call me at 623-308-2279", "pii": "623-308-2279", "kind": "phone"}
+{"id": "P0921", "text": "send it to emma11 at mail(dot)example(dot)org thanks", "pii": "emma11 at mail(dot)example(dot)org", "kind": "email_obf"}
+{"id": "P0922", "text": "forward to chen12@mаil.example.оrg", "pii": "chen12@mаil.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0923", "text": "my number is 1 8 1 1 1 1 7 3 3", "pii": "1 8 1 1 1 1 7 3 3", "kind": "ssn_obf"}
+{"id": "P0924", "text": "cc li50@corp.example.net on the deviation", "pii": "li50@corp.example.net", "kind": "email"}
+{"id": "P0925", "text": "employee ssn 399-49-7905 needs update", "pii": "399-49-7905", "kind": "ssn"}
+{"id": "P0926", "text": "reach the supervisor on (942) 995-6838", "pii": "942 995 6838", "kind": "phone"}
+{"id": "P0927", "text": "send it to maria69 [at] acme(dot)com thanks", "pii": "maria69 [at] acme(dot)com", "kind": "email_obf"}
+{"id": "P0928", "text": "forward to sоfiа17@cоrp.example.net", "pii": "sоfiа17@cоrp.example.net", "kind": "email_homoglyph"}
+{"id": "P0929", "text": "my number is 648505717", "pii": "648505717", "kind": "ssn_obf"}
+{"id": "P0930", "text": "cc ahmed16@biotech.io on the deviation", "pii": "ahmed16@biotech.io", "kind": "email"}
+{"id": "P0931", "text": "employee ssn 240-25-2690 needs update", "pii": "240-25-2690", "kind": "ssn"}
+{"id": "P0932", "text": "phone 683-247-2981 ext 4", "pii": "683-247-2981", "kind": "phone"}
+{"id": "P0933", "text": "send it to ahmed83(at)mail dot example dot org thanks", "pii": "ahmed83(at)mail dot example dot org", "kind": "email_obf"}
+{"id": "P0934", "text": "forward to rаj8@mail.example.оrg", "pii": "rаj8@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0935", "text": "my number is eight nine eight seven five four four zero five", "pii": "eight nine eight seven five four four zero five", "kind": "ssn_obf"}
+{"id": "P0936", "text": "my email is emma1@biotech.io.", "pii": "emma1@biotech.io", "kind": "email"}
+{"id": "P0937", "text": "SSN: 314-77-9327", "pii": "314-77-9327", "kind": "ssn"}
+{"id": "P0938", "text": "call me at 244-896-8023", "pii": "244-896-8023", "kind": "phone"}
+{"id": "P0939", "text": "send it to sofia60(at)gmail dot com thanks", "pii": "sofia60(at)gmail dot com", "kind": "email_obf"}
+{"id": "P0940", "text": "forward to chen49@biоtech.iо", "pii": "chen49@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0941", "text": "my number is 4 2 7 9 8 3 3 6 5", "pii": "4 2 7 9 8 3 3 6 5", "kind": "ssn_obf"}
+{"id": "P0942", "text": "my email is chen23@corp.example.net.", "pii": "chen23@corp.example.net", "kind": "email"}
+{"id": "P0943", "text": "SSN: 157-35-6187", "pii": "157-35-6187", "kind": "ssn"}
+{"id": "P0944", "text": "phone 902-207-6374 ext 4", "pii": "902-207-6374", "kind": "phone"}
+{"id": "P0945", "text": "send it to john19[at]mail dot example dot org thanks", "pii": "john19[at]mail dot example dot org", "kind": "email_obf"}
+{"id": "P0946", "text": "forward to emmа80@mail.example.оrg", "pii": "emmа80@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0947", "text": "my number is 889393583", "pii": "889393583", "kind": "ssn_obf"}
+{"id": "P0948", "text": "my email is john12@biotech.io.", "pii": "john12@biotech.io", "kind": "email"}
+{"id": "P0949", "text": "employee ssn 263-95-3302 needs update", "pii": "263-95-3302", "kind": "ssn"}
+{"id": "P0950", "text": "reach the supervisor on (238) 301-3065", "pii": "238 301 3065", "kind": "phone"}
+{"id": "P0951", "text": "send it to ahmed20[at]gmail dot com thanks", "pii": "ahmed20[at]gmail dot com", "kind": "email_obf"}
+{"id": "P0952", "text": "forward to luis26@gmаil.cоm", "pii": "luis26@gmаil.cоm", "kind": "email_homoglyph"}
+{"id": "P0953", "text": "my number is 585916928", "pii": "585916928", "kind": "ssn_obf"}
+{"id": "P0954", "text": "my email is luis59@corp.example.net.", "pii": "luis59@corp.example.net", "kind": "email"}
+{"id": "P0955", "text": "employee ssn 660-73-7781 needs update", "pii": "660-73-7781", "kind": "ssn"}
+{"id": "P0956", "text": "call me at 429-726-3056", "pii": "429-726-3056", "kind": "phone"}
+{"id": "P0957", "text": "send it to emma84(at)mail dot example dot org thanks", "pii": "emma84(at)mail dot example dot org", "kind": "email_obf"}
+{"id": "P0958", "text": "forward to mаria97@acme.cоm", "pii": "mаria97@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0959", "text": "my number is 696863194", "pii": "696863194", "kind": "ssn_obf"}
+{"id": "P0960", "text": "my email is maria82@corp.example.net.", "pii": "maria82@corp.example.net", "kind": "email"}
+{"id": "P0961", "text": "employee ssn 893-17-1217 needs update", "pii": "893-17-1217", "kind": "ssn"}
+{"id": "P0962", "text": "reach the supervisor on (278) 721-2914", "pii": "278 721 2914", "kind": "phone"}
+{"id": "P0963", "text": "send it to emma19(at)corp(dot)example(dot)net thanks", "pii": "emma19(at)corp(dot)example(dot)net", "kind": "email_obf"}
+{"id": "P0964", "text": "forward to emmа3@mail.example.оrg", "pii": "emmа3@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P0965", "text": "my number is two nine one two four five nine one zero", "pii": "two nine one two four five nine one zero", "kind": "ssn_obf"}
+{"id": "P0966", "text": "Please contact ahmed6@acme.com about lot status", "pii": "ahmed6@acme.com", "kind": "email"}
+{"id": "P0967", "text": "employee ssn 831-57-1785 needs update", "pii": "831-57-1785", "kind": "ssn"}
+{"id": "P0968", "text": "reach the supervisor on (314) 446-9840", "pii": "314 446 9840", "kind": "phone"}
+{"id": "P0969", "text": "send it to chen39 [at] corp(dot)example(dot)net thanks", "pii": "chen39 [at] corp(dot)example(dot)net", "kind": "email_obf"}
+{"id": "P0970", "text": "forward to jоhn65@biоtech.iо", "pii": "jоhn65@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0971", "text": "my number is 506117246", "pii": "506117246", "kind": "ssn_obf"}
+{"id": "P0972", "text": "Please contact luis95@mail.example.org about lot status", "pii": "luis95@mail.example.org", "kind": "email"}
+{"id": "P0973", "text": "employee ssn 201-54-2102 needs update", "pii": "201-54-2102", "kind": "ssn"}
+{"id": "P0974", "text": "reach the supervisor on (210) 285-1195", "pii": "210 285 1195", "kind": "phone"}
+{"id": "P0975", "text": "send it to olga28 at biotech[dot]io thanks", "pii": "olga28 at biotech[dot]io", "kind": "email_obf"}
+{"id": "P0976", "text": "forward to chen23@gmаil.cоm", "pii": "chen23@gmаil.cоm", "kind": "email_homoglyph"}
+{"id": "P0977", "text": "my number is six six two seven one eight three four seven", "pii": "six six two seven one eight three four seven", "kind": "ssn_obf"}
+{"id": "P0978", "text": "cc sofia19@mail.example.org on the deviation", "pii": "sofia19@mail.example.org", "kind": "email"}
+{"id": "P0979", "text": "SSN: 641-28-9619", "pii": "641-28-9619", "kind": "ssn"}
+{"id": "P0980", "text": "reach the supervisor on (762) 417-3146", "pii": "762 417 3146", "kind": "phone"}
+{"id": "P0981", "text": "send it to raj47(at)acme dot com thanks", "pii": "raj47(at)acme dot com", "kind": "email_obf"}
+{"id": "P0982", "text": "forward to аhmed63@biоtech.iо", "pii": "аhmed63@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P0983", "text": "my number is 1 1 1 9 9 6 7 6 3", "pii": "1 1 1 9 9 6 7 6 3", "kind": "ssn_obf"}
+{"id": "P0984", "text": "Please contact ahmed64@corp.example.net about lot status", "pii": "ahmed64@corp.example.net", "kind": "email"}
+{"id": "P0985", "text": "my social is 113-97-9050 please verify", "pii": "113-97-9050", "kind": "ssn"}
+{"id": "P0986", "text": "reach the supervisor on (731) 823-3749", "pii": "731 823 3749", "kind": "phone"}
+{"id": "P0987", "text": "send it to john35(at)gmail[dot]com thanks", "pii": "john35(at)gmail[dot]com", "kind": "email_obf"}
+{"id": "P0988", "text": "forward to luis14@cоrp.exаmple.net", "pii": "luis14@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P0989", "text": "my number is 886411828", "pii": "886411828", "kind": "ssn_obf"}
+{"id": "P0990", "text": "my email is li13@acme.com.", "pii": "li13@acme.com", "kind": "email"}
+{"id": "P0991", "text": "my social is 839-70-1403 please verify", "pii": "839-70-1403", "kind": "ssn"}
+{"id": "P0992", "text": "reach the supervisor on (809) 730-4246", "pii": "809 730 4246", "kind": "phone"}
+{"id": "P0993", "text": "send it to john80 at corp(dot)example(dot)net thanks", "pii": "john80 at corp(dot)example(dot)net", "kind": "email_obf"}
+{"id": "P0994", "text": "forward to оlgа44@acme.cоm", "pii": "оlgа44@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P0995", "text": "my number is three eight one five three two zero four three", "pii": "three eight one five three two zero four three", "kind": "ssn_obf"}
+{"id": "P0996", "text": "cc emma73@biotech.io on the deviation", "pii": "emma73@biotech.io", "kind": "email"}
+{"id": "P0997", "text": "SSN: 580-25-1152", "pii": "580-25-1152", "kind": "ssn"}
+{"id": "P0998", "text": "call me at 460-662-8079", "pii": "460-662-8079", "kind": "phone"}
+{"id": "P0999", "text": "send it to chen26 at corp dot example dot net thanks", "pii": "chen26 at corp dot example dot net", "kind": "email_obf"}
+{"id": "P1000", "text": "forward to sоfiа84@mail.example.оrg", "pii": "sоfiа84@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P1001", "text": "my number is 233655493", "pii": "233655493", "kind": "ssn_obf"}
+{"id": "P1002", "text": "my email is emma51@biotech.io.", "pii": "emma51@biotech.io", "kind": "email"}
+{"id": "P1003", "text": "employee ssn 232-12-5094 needs update", "pii": "232-12-5094", "kind": "ssn"}
+{"id": "P1004", "text": "phone 237-697-2136 ext 4", "pii": "237-697-2136", "kind": "phone"}
+{"id": "P1005", "text": "send it to emma15[at]biotech dot io thanks", "pii": "emma15[at]biotech dot io", "kind": "email_obf"}
+{"id": "P1006", "text": "forward to chen82@cоrp.exаmple.net", "pii": "chen82@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P1007", "text": "my number is 6 5 2 8 2 1 5 4 0", "pii": "6 5 2 8 2 1 5 4 0", "kind": "ssn_obf"}
+{"id": "P1008", "text": "my email is sofia99@acme.com.", "pii": "sofia99@acme.com", "kind": "email"}
+{"id": "P1009", "text": "my social is 501-88-8719 please verify", "pii": "501-88-8719", "kind": "ssn"}
+{"id": "P1010", "text": "phone 594-851-2480 ext 4", "pii": "594-851-2480", "kind": "phone"}
+{"id": "P1011", "text": "send it to ahmed84 at biotech dot io thanks", "pii": "ahmed84 at biotech dot io", "kind": "email_obf"}
+{"id": "P1012", "text": "forward to аhmed19@gmail.cоm", "pii": "аhmed19@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P1013", "text": "my number is seven eight five two zero seven eight three eight", "pii": "seven eight five two zero seven eight three eight", "kind": "ssn_obf"}
+{"id": "P1014", "text": "Please contact sofia64@gmail.com about lot status", "pii": "sofia64@gmail.com", "kind": "email"}
+{"id": "P1015", "text": "my social is 565-73-7101 please verify", "pii": "565-73-7101", "kind": "ssn"}
+{"id": "P1016", "text": "phone 600-835-5634 ext 4", "pii": "600-835-5634", "kind": "phone"}
+{"id": "P1017", "text": "send it to sofia17 at acme[dot]com thanks", "pii": "sofia17 at acme[dot]com", "kind": "email_obf"}
+{"id": "P1018", "text": "forward to оlgа10@mail.example.оrg", "pii": "оlgа10@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P1019", "text": "my number is 2 1 4 6 5 6 0 7 8", "pii": "2 1 4 6 5 6 0 7 8", "kind": "ssn_obf"}
+{"id": "P1020", "text": "cc ahmed61@corp.example.net on the deviation", "pii": "ahmed61@corp.example.net", "kind": "email"}
+{"id": "P1021", "text": "employee ssn 388-27-3720 needs update", "pii": "388-27-3720", "kind": "ssn"}
+{"id": "P1022", "text": "phone 529-524-1046 ext 4", "pii": "529-524-1046", "kind": "phone"}
+{"id": "P1023", "text": "send it to maria29 [at] biotech dot io thanks", "pii": "maria29 [at] biotech dot io", "kind": "email_obf"}
+{"id": "P1024", "text": "forward to luis52@gmаil.cоm", "pii": "luis52@gmаil.cоm", "kind": "email_homoglyph"}
+{"id": "P1025", "text": "my number is 8 3 7 5 6 7 1 2 4", "pii": "8 3 7 5 6 7 1 2 4", "kind": "ssn_obf"}
+{"id": "P1026", "text": "Please contact li20@acme.com about lot status", "pii": "li20@acme.com", "kind": "email"}
+{"id": "P1027", "text": "SSN: 396-12-6895", "pii": "396-12-6895", "kind": "ssn"}
+{"id": "P1028", "text": "phone 972-775-3627 ext 4", "pii": "972-775-3627", "kind": "phone"}
+{"id": "P1029", "text": "send it to raj43 at corp(dot)example(dot)net thanks", "pii": "raj43 at corp(dot)example(dot)net", "kind": "email_obf"}
+{"id": "P1030", "text": "forward to оlgа78@gmail.cоm", "pii": "оlgа78@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P1031", "text": "my number is 8 7 3 7 9 5 6 5 0", "pii": "8 7 3 7 9 5 6 5 0", "kind": "ssn_obf"}
+{"id": "P1032", "text": "Please contact olga70@acme.com about lot status", "pii": "olga70@acme.com", "kind": "email"}
+{"id": "P1033", "text": "SSN: 611-69-9429", "pii": "611-69-9429", "kind": "ssn"}
+{"id": "P1034", "text": "reach the supervisor on (989) 242-7244", "pii": "989 242 7244", "kind": "phone"}
+{"id": "P1035", "text": "send it to luis48[at]biotech[dot]io thanks", "pii": "luis48[at]biotech[dot]io", "kind": "email_obf"}
+{"id": "P1036", "text": "forward to sоfiа99@mail.example.оrg", "pii": "sоfiа99@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P1037", "text": "my number is 4 9 9 5 9 8 3 2 1", "pii": "4 9 9 5 9 8 3 2 1", "kind": "ssn_obf"}
+{"id": "P1038", "text": "Please contact sofia24@corp.example.net about lot status", "pii": "sofia24@corp.example.net", "kind": "email"}
+{"id": "P1039", "text": "SSN: 757-81-5908", "pii": "757-81-5908", "kind": "ssn"}
+{"id": "P1040", "text": "call me at 657-949-4034", "pii": "657-949-4034", "kind": "phone"}
+{"id": "P1041", "text": "send it to chen93(at)biotech[dot]io thanks", "pii": "chen93(at)biotech[dot]io", "kind": "email_obf"}
+{"id": "P1042", "text": "forward to аhmed88@gmail.cоm", "pii": "аhmed88@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P1043", "text": "my number is 1 0 8 7 7 7 8 7 4", "pii": "1 0 8 7 7 7 8 7 4", "kind": "ssn_obf"}
+{"id": "P1044", "text": "Please contact ahmed74@gmail.com about lot status", "pii": "ahmed74@gmail.com", "kind": "email"}
+{"id": "P1045", "text": "SSN: 418-34-5117", "pii": "418-34-5117", "kind": "ssn"}
+{"id": "P1046", "text": "phone 663-495-2043 ext 4", "pii": "663-495-2043", "kind": "phone"}
+{"id": "P1047", "text": "send it to maria55 [at] corp(dot)example(dot)net thanks", "pii": "maria55 [at] corp(dot)example(dot)net", "kind": "email_obf"}
+{"id": "P1048", "text": "forward to mаria89@mail.example.оrg", "pii": "mаria89@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P1049", "text": "my number is five one two six two one nine one two", "pii": "five one two six two one nine one two", "kind": "ssn_obf"}
+{"id": "P1050", "text": "my email is raj39@biotech.io.", "pii": "raj39@biotech.io", "kind": "email"}
+{"id": "P1051", "text": "employee ssn 453-54-6508 needs update", "pii": "453-54-6508", "kind": "ssn"}
+{"id": "P1052", "text": "call me at 490-312-4990", "pii": "490-312-4990", "kind": "phone"}
+{"id": "P1053", "text": "send it to luis62(at)gmail dot com thanks", "pii": "luis62(at)gmail dot com", "kind": "email_obf"}
+{"id": "P1054", "text": "forward to chen12@cоrp.exаmple.net", "pii": "chen12@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P1055", "text": "my number is 300995938", "pii": "300995938", "kind": "ssn_obf"}
+{"id": "P1056", "text": "cc emma77@gmail.com on the deviation", "pii": "emma77@gmail.com", "kind": "email"}
+{"id": "P1057", "text": "employee ssn 605-56-2268 needs update", "pii": "605-56-2268", "kind": "ssn"}
+{"id": "P1058", "text": "call me at 621-304-6264", "pii": "621-304-6264", "kind": "phone"}
+{"id": "P1059", "text": "send it to emma65[at]biotech dot io thanks", "pii": "emma65[at]biotech dot io", "kind": "email_obf"}
+{"id": "P1060", "text": "forward to аhmed95@mail.example.оrg", "pii": "аhmed95@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P1061", "text": "my number is eight three three eight five one nine one five", "pii": "eight three three eight five one nine one five", "kind": "ssn_obf"}
+{"id": "P1062", "text": "my email is olga41@mail.example.org.", "pii": "olga41@mail.example.org", "kind": "email"}
+{"id": "P1063", "text": "employee ssn 618-11-9654 needs update", "pii": "618-11-9654", "kind": "ssn"}
+{"id": "P1064", "text": "reach the supervisor on (674) 367-2889", "pii": "674 367 2889", "kind": "phone"}
+{"id": "P1065", "text": "send it to emma19[at]corp(dot)example(dot)net thanks", "pii": "emma19[at]corp(dot)example(dot)net", "kind": "email_obf"}
+{"id": "P1066", "text": "forward to chen33@gmаil.cоm", "pii": "chen33@gmаil.cоm", "kind": "email_homoglyph"}
+{"id": "P1067", "text": "my number is 361369417", "pii": "361369417", "kind": "ssn_obf"}
+{"id": "P1068", "text": "my email is chen37@mail.example.org.", "pii": "chen37@mail.example.org", "kind": "email"}
+{"id": "P1069", "text": "my social is 615-44-1777 please verify", "pii": "615-44-1777", "kind": "ssn"}
+{"id": "P1070", "text": "phone 988-639-2935 ext 4", "pii": "988-639-2935", "kind": "phone"}
+{"id": "P1071", "text": "send it to emma89 at corp[dot]example[dot]net thanks", "pii": "emma89 at corp[dot]example[dot]net", "kind": "email_obf"}
+{"id": "P1072", "text": "forward to аhmed49@acme.cоm", "pii": "аhmed49@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P1073", "text": "my number is eight nine one six four one three four zero", "pii": "eight nine one six four one three four zero", "kind": "ssn_obf"}
+{"id": "P1074", "text": "my email is chen81@acme.com.", "pii": "chen81@acme.com", "kind": "email"}
+{"id": "P1075", "text": "SSN: 818-95-2547", "pii": "818-95-2547", "kind": "ssn"}
+{"id": "P1076", "text": "reach the supervisor on (666) 255-5978", "pii": "666 255 5978", "kind": "phone"}
+{"id": "P1077", "text": "send it to raj5 [at] biotech(dot)io thanks", "pii": "raj5 [at] biotech(dot)io", "kind": "email_obf"}
+{"id": "P1078", "text": "forward to mаria96@mail.example.оrg", "pii": "mаria96@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P1079", "text": "my number is six one seven seven eight two eight nine five", "pii": "six one seven seven eight two eight nine five", "kind": "ssn_obf"}
+{"id": "P1080", "text": "Please contact john88@acme.com about lot status", "pii": "john88@acme.com", "kind": "email"}
+{"id": "P1081", "text": "SSN: 782-94-5704", "pii": "782-94-5704", "kind": "ssn"}
+{"id": "P1082", "text": "reach the supervisor on (574) 278-3729", "pii": "574 278 3729", "kind": "phone"}
+{"id": "P1083", "text": "send it to raj28[at]mail[dot]example[dot]org thanks", "pii": "raj28[at]mail[dot]example[dot]org", "kind": "email_obf"}
+{"id": "P1084", "text": "forward to li71@biоtech.iо", "pii": "li71@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P1085", "text": "my number is 8 7 8 3 3 8 8 1 2", "pii": "8 7 8 3 3 8 8 1 2", "kind": "ssn_obf"}
+{"id": "P1086", "text": "cc olga14@acme.com on the deviation", "pii": "olga14@acme.com", "kind": "email"}
+{"id": "P1087", "text": "SSN: 512-67-9076", "pii": "512-67-9076", "kind": "ssn"}
+{"id": "P1088", "text": "reach the supervisor on (465) 525-6694", "pii": "465 525 6694", "kind": "phone"}
+{"id": "P1089", "text": "send it to emma17[at]biotech[dot]io thanks", "pii": "emma17[at]biotech[dot]io", "kind": "email_obf"}
+{"id": "P1090", "text": "forward to luis77@аcme.cоm", "pii": "luis77@аcme.cоm", "kind": "email_homoglyph"}
+{"id": "P1091", "text": "my number is 1 1 3 5 2 2 1 9 8", "pii": "1 1 3 5 2 2 1 9 8", "kind": "ssn_obf"}
+{"id": "P1092", "text": "cc maria48@mail.example.org on the deviation", "pii": "maria48@mail.example.org", "kind": "email"}
+{"id": "P1093", "text": "SSN: 224-77-2570", "pii": "224-77-2570", "kind": "ssn"}
+{"id": "P1094", "text": "call me at 963-817-1830", "pii": "963-817-1830", "kind": "phone"}
+{"id": "P1095", "text": "send it to li34(at)corp[dot]example[dot]net thanks", "pii": "li34(at)corp[dot]example[dot]net", "kind": "email_obf"}
+{"id": "P1096", "text": "forward to luis19@cоrp.exаmple.net", "pii": "luis19@cоrp.exаmple.net", "kind": "email_homoglyph"}
+{"id": "P1097", "text": "my number is 3 9 7 1 1 1 7 7 8", "pii": "3 9 7 1 1 1 7 7 8", "kind": "ssn_obf"}
+{"id": "P1098", "text": "Please contact emma18@acme.com about lot status", "pii": "emma18@acme.com", "kind": "email"}
+{"id": "P1099", "text": "SSN: 486-54-8936", "pii": "486-54-8936", "kind": "ssn"}
+{"id": "P1100", "text": "reach the supervisor on (991) 536-9578", "pii": "991 536 9578", "kind": "phone"}
+{"id": "P1101", "text": "send it to sofia87 [at] acme[dot]com thanks", "pii": "sofia87 [at] acme[dot]com", "kind": "email_obf"}
+{"id": "P1102", "text": "forward to rаj25@gmail.cоm", "pii": "rаj25@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P1103", "text": "my number is 514204682", "pii": "514204682", "kind": "ssn_obf"}
+{"id": "P1104", "text": "my email is luis60@acme.com.", "pii": "luis60@acme.com", "kind": "email"}
+{"id": "P1105", "text": "my social is 703-33-5668 please verify", "pii": "703-33-5668", "kind": "ssn"}
+{"id": "P1106", "text": "reach the supervisor on (257) 381-6717", "pii": "257 381 6717", "kind": "phone"}
+{"id": "P1107", "text": "send it to john91[at]mail dot example dot org thanks", "pii": "john91[at]mail dot example dot org", "kind": "email_obf"}
+{"id": "P1108", "text": "forward to sоfiа96@mail.example.оrg", "pii": "sоfiа96@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P1109", "text": "my number is 4 2 2 3 5 2 2 1 3", "pii": "4 2 2 3 5 2 2 1 3", "kind": "ssn_obf"}
+{"id": "P1110", "text": "cc raj44@corp.example.net on the deviation", "pii": "raj44@corp.example.net", "kind": "email"}
+{"id": "P1111", "text": "SSN: 564-24-6393", "pii": "564-24-6393", "kind": "ssn"}
+{"id": "P1112", "text": "phone 940-609-8859 ext 4", "pii": "940-609-8859", "kind": "phone"}
+{"id": "P1113", "text": "send it to olga63 [at] acme[dot]com thanks", "pii": "olga63 [at] acme[dot]com", "kind": "email_obf"}
+{"id": "P1114", "text": "forward to jоhn72@mаil.example.оrg", "pii": "jоhn72@mаil.example.оrg", "kind": "email_homoglyph"}
+{"id": "P1115", "text": "my number is 510829742", "pii": "510829742", "kind": "ssn_obf"}
+{"id": "P1116", "text": "my email is li38@acme.com.", "pii": "li38@acme.com", "kind": "email"}
+{"id": "P1117", "text": "employee ssn 783-90-2322 needs update", "pii": "783-90-2322", "kind": "ssn"}
+{"id": "P1118", "text": "reach the supervisor on (552) 303-2683", "pii": "552 303 2683", "kind": "phone"}
+{"id": "P1119", "text": "send it to maria95 [at] biotech dot io thanks", "pii": "maria95 [at] biotech dot io", "kind": "email_obf"}
+{"id": "P1120", "text": "forward to sоfiа94@acme.cоm", "pii": "sоfiа94@acme.cоm", "kind": "email_homoglyph"}
+{"id": "P1121", "text": "my number is 7 6 3 2 6 2 8 4 7", "pii": "7 6 3 2 6 2 8 4 7", "kind": "ssn_obf"}
+{"id": "P1122", "text": "cc john31@biotech.io on the deviation", "pii": "john31@biotech.io", "kind": "email"}
+{"id": "P1123", "text": "my social is 272-69-9248 please verify", "pii": "272-69-9248", "kind": "ssn"}
+{"id": "P1124", "text": "call me at 988-575-9337", "pii": "988-575-9337", "kind": "phone"}
+{"id": "P1125", "text": "send it to luis73 at gmail[dot]com thanks", "pii": "luis73 at gmail[dot]com", "kind": "email_obf"}
+{"id": "P1126", "text": "forward to li68@аcme.cоm", "pii": "li68@аcme.cоm", "kind": "email_homoglyph"}
+{"id": "P1127", "text": "my number is 6 1 6 9 6 2 9 9 6", "pii": "6 1 6 9 6 2 9 9 6", "kind": "ssn_obf"}
+{"id": "P1128", "text": "my email is chen6@acme.com.", "pii": "chen6@acme.com", "kind": "email"}
+{"id": "P1129", "text": "SSN: 708-90-8634", "pii": "708-90-8634", "kind": "ssn"}
+{"id": "P1130", "text": "phone 503-821-7616 ext 4", "pii": "503-821-7616", "kind": "phone"}
+{"id": "P1131", "text": "send it to john38[at]acme dot com thanks", "pii": "john38[at]acme dot com", "kind": "email_obf"}
+{"id": "P1132", "text": "forward to jоhn8@gmаil.cоm", "pii": "jоhn8@gmаil.cоm", "kind": "email_homoglyph"}
+{"id": "P1133", "text": "my number is 327925885", "pii": "327925885", "kind": "ssn_obf"}
+{"id": "P1134", "text": "cc sofia36@acme.com on the deviation", "pii": "sofia36@acme.com", "kind": "email"}
+{"id": "P1135", "text": "SSN: 873-13-1881", "pii": "873-13-1881", "kind": "ssn"}
+{"id": "P1136", "text": "reach the supervisor on (534) 707-8723", "pii": "534 707 8723", "kind": "phone"}
+{"id": "P1137", "text": "send it to li53 at acme[dot]com thanks", "pii": "li53 at acme[dot]com", "kind": "email_obf"}
+{"id": "P1138", "text": "forward to emmа91@gmail.cоm", "pii": "emmа91@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P1139", "text": "my number is seven one five one five nine five nine one", "pii": "seven one five one five nine five nine one", "kind": "ssn_obf"}
+{"id": "P1140", "text": "Please contact john90@corp.example.net about lot status", "pii": "john90@corp.example.net", "kind": "email"}
+{"id": "P1141", "text": "SSN: 219-69-2758", "pii": "219-69-2758", "kind": "ssn"}
+{"id": "P1142", "text": "call me at 446-395-8207", "pii": "446-395-8207", "kind": "phone"}
+{"id": "P1143", "text": "send it to ahmed18(at)acme(dot)com thanks", "pii": "ahmed18(at)acme(dot)com", "kind": "email_obf"}
+{"id": "P1144", "text": "forward to emmа59@gmail.cоm", "pii": "emmа59@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P1145", "text": "my number is five six six five four seven one six six", "pii": "five six six five four seven one six six", "kind": "ssn_obf"}
+{"id": "P1146", "text": "my email is olga37@biotech.io.", "pii": "olga37@biotech.io", "kind": "email"}
+{"id": "P1147", "text": "my social is 313-46-7882 please verify", "pii": "313-46-7882", "kind": "ssn"}
+{"id": "P1148", "text": "phone 452-529-7090 ext 4", "pii": "452-529-7090", "kind": "phone"}
+{"id": "P1149", "text": "send it to li68(at)gmail dot com thanks", "pii": "li68(at)gmail dot com", "kind": "email_obf"}
+{"id": "P1150", "text": "forward to emmа41@gmail.cоm", "pii": "emmа41@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P1151", "text": "my number is 579922802", "pii": "579922802", "kind": "ssn_obf"}
+{"id": "P1152", "text": "Please contact li58@biotech.io about lot status", "pii": "li58@biotech.io", "kind": "email"}
+{"id": "P1153", "text": "SSN: 652-14-6486", "pii": "652-14-6486", "kind": "ssn"}
+{"id": "P1154", "text": "phone 397-351-6170 ext 4", "pii": "397-351-6170", "kind": "phone"}
+{"id": "P1155", "text": "send it to raj62[at]corp dot example dot net thanks", "pii": "raj62[at]corp dot example dot net", "kind": "email_obf"}
+{"id": "P1156", "text": "forward to mаria66@biоtech.iо", "pii": "mаria66@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P1157", "text": "my number is 2 9 2 6 2 7 8 9 2", "pii": "2 9 2 6 2 7 8 9 2", "kind": "ssn_obf"}
+{"id": "P1158", "text": "cc ahmed46@gmail.com on the deviation", "pii": "ahmed46@gmail.com", "kind": "email"}
+{"id": "P1159", "text": "employee ssn 694-39-7886 needs update", "pii": "694-39-7886", "kind": "ssn"}
+{"id": "P1160", "text": "phone 872-930-5622 ext 4", "pii": "872-930-5622", "kind": "phone"}
+{"id": "P1161", "text": "send it to luis40 at biotech[dot]io thanks", "pii": "luis40 at biotech[dot]io", "kind": "email_obf"}
+{"id": "P1162", "text": "forward to emmа52@mail.example.оrg", "pii": "emmа52@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P1163", "text": "my number is eight four four five seven four zero one seven", "pii": "eight four four five seven four zero one seven", "kind": "ssn_obf"}
+{"id": "P1164", "text": "cc sofia21@mail.example.org on the deviation", "pii": "sofia21@mail.example.org", "kind": "email"}
+{"id": "P1165", "text": "my social is 336-36-7200 please verify", "pii": "336-36-7200", "kind": "ssn"}
+{"id": "P1166", "text": "reach the supervisor on (552) 703-4132", "pii": "552 703 4132", "kind": "phone"}
+{"id": "P1167", "text": "send it to ahmed94[at]mail(dot)example(dot)org thanks", "pii": "ahmed94[at]mail(dot)example(dot)org", "kind": "email_obf"}
+{"id": "P1168", "text": "forward to оlgа62@biоtech.iо", "pii": "оlgа62@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P1169", "text": "my number is 1 1 6 2 3 6 3 0 1", "pii": "1 1 6 2 3 6 3 0 1", "kind": "ssn_obf"}
+{"id": "P1170", "text": "Please contact chen54@gmail.com about lot status", "pii": "chen54@gmail.com", "kind": "email"}
+{"id": "P1171", "text": "my social is 331-26-7554 please verify", "pii": "331-26-7554", "kind": "ssn"}
+{"id": "P1172", "text": "phone 749-822-8377 ext 4", "pii": "749-822-8377", "kind": "phone"}
+{"id": "P1173", "text": "send it to john56[at]mail[dot]example[dot]org thanks", "pii": "john56[at]mail[dot]example[dot]org", "kind": "email_obf"}
+{"id": "P1174", "text": "forward to аhmed48@biоtech.iо", "pii": "аhmed48@biоtech.iо", "kind": "email_homoglyph"}
+{"id": "P1175", "text": "my number is 266257847", "pii": "266257847", "kind": "ssn_obf"}
+{"id": "P1176", "text": "Please contact li4@corp.example.net about lot status", "pii": "li4@corp.example.net", "kind": "email"}
+{"id": "P1177", "text": "my social is 531-65-6448 please verify", "pii": "531-65-6448", "kind": "ssn"}
+{"id": "P1178", "text": "phone 632-383-6100 ext 4", "pii": "632-383-6100", "kind": "phone"}
+{"id": "P1179", "text": "send it to ahmed28(at)biotech[dot]io thanks", "pii": "ahmed28(at)biotech[dot]io", "kind": "email_obf"}
+{"id": "P1180", "text": "forward to sоfiа74@mail.example.оrg", "pii": "sоfiа74@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P1181", "text": "my number is one eight five nine five seven four eight eight", "pii": "one eight five nine five seven four eight eight", "kind": "ssn_obf"}
+{"id": "P1182", "text": "cc olga40@acme.com on the deviation", "pii": "olga40@acme.com", "kind": "email"}
+{"id": "P1183", "text": "my social is 654-15-2944 please verify", "pii": "654-15-2944", "kind": "ssn"}
+{"id": "P1184", "text": "call me at 530-822-7714", "pii": "530-822-7714", "kind": "phone"}
+{"id": "P1185", "text": "send it to maria56 [at] biotech dot io thanks", "pii": "maria56 [at] biotech dot io", "kind": "email_obf"}
+{"id": "P1186", "text": "forward to mаria73@gmail.cоm", "pii": "mаria73@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P1187", "text": "my number is six five three six three four eight two four", "pii": "six five three six three four eight two four", "kind": "ssn_obf"}
+{"id": "P1188", "text": "Please contact luis70@mail.example.org about lot status", "pii": "luis70@mail.example.org", "kind": "email"}
+{"id": "P1189", "text": "my social is 528-29-5038 please verify", "pii": "528-29-5038", "kind": "ssn"}
+{"id": "P1190", "text": "reach the supervisor on (750) 559-7491", "pii": "750 559 7491", "kind": "phone"}
+{"id": "P1191", "text": "send it to olga61[at]corp[dot]example[dot]net thanks", "pii": "olga61[at]corp[dot]example[dot]net", "kind": "email_obf"}
+{"id": "P1192", "text": "forward to аhmed12@gmail.cоm", "pii": "аhmed12@gmail.cоm", "kind": "email_homoglyph"}
+{"id": "P1193", "text": "my number is 445801880", "pii": "445801880", "kind": "ssn_obf"}
+{"id": "P1194", "text": "Please contact john61@corp.example.net about lot status", "pii": "john61@corp.example.net", "kind": "email"}
+{"id": "P1195", "text": "my social is 193-10-1932 please verify", "pii": "193-10-1932", "kind": "ssn"}
+{"id": "P1196", "text": "phone 480-336-4501 ext 4", "pii": "480-336-4501", "kind": "phone"}
+{"id": "P1197", "text": "send it to raj48(at)biotech[dot]io thanks", "pii": "raj48(at)biotech[dot]io", "kind": "email_obf"}
+{"id": "P1198", "text": "forward to sоfiа69@mail.example.оrg", "pii": "sоfiа69@mail.example.оrg", "kind": "email_homoglyph"}
+{"id": "P1199", "text": "my number is five six zero four six one three two seven", "pii": "five six zero four six one three two seven", "kind": "ssn_obf"}
+{"id": "N0000", "text": "Purchases above $42,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0001", "text": "Purchases above $48,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0002", "text": "Status of LOT-25158?", "pii": null, "kind": "clean"}
+{"id": "N0003", "text": "Reading was 2°C for 1 hours", "pii": null, "kind": "clean"}
+{"id": "N0004", "text": "What is the storage temperature for SKU-018?", "pii": null, "kind": "clean"}
+{"id": "N0005", "text": "Reading was 11°C for 1 hours", "pii": null, "kind": "clean"}
+{"id": "N0006", "text": "Status of LOT-28336?", "pii": null, "kind": "clean"}
+{"id": "N0007", "text": "Reading was 7°C for 2 hours", "pii": null, "kind": "clean"}
+{"id": "N0008", "text": "Purchases above $15,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0009", "text": "Purchases above $29,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0010", "text": "Status of LOT-50843?", "pii": null, "kind": "clean"}
+{"id": "N0011", "text": "Status of LOT-35035?", "pii": null, "kind": "clean"}
+{"id": "N0012", "text": "Purchases above $48,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0013", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0014", "text": "What is the storage temperature for SKU-012?", "pii": null, "kind": "clean"}
+{"id": "N0015", "text": "Purchases above $26,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0016", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0017", "text": "Reading was 8°C for 1 hours", "pii": null, "kind": "clean"}
+{"id": "N0018", "text": "Reading was 12°C for 9 hours", "pii": null, "kind": "clean"}
+{"id": "N0019", "text": "Status of LOT-12540?", "pii": null, "kind": "clean"}
+{"id": "N0020", "text": "Reading was 2°C for 1 hours", "pii": null, "kind": "clean"}
+{"id": "N0021", "text": "Reading was 3°C for 4 hours", "pii": null, "kind": "clean"}
+{"id": "N0022", "text": "Purchases above $84,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0023", "text": "Status of LOT-81477?", "pii": null, "kind": "clean"}
+{"id": "N0024", "text": "What is the storage temperature for SKU-024?", "pii": null, "kind": "clean"}
+{"id": "N0025", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0026", "text": "Status of LOT-53817?", "pii": null, "kind": "clean"}
+{"id": "N0027", "text": "Purchases above $15,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0028", "text": "Status of LOT-69242?", "pii": null, "kind": "clean"}
+{"id": "N0029", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0030", "text": "Reading was 2°C for 4 hours", "pii": null, "kind": "clean"}
+{"id": "N0031", "text": "Purchases above $69,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0032", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0033", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0034", "text": "Purchases above $72,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0035", "text": "Purchases above $89,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0036", "text": "Reading was 15°C for 4 hours", "pii": null, "kind": "clean"}
+{"id": "N0037", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0038", "text": "Reading was 6°C for 8 hours", "pii": null, "kind": "clean"}
+{"id": "N0039", "text": "Status of LOT-11526?", "pii": null, "kind": "clean"}
+{"id": "N0040", "text": "Reading was 9°C for 1 hours", "pii": null, "kind": "clean"}
+{"id": "N0041", "text": "Status of LOT-02808?", "pii": null, "kind": "clean"}
+{"id": "N0042", "text": "Purchases above $77,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0043", "text": "Purchases above $72,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0044", "text": "What is the storage temperature for SKU-003?", "pii": null, "kind": "clean"}
+{"id": "N0045", "text": "What is the storage temperature for SKU-013?", "pii": null, "kind": "clean"}
+{"id": "N0046", "text": "What is the storage temperature for SKU-003?", "pii": null, "kind": "clean"}
+{"id": "N0047", "text": "What is the storage temperature for SKU-013?", "pii": null, "kind": "clean"}
+{"id": "N0048", "text": "Status of LOT-21628?", "pii": null, "kind": "clean"}
+{"id": "N0049", "text": "Reading was 12°C for 9 hours", "pii": null, "kind": "clean"}
+{"id": "N0050", "text": "Status of LOT-87089?", "pii": null, "kind": "clean"}
+{"id": "N0051", "text": "Purchases above $58,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0052", "text": "Purchases above $47,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0053", "text": "Status of LOT-90694?", "pii": null, "kind": "clean"}
+{"id": "N0054", "text": "Status of LOT-14803?", "pii": null, "kind": "clean"}
+{"id": "N0055", "text": "Reading was 8°C for 9 hours", "pii": null, "kind": "clean"}
+{"id": "N0056", "text": "What is the storage temperature for SKU-016?", "pii": null, "kind": "clean"}
+{"id": "N0057", "text": "Status of LOT-36363?", "pii": null, "kind": "clean"}
+{"id": "N0058", "text": "Purchases above $29,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0059", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0060", "text": "Purchases above $21,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0061", "text": "Status of LOT-46799?", "pii": null, "kind": "clean"}
+{"id": "N0062", "text": "Status of LOT-55972?", "pii": null, "kind": "clean"}
+{"id": "N0063", "text": "What is the storage temperature for SKU-025?", "pii": null, "kind": "clean"}
+{"id": "N0064", "text": "Reading was 9°C for 1 hours", "pii": null, "kind": "clean"}
+{"id": "N0065", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0066", "text": "Status of LOT-74848?", "pii": null, "kind": "clean"}
+{"id": "N0067", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0068", "text": "Status of LOT-16521?", "pii": null, "kind": "clean"}
+{"id": "N0069", "text": "Reading was 14°C for 8 hours", "pii": null, "kind": "clean"}
+{"id": "N0070", "text": "Purchases above $17,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0071", "text": "Purchases above $53,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0072", "text": "Reading was 14°C for 9 hours", "pii": null, "kind": "clean"}
+{"id": "N0073", "text": "Reading was 6°C for 8 hours", "pii": null, "kind": "clean"}
+{"id": "N0074", "text": "Status of LOT-57861?", "pii": null, "kind": "clean"}
+{"id": "N0075", "text": "Purchases above $71,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0076", "text": "Status of LOT-69502?", "pii": null, "kind": "clean"}
+{"id": "N0077", "text": "What is the storage temperature for SKU-001?", "pii": null, "kind": "clean"}
+{"id": "N0078", "text": "Status of LOT-43512?", "pii": null, "kind": "clean"}
+{"id": "N0079", "text": "What is the storage temperature for SKU-002?", "pii": null, "kind": "clean"}
+{"id": "N0080", "text": "Status of LOT-41029?", "pii": null, "kind": "clean"}
+{"id": "N0081", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0082", "text": "Purchases above $19,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0083", "text": "Status of LOT-85169?", "pii": null, "kind": "clean"}
+{"id": "N0084", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0085", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0086", "text": "Status of LOT-27688?", "pii": null, "kind": "clean"}
+{"id": "N0087", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0088", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0089", "text": "Status of LOT-44475?", "pii": null, "kind": "clean"}
+{"id": "N0090", "text": "Reading was 9°C for 4 hours", "pii": null, "kind": "clean"}
+{"id": "N0091", "text": "Reading was 4°C for 9 hours", "pii": null, "kind": "clean"}
+{"id": "N0092", "text": "Reading was 12°C for 2 hours", "pii": null, "kind": "clean"}
+{"id": "N0093", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0094", "text": "Reading was 14°C for 3 hours", "pii": null, "kind": "clean"}
+{"id": "N0095", "text": "Reading was 8°C for 9 hours", "pii": null, "kind": "clean"}
+{"id": "N0096", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0097", "text": "What is the storage temperature for SKU-020?", "pii": null, "kind": "clean"}
+{"id": "N0098", "text": "What is the storage temperature for SKU-001?", "pii": null, "kind": "clean"}
+{"id": "N0099", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0100", "text": "Status of LOT-80704?", "pii": null, "kind": "clean"}
+{"id": "N0101", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0102", "text": "Status of LOT-52311?", "pii": null, "kind": "clean"}
+{"id": "N0103", "text": "Reading was 6°C for 7 hours", "pii": null, "kind": "clean"}
+{"id": "N0104", "text": "Reading was 4°C for 9 hours", "pii": null, "kind": "clean"}
+{"id": "N0105", "text": "What is the storage temperature for SKU-010?", "pii": null, "kind": "clean"}
+{"id": "N0106", "text": "Status of LOT-11403?", "pii": null, "kind": "clean"}
+{"id": "N0107", "text": "What is the storage temperature for SKU-013?", "pii": null, "kind": "clean"}
+{"id": "N0108", "text": "Reading was 5°C for 8 hours", "pii": null, "kind": "clean"}
+{"id": "N0109", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0110", "text": "Purchases above $34,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0111", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0112", "text": "Reading was 14°C for 3 hours", "pii": null, "kind": "clean"}
+{"id": "N0113", "text": "What is the storage temperature for SKU-030?", "pii": null, "kind": "clean"}
+{"id": "N0114", "text": "Reading was 13°C for 3 hours", "pii": null, "kind": "clean"}
+{"id": "N0115", "text": "Purchases above $13,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0116", "text": "What is the storage temperature for SKU-030?", "pii": null, "kind": "clean"}
+{"id": "N0117", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0118", "text": "Reading was 2°C for 4 hours", "pii": null, "kind": "clean"}
+{"id": "N0119", "text": "Status of LOT-69277?", "pii": null, "kind": "clean"}
+{"id": "N0120", "text": "Reading was 6°C for 8 hours", "pii": null, "kind": "clean"}
+{"id": "N0121", "text": "Reading was 8°C for 5 hours", "pii": null, "kind": "clean"}
+{"id": "N0122", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0123", "text": "Purchases above $69,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0124", "text": "Purchases above $15,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0125", "text": "Purchases above $39,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0126", "text": "Reading was 7°C for 4 hours", "pii": null, "kind": "clean"}
+{"id": "N0127", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0128", "text": "What is the storage temperature for SKU-018?", "pii": null, "kind": "clean"}
+{"id": "N0129", "text": "Reading was 14°C for 2 hours", "pii": null, "kind": "clean"}
+{"id": "N0130", "text": "Reading was 8°C for 6 hours", "pii": null, "kind": "clean"}
+{"id": "N0131", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0132", "text": "What is the storage temperature for SKU-011?", "pii": null, "kind": "clean"}
+{"id": "N0133", "text": "What is the storage temperature for SKU-016?", "pii": null, "kind": "clean"}
+{"id": "N0134", "text": "What is the storage temperature for SKU-003?", "pii": null, "kind": "clean"}
+{"id": "N0135", "text": "Reading was 7°C for 7 hours", "pii": null, "kind": "clean"}
+{"id": "N0136", "text": "Reading was 4°C for 2 hours", "pii": null, "kind": "clean"}
+{"id": "N0137", "text": "Status of LOT-41614?", "pii": null, "kind": "clean"}
+{"id": "N0138", "text": "What is the storage temperature for SKU-014?", "pii": null, "kind": "clean"}
+{"id": "N0139", "text": "Purchases above $18,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0140", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0141", "text": "Reading was 5°C for 7 hours", "pii": null, "kind": "clean"}
+{"id": "N0142", "text": "Status of LOT-51690?", "pii": null, "kind": "clean"}
+{"id": "N0143", "text": "What is the storage temperature for SKU-030?", "pii": null, "kind": "clean"}
+{"id": "N0144", "text": "Status of LOT-94353?", "pii": null, "kind": "clean"}
+{"id": "N0145", "text": "Purchases above $14,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0146", "text": "Purchases above $25,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0147", "text": "Status of LOT-56851?", "pii": null, "kind": "clean"}
+{"id": "N0148", "text": "Reading was 4°C for 7 hours", "pii": null, "kind": "clean"}
+{"id": "N0149", "text": "Status of LOT-81221?", "pii": null, "kind": "clean"}
+{"id": "N0150", "text": "Reading was 5°C for 5 hours", "pii": null, "kind": "clean"}
+{"id": "N0151", "text": "Purchases above $34,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0152", "text": "Status of LOT-24300?", "pii": null, "kind": "clean"}
+{"id": "N0153", "text": "Reading was 4°C for 8 hours", "pii": null, "kind": "clean"}
+{"id": "N0154", "text": "What is the storage temperature for SKU-006?", "pii": null, "kind": "clean"}
+{"id": "N0155", "text": "Status of LOT-17329?", "pii": null, "kind": "clean"}
+{"id": "N0156", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0157", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0158", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0159", "text": "Reading was 15°C for 6 hours", "pii": null, "kind": "clean"}
+{"id": "N0160", "text": "What is the storage temperature for SKU-028?", "pii": null, "kind": "clean"}
+{"id": "N0161", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0162", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0163", "text": "Purchases above $59,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0164", "text": "Purchases above $51,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0165", "text": "Status of LOT-81135?", "pii": null, "kind": "clean"}
+{"id": "N0166", "text": "Reading was 10°C for 2 hours", "pii": null, "kind": "clean"}
+{"id": "N0167", "text": "What is the storage temperature for SKU-006?", "pii": null, "kind": "clean"}
+{"id": "N0168", "text": "What is the storage temperature for SKU-011?", "pii": null, "kind": "clean"}
+{"id": "N0169", "text": "Reading was 15°C for 7 hours", "pii": null, "kind": "clean"}
+{"id": "N0170", "text": "What is the storage temperature for SKU-023?", "pii": null, "kind": "clean"}
+{"id": "N0171", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0172", "text": "Status of LOT-46463?", "pii": null, "kind": "clean"}
+{"id": "N0173", "text": "Status of LOT-28508?", "pii": null, "kind": "clean"}
+{"id": "N0174", "text": "What is the storage temperature for SKU-019?", "pii": null, "kind": "clean"}
+{"id": "N0175", "text": "Purchases above $89,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0176", "text": "What is the storage temperature for SKU-006?", "pii": null, "kind": "clean"}
+{"id": "N0177", "text": "Reading was 6°C for 9 hours", "pii": null, "kind": "clean"}
+{"id": "N0178", "text": "What is the storage temperature for SKU-013?", "pii": null, "kind": "clean"}
+{"id": "N0179", "text": "Reading was 5°C for 5 hours", "pii": null, "kind": "clean"}
+{"id": "N0180", "text": "Reading was 4°C for 1 hours", "pii": null, "kind": "clean"}
+{"id": "N0181", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0182", "text": "What is the storage temperature for SKU-025?", "pii": null, "kind": "clean"}
+{"id": "N0183", "text": "What is the storage temperature for SKU-020?", "pii": null, "kind": "clean"}
+{"id": "N0184", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0185", "text": "Purchases above $61,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0186", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0187", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0188", "text": "Status of LOT-25307?", "pii": null, "kind": "clean"}
+{"id": "N0189", "text": "What is the storage temperature for SKU-014?", "pii": null, "kind": "clean"}
+{"id": "N0190", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0191", "text": "Reading was 13°C for 3 hours", "pii": null, "kind": "clean"}
+{"id": "N0192", "text": "Status of LOT-67046?", "pii": null, "kind": "clean"}
+{"id": "N0193", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0194", "text": "Status of LOT-65877?", "pii": null, "kind": "clean"}
+{"id": "N0195", "text": "Purchases above $89,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0196", "text": "What is the storage temperature for SKU-006?", "pii": null, "kind": "clean"}
+{"id": "N0197", "text": "Reading was 14°C for 4 hours", "pii": null, "kind": "clean"}
+{"id": "N0198", "text": "Purchases above $50,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0199", "text": "Status of LOT-31386?", "pii": null, "kind": "clean"}
+{"id": "N0200", "text": "Status of LOT-44553?", "pii": null, "kind": "clean"}
+{"id": "N0201", "text": "Purchases above $13,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0202", "text": "What is the storage temperature for SKU-018?", "pii": null, "kind": "clean"}
+{"id": "N0203", "text": "What is the storage temperature for SKU-017?", "pii": null, "kind": "clean"}
+{"id": "N0204", "text": "What is the storage temperature for SKU-029?", "pii": null, "kind": "clean"}
+{"id": "N0205", "text": "Purchases above $58,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0206", "text": "Purchases above $22,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0207", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0208", "text": "Reading was 15°C for 9 hours", "pii": null, "kind": "clean"}
+{"id": "N0209", "text": "Status of LOT-78209?", "pii": null, "kind": "clean"}
+{"id": "N0210", "text": "Purchases above $10,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0211", "text": "Purchases above $9,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0212", "text": "Status of LOT-03908?", "pii": null, "kind": "clean"}
+{"id": "N0213", "text": "Reading was 2°C for 1 hours", "pii": null, "kind": "clean"}
+{"id": "N0214", "text": "What is the storage temperature for SKU-006?", "pii": null, "kind": "clean"}
+{"id": "N0215", "text": "What is the storage temperature for SKU-023?", "pii": null, "kind": "clean"}
+{"id": "N0216", "text": "Reading was 3°C for 3 hours", "pii": null, "kind": "clean"}
+{"id": "N0217", "text": "What is the storage temperature for SKU-028?", "pii": null, "kind": "clean"}
+{"id": "N0218", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0219", "text": "Status of LOT-20103?", "pii": null, "kind": "clean"}
+{"id": "N0220", "text": "Reading was 6°C for 7 hours", "pii": null, "kind": "clean"}
+{"id": "N0221", "text": "Status of LOT-13746?", "pii": null, "kind": "clean"}
+{"id": "N0222", "text": "Status of LOT-77980?", "pii": null, "kind": "clean"}
+{"id": "N0223", "text": "Reading was 13°C for 6 hours", "pii": null, "kind": "clean"}
+{"id": "N0224", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0225", "text": "What is the storage temperature for SKU-010?", "pii": null, "kind": "clean"}
+{"id": "N0226", "text": "What is the storage temperature for SKU-026?", "pii": null, "kind": "clean"}
+{"id": "N0227", "text": "Reading was 12°C for 5 hours", "pii": null, "kind": "clean"}
+{"id": "N0228", "text": "Reading was 7°C for 4 hours", "pii": null, "kind": "clean"}
+{"id": "N0229", "text": "Reading was 10°C for 7 hours", "pii": null, "kind": "clean"}
+{"id": "N0230", "text": "Purchases above $60,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0231", "text": "Status of LOT-83110?", "pii": null, "kind": "clean"}
+{"id": "N0232", "text": "What is the storage temperature for SKU-015?", "pii": null, "kind": "clean"}
+{"id": "N0233", "text": "What is the storage temperature for SKU-016?", "pii": null, "kind": "clean"}
+{"id": "N0234", "text": "Purchases above $9,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0235", "text": "Reading was 13°C for 4 hours", "pii": null, "kind": "clean"}
+{"id": "N0236", "text": "What is the storage temperature for SKU-003?", "pii": null, "kind": "clean"}
+{"id": "N0237", "text": "Reading was 4°C for 4 hours", "pii": null, "kind": "clean"}
+{"id": "N0238", "text": "Purchases above $39,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0239", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0240", "text": "Reading was 10°C for 9 hours", "pii": null, "kind": "clean"}
+{"id": "N0241", "text": "Purchases above $10,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0242", "text": "Purchases above $70,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0243", "text": "Status of LOT-78634?", "pii": null, "kind": "clean"}
+{"id": "N0244", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0245", "text": "Reading was 13°C for 7 hours", "pii": null, "kind": "clean"}
+{"id": "N0246", "text": "Status of LOT-50047?", "pii": null, "kind": "clean"}
+{"id": "N0247", "text": "Status of LOT-16250?", "pii": null, "kind": "clean"}
+{"id": "N0248", "text": "Reading was 15°C for 7 hours", "pii": null, "kind": "clean"}
+{"id": "N0249", "text": "Purchases above $59,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0250", "text": "Reading was 6°C for 4 hours", "pii": null, "kind": "clean"}
+{"id": "N0251", "text": "What is the storage temperature for SKU-012?", "pii": null, "kind": "clean"}
+{"id": "N0252", "text": "Reading was 13°C for 1 hours", "pii": null, "kind": "clean"}
+{"id": "N0253", "text": "Purchases above $36,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0254", "text": "What is the storage temperature for SKU-026?", "pii": null, "kind": "clean"}
+{"id": "N0255", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0256", "text": "What is the storage temperature for SKU-028?", "pii": null, "kind": "clean"}
+{"id": "N0257", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0258", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0259", "text": "Status of LOT-07531?", "pii": null, "kind": "clean"}
+{"id": "N0260", "text": "Purchases above $39,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0261", "text": "Status of LOT-33223?", "pii": null, "kind": "clean"}
+{"id": "N0262", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0263", "text": "What is the storage temperature for SKU-030?", "pii": null, "kind": "clean"}
+{"id": "N0264", "text": "Reading was 12°C for 9 hours", "pii": null, "kind": "clean"}
+{"id": "N0265", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0266", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0267", "text": "Purchases above $20,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0268", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0269", "text": "Status of LOT-84367?", "pii": null, "kind": "clean"}
+{"id": "N0270", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0271", "text": "What is the storage temperature for SKU-023?", "pii": null, "kind": "clean"}
+{"id": "N0272", "text": "Purchases above $36,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0273", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0274", "text": "Status of LOT-54214?", "pii": null, "kind": "clean"}
+{"id": "N0275", "text": "Reading was 8°C for 7 hours", "pii": null, "kind": "clean"}
+{"id": "N0276", "text": "Purchases above $9,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0277", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0278", "text": "What is the storage temperature for SKU-021?", "pii": null, "kind": "clean"}
+{"id": "N0279", "text": "Purchases above $51,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0280", "text": "Status of LOT-59285?", "pii": null, "kind": "clean"}
+{"id": "N0281", "text": "Reading was 11°C for 1 hours", "pii": null, "kind": "clean"}
+{"id": "N0282", "text": "Purchases above $46,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0283", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0284", "text": "What is the storage temperature for SKU-003?", "pii": null, "kind": "clean"}
+{"id": "N0285", "text": "Status of LOT-49887?", "pii": null, "kind": "clean"}
+{"id": "N0286", "text": "What is the storage temperature for SKU-030?", "pii": null, "kind": "clean"}
+{"id": "N0287", "text": "What is the storage temperature for SKU-011?", "pii": null, "kind": "clean"}
+{"id": "N0288", "text": "Status of LOT-69497?", "pii": null, "kind": "clean"}
+{"id": "N0289", "text": "Status of LOT-51760?", "pii": null, "kind": "clean"}
+{"id": "N0290", "text": "Reading was 5°C for 3 hours", "pii": null, "kind": "clean"}
+{"id": "N0291", "text": "Status of LOT-26645?", "pii": null, "kind": "clean"}
+{"id": "N0292", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0293", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0294", "text": "Purchases above $26,000 need approval", "pii": null, "kind": "clean"}
+{"id": "N0295", "text": "What is the storage temperature for SKU-003?", "pii": null, "kind": "clean"}
+{"id": "N0296", "text": "Reorder point is 120 units", "pii": null, "kind": "clean"}
+{"id": "N0297", "text": "What is the storage temperature for SKU-018?", "pii": null, "kind": "clean"}
+{"id": "N0298", "text": "Status of LOT-20499?", "pii": null, "kind": "clean"}
+{"id": "N0299", "text": "Status of LOT-43371?", "pii": null, "kind": "clean"}
